@@ -1,0 +1,31 @@
+C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/nbit_alu.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/nbit_alu.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALUx
+
+Top level modules:
+	ALUx
+
+} {} {}} C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/priorityEncoder.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/priorityEncoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module priorityEncoder
+
+Top level modules:
+	priorityEncoder
+
+} {} {}} C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/BCD_Encoder.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/BCD_Encoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BCD_Encoder
+
+Top level modules:
+	BCD_Encoder
+
+} {} {}} C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/mux2.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session1/mux2.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux2_1
+-- Compiling module mux2_2
+
+Top level modules:
+	mux2_1
+	mux2_2
+
+} {} {}}
