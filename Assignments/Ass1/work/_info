@@ -9,6 +9,7 @@ R0
 R0
 R0
 R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -18,16 +19,15 @@ R0
 cModel Technology
 Z1 dF:/questasim64_2021.1/examples
 T_opt
-!s110 1751399687
-V<j_ca;LDo]GiWNDUXgCzW2
-04 10 4 work Q4_decoder fast 0
-=1-0023cdb817c1-68643d07-60-6c14
+!s110 1751408866
+VhnUkf]ERzajTV0NDh=;6C1
+04 16 4 work SevenSeg_decoder fast 0
+=1-0023cdb817c1-686460e2-255-2068
 Z2 !s124 OEM100
 Z3 o-quiet -auto_acc_if_foreign -work work +acc
 Z4 tCvgOpt 0
 n@_opt
 Z5 OL;O;2021.1;73
-R1
 T_opt1
 !s110 1751402043
 VgNmgdoCD:?je5oTSK]a=E3
@@ -49,31 +49,55 @@ R3
 R4
 n@_opt2
 R5
+R1
+vALUx
+Z7 !s110 1751408842
+!i10b 1
+!s100 XbP6o5dz34RD16UTOH3AP1
+I0dMBj]IofIbHQA<6SaOJb1
+Z8 dD:/Github/DigitalDesign_Diploma/Assignments/Ass1
+Z9 w1751408836
+Z10 8D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v
+Z11 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v
+!i122 22
+L0 1 17
+Z12 VDg1SIo80bB@j0V0VzS_@n1
+Z13 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z14 !s108 1751408842.000000
+Z15 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v|
+Z16 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v|
+!i113 0
+Z17 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@a@l@ux
 vQ1
-Z7 !s110 1751399607
+Z18 !s110 1751399607
 !i10b 1
 !s100 4]<CTcWRH<COiDC]=[?GA3
 IBYNSYJ8ZK9j__7nFH`=gU2
-Z8 dD:/Github/DigitalDesign_Diploma/Assignments/Ass1
+R8
 w1751391985
 8D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v
 !i122 11
 L0 1 12
-Z9 VDg1SIo80bB@j0V0VzS_@n1
-Z10 OL;L;2021.1;73
+R12
+R13
 r1
 !s85 0
 31
-Z11 !s108 1751399607.000000
+Z19 !s108 1751399607.000000
 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v|
 !i113 0
-Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R17
 R4
 n@q1
 vQ2
-R7
+R18
 !i10b 1
 !s100 1]mJfWM@9a=?`IENbcXn61
 ISeD=FC@n``4z3E:KcYU[`2
@@ -83,20 +107,20 @@ w1751394039
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v
 !i122 12
 L0 1 15
-R9
-R10
+R12
+R13
 r1
 !s85 0
 31
-R11
+R19
 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v|
 !i113 0
-R12
+R17
 R4
 n@q2
 vQ3_adder
-R7
+R18
 !i10b 1
 !s100 6JR>Ml^:n^[69dE6RX>Ie0
 Igi_fYEn<`Ha;aXUXUVIgI0
@@ -106,16 +130,16 @@ w1751395894
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q3.v
 !i122 13
 L0 1 8
-R9
-R10
+R12
+R13
 r1
 !s85 0
 31
-R11
+R19
 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q3.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q3.v|
 !i113 0
-R12
+R17
 R4
 n@q3_adder
 vQ4_decoder
@@ -129,8 +153,8 @@ w1751400062
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q4_2to4Decoder.v
 !i122 16
 L0 1 10
-R9
-R10
+R12
+R13
 r1
 !s85 0
 31
@@ -138,7 +162,7 @@ r1
 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q4_2to4Decoder.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q4_2to4Decoder.v|
 !i113 0
-R12
+R17
 R4
 n@q4_decoder
 vQ5
@@ -152,8 +176,8 @@ w1751401980
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q5.v
 !i122 17
 L0 1 9
-R9
-R10
+R12
+R13
 r1
 !s85 0
 31
@@ -161,6 +185,29 @@ r1
 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q5.v|
 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q5.v|
 !i113 0
-R12
+R17
 R4
 n@q5
+vSevenSeg_decoder
+R7
+!i10b 1
+!s100 Aa9KJl8o5eD1P[ZhBQDJ:2
+InH>>1abJodZeZ@V2B>VeY2
+R8
+R9
+R10
+R11
+!i122 22
+L0 19 39
+R12
+R13
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 0
+R17
+R4
+n@seven@seg_decoder

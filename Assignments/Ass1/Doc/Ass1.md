@@ -58,10 +58,22 @@ Question: Design a 4-bit adder
 
 ## Question 5
 
-![Question 5](image-6.png){ width=50% }
+Question: Implement an even parity generator module using assign statement.
 
-**Solution:**
+**Solution:** Model Generates Even Parity
 
 ![Q5 Code](image-9.png){ width=60% }
 
-{ width=60% }
+![Q5 Waveform](image-10.png){ width=50% }
+
+\newpage
+
+## Question 6
+
+![Question 6](image-13.png){ width=40% }
+
+**Solution:**
+
+![Q6 Code](image-12.png){ width=60% }
+
+![Q6 Waveform](image-11.png){ width=50% }
