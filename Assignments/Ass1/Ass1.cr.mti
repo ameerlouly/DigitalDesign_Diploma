@@ -1,4 +1,19 @@
-D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v
+D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q6.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALUx
+-- Compiling module SevenSeg_decoder
+
+Top level modules:
+	SevenSeg_decoder
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q4_2to4Decoder.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q4_2to4Decoder.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Q4_decoder
+
+Top level modules:
+	Q4_decoder
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q2.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module Q2
 
@@ -11,6 +26,13 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 
 Top level modules:
 	Q3_adder
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q5.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q5.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Q5
+
+Top level modules:
+	Q5
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass1/Q1.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
