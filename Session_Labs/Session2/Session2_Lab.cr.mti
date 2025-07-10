@@ -1,0 +1,10 @@
+D:/Github/DigitalDesign_Diploma/Session_Labs/Session2/Q1.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session2/Q1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux31_2
+-- Compiling module mux31_3
+-- Compiling module mux31_tb
+
+Top level modules:
+	mux31_tb
+
+} {} {}}
