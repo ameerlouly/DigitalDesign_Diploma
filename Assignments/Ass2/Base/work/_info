@@ -139,3 +139,113 @@ R12
 R5
 R1
 n@a@l@ux_tb4
+vdata_latch
+!s110 1752165108
+!i10b 1
+!s100 ?fz07:f4]HL@eG_@Z9]1g2
+I[1D3[72T<lPPEIQG7_`N@2
+Z13 dC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base
+w1752164776
+8C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v
+FC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v
+!i122 9
+L0 1 11
+R3
+R4
+r1
+!s85 0
+31
+!s108 1752165107.000000
+!s107 C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v|
+!i113 0
+R5
+R1
+vdff
+Z14 !s110 1752167016
+!i10b 1
+!s100 W_]SJc;:OnKS7oLlge<213
+I]kZThW;:TURS37ARf<jo50
+R13
+Z15 w1752167008
+Z16 8C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v
+Z17 FC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v
+!i122 12
+L0 17 15
+R3
+R4
+r1
+!s85 0
+31
+Z18 !s108 1752167016.000000
+!s107 C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v|
+!i113 0
+R5
+R1
+vff
+R14
+!i10b 1
+!s100 cEaJjjW@G]T^G4Ko[dE9W2
+IkoFaf91AhGGGU?ROD6:SG3
+R13
+R15
+R16
+R17
+!i122 12
+L0 33 12
+R3
+R4
+r1
+!s85 0
+31
+R18
+Z20 !s107 C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v|
+R19
+!i113 0
+R5
+R1
+vlatch4
+!s110 1752165947
+!i10b 1
+!s100 Oe^3oJ`0b[CU8R;3hXN9S2
+I?dMI4N9U`cka=0L8]4PRj1
+R13
+w1752165836
+8C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v
+FC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v
+!i122 10
+L0 1 16
+R3
+R4
+r1
+!s85 0
+31
+!s108 1752165947.000000
+!s107 C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v|
+!i113 0
+R5
+R1
+vtff
+R14
+!i10b 1
+!s100 Ame5EXYP6eaBAa?_ANL`S3
+Ii5WAdnRkMKQJoHUGFkID;1
+R13
+R15
+R16
+R17
+!i122 12
+L0 1 15
+R3
+R4
+r1
+!s85 0
+31
+R18
+R20
+R19
+!i113 0
+R5
+R1

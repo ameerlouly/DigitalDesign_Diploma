@@ -1,1 +1,24 @@
+C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q4.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module latch4
 
+Top level modules:
+	latch4
+
+} {} {}} C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q5.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tff
+-- Compiling module dff
+-- Compiling module ff
+
+Top level modules:
+	ff
+
+} {} {}} C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v {1 {vlog -work work -vopt -stats=none C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Assignments/Ass2/Base/Q3.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_latch
+
+Top level modules:
+	data_latch
+
+} {} {}}
