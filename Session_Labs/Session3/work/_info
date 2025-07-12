@@ -1,0 +1,121 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questasim64_2021.1/examples
+T_opt
+!s110 1752263550
+VBBQJFBN1VUTbFY2]2FMCW3
+04 10 4 work alu_seq_tb fast 0
+=1-c8f7504ee12a-68716b7d-172-1410
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU4_seq
+!s110 1752260051
+!i10b 1
+!s100 W_kEk0]E3P2PlI?RL?4>_3
+I3cX@7<VFdBBP5XCM<BJA_3
+Z2 dC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session3
+w1752260041
+Z3 8C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v
+Z4 FC:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v
+!i122 3
+L0 1 29
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1752260051.000000
+Z7 !s107 C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/User/Documents/GitHub/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u4_seq
+valu_seq
+Z10 !s110 1752263538
+!i10b 1
+!s100 @GV;X2_I@fN667g`Z09lW1
+Io0[olmS5VmBmGhU9j^hE^2
+R2
+w1752263531
+84BitALU.v
+F4BitALU.v
+!i122 24
+L0 1 34
+R5
+R6
+r1
+!s85 0
+31
+Z11 !s108 1752263538.000000
+Z12 !s107 alu_seq_tb.v|4BitALU.v|
+Z13 !s90 -reportprogress|300|4BitALU.v|alu_seq_tb.v|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu_seq_tb
+R10
+!i10b 1
+!s100 `CWVeKXILaadJU[?@fJkI0
+IT7gPjUXN38^9lJk>75zeO0
+R2
+w1752263045
+8alu_seq_tb.v
+Falu_seq_tb.v
+!i122 24
+L0 1 47
+R5
+R6
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R1
+vALUx
+!s110 1752263098
+!i10b 1
+!s100 8SVBbTInW;WU=_OdD]96b2
+I0XWWf5oTOYhPY7]FK;mTb1
+R2
+w1752262929
+R3
+R4
+!i122 21
+L0 32 17
+R5
+R6
+r1
+!s85 0
+31
+!s108 1752263098.000000
+R7
+R8
+!i113 0
+R9
+R1
+n@a@l@ux
