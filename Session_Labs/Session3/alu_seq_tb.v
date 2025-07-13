@@ -1,19 +1,21 @@
 module alu_seq_tb();
     reg [3:0] A, B;
     reg [1:0] opcode;
+    reg [7:0] out_expected;
     reg rst, clk;
-    wire [7:0] out, out_test;
+    
+    wire [7:0] out;
 
-    alu_seq aluDUT(A, B, rst, clk, opcode, out);
+    alu_seq aluDUT(A, B, opcode, rst, clk, out);
 
     initial begin
         clk = 0;
         forever
-            #10 clk = ~clk;
+            #1 clk = ~clk;
     end
 
     initial begin
-        $monitor("A = %d, B = %d, out = %d", A, B, out);
+        $monitor("A = %d, B = %d, opcode: %d, out = %d", A, B, opcode, out);
     end
 
     integer i;
@@ -21,7 +23,7 @@ module alu_seq_tb();
         rst = 1;
         A = 4'd5;
         B = 4'd5;
-        @(negedge clk)
+        repeat(2) @(negedge clk)
         if(out != 0) begin
             $display("Reset Not working");
             $stop;
@@ -32,14 +34,21 @@ module alu_seq_tb();
         for(i = 0; i < 100; i = i + 1) begin
             A = $random;
             B = $random;
-            opcode = 0;
-            @(negedge clk);
-            // case(i)
-            //     0: if(out != (A + B)) begin $display("Sum doesnt work"); $stop; end 
-            //     0: if(out != (A | B)) begin $display("OR doesnt work"); $stop; end
-            //     0: if(out != (A - B)) begin $display("Minus doesnt work"); $stop; end
-            //     0: if(out != (A ^ B)) begin $display("XOR doesnt work"); $stop; end
-            // endcase
+            opcode = $random;
+
+            case(opcode)
+                0: out_expected = A + B;
+                1: out_expected = A * B;
+                2: out_expected = A - B;
+                3: out_expected = A & B;
+            endcase
+            
+            repeat (2) @(negedge clk);
+
+            if(out != out_expected) begin
+                $display("Design Error");
+                $stop;
+            end            
         end
         $display("Design Works");
         $stop;
