@@ -1,0 +1,4 @@
+m_allSignalsCdcSignals : 1 , m_preferCdcSignalReporting : 0, m_topModule : alu_seq
+
+Module : alu_seq
+

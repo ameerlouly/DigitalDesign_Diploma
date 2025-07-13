@@ -1,0 +1,91 @@
+====================================================================================================
+Lint Check Report
+Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
+
+Timestamp            : Sun Jul 13 17:35:24 2025
+Description          : Report for referring checks count, check violations details, and  design information
+Design               : alu_seq
+Database             : D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/lint.db
+Design Quality Score : 100%
+
+Sections:
+   Section 1 : Check Summary
+   Section 2 : Check Details
+   Section 3 : Design Information
+====================================================================================================
+
+
+====================================================================================================
+Section 1 : Check Summary
+====================================================================================================
+-------------
+| Error (0) |
+-------------
+
+---------------
+| Warning (0) |
+---------------
+
+------------
+| Info (2) |
+------------
+  async_reset_active_high                 : 1
+  multi_ports_in_single_line              : 1
+
+----------------
+| Resolved (0) |
+----------------
+
+
+====================================================================================================
+Section 2 : Check Details
+====================================================================================================
+-------------
+| Error (0) |
+-------------
+
+
+---------------
+| Warning (0) |
+---------------
+
+
+------------
+| Info (2) |
+------------
+
+Check: async_reset_active_high [Category: Clock] (1)
+       [Message: Asynchronous reset is active high. Reset '<reset>', Module '<module>', File '<file>', Line '<line>'.]
+-----------------------------------------------------------------------------------------------------------------------
+async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'rst', Module 'alu_seq', File 'D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v', Line '12'.
+    1 more occurrence at: line 22.
+
+
+Check: multi_ports_in_single_line [Category: Rtl Design Style] (1)
+       [Message: Multiple ports are declared in one line. Module '<module>', File '<file>', Line '<line>'.]
+------------------------------------------------------------------------------------------------------------
+multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'alu_seq', File 'D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v', Line '2'.
+    1 more occurrence at: line 4.
+
+
+
+----------------
+| Resolved (0) |
+----------------
+
+
+
+====================================================================================================
+Section 3 : Design Information
+====================================================================================================
+-----------
+| Summary |
+-----------
+  Register Bits                           : 18
+  Latch Bits                              : 0
+  User-specified Blackboxes               : 0
+  Inferred Blackboxes                     : 0
+  Empty Modules                           : 0
+  Unresolved Modules                      : 0
+  Hierarchical IPs                        : 0
+

@@ -1,0 +1,56 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test
+valu_seq
+Z1 !s110 1752415040
+!i10b 1
+!s100 n=Y6R1oOK9PH2eoXnze:e2
+IdVCK530zHoDoNhgla`6l73
+R0
+Z2 w1752409698
+Z3 8D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v
+Z4 FD:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v
+!i122 0
+L0 1 35
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1752415040.000000
+!s107 D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v|
+Z8 !s90 D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v|-work|work|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vALUx
+R1
+!i10b 1
+!s100 9SXcf=A5VR5>Sc?j2hXcH3
+IeHeRedO58BALF?>SV`bF;3
+R0
+R2
+R3
+R4
+!i122 0
+L0 37 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v|
+R8
+!i113 0
+R9
+R10
+n@a@l@ux

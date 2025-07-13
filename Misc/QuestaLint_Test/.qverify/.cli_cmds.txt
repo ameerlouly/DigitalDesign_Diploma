@@ -1,0 +1,69 @@
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 5
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 6
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vmap work work
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 7
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlog D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v -work work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 1386
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .elab.log  -cli -internal -cmd elab -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_1 -tool lint -d ALU -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 1592
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .elab.log  -cli -internal -cmd elab -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_2 -tool lint -d ALU -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 413
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .elab.log  -cli -internal -cmd elab -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_3 -tool lint -d ALU -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 619
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .elab.log  -cli -internal -cmd elab -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_4 -tool lint -d ALU -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 825
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .elab.log  -cli -internal -cmd elab -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_5 -tool lint -d alu_seq -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 825
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .createnl.log  -cli -internal -cmd create_netlist -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_5 -tool lint -d alu_seq -L work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 827
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test -l .qlcstatus.log  -cli -internal -cmd qlc_status_update -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_6 -db D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/lint.db
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 828
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 829
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False) signal for any gui required action
+
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 830
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work

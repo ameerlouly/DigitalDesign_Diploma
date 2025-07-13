@@ -1,0 +1,51 @@
+>1
+>2
+13
+0:7:alu_seq
+1:4:work
+2:63:D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v
+3:1:A
+4:6:ALUOut
+5:4:Areg
+6:1:B
+7:4:Breg
+8:3:clk
+9:6:opcode
+10:9:opcodereg
+11:3:out
+12:3:rst
+<2
+>3
+4
+0:123:10 "scalar[3:0]" "<zin_internal>" 0 4 1 7 "integer[3:0]" "<zin_internal>" 0 10 32 3 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+1:123:10 "scalar[7:0]" "<zin_internal>" 0 4 1 7 "integer[7:0]" "<zin_internal>" 0 10 32 7 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+2:37:7 "scalar" "<zin_internal>" 0 0 1 0 0
+3:123:10 "scalar[1:0]" "<zin_internal>" 0 4 1 7 "integer[1:0]" "<zin_internal>" 0 10 32 1 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+<3
+>4
+b1f2l1.34t0;
+<4
+>5
+b10@3l2knt0;
+@4l9knt1;
+@5l7knt0;
+@6l2knt0;
+@7l7knt0;
+@8l4knt2;
+@9l3knt3;
+@10l8knt3;
+@11l5knt1;
+@12l4knt2;
+<5
+>6
+b6@3x1t0;
+@6x4t0;
+@9x7t3;
+@12x10t2;
+@8x6t2;
+@11d1x9t1;
+<6
+>7
+c0
+<7
+<1

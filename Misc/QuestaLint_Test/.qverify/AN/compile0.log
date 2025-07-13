@@ -1,0 +1,10 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 16:57:20 on Jul 13,2025
+vlog D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/4BitALU.v -work work 
+-- Compiling module alu_seq
+-- Compiling module ALUx
+
+Top level modules:
+	alu_seq
+End time: 16:57:20 on Jul 13,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

@@ -1,0 +1,6 @@
+Index@CheckId@Status@Category@DesignCategory@Severity@FileId@Module@ArgList@ClusterInfo@OldRtlId
+9bad6386@0@uninspected@Clock@Implementation@Info@0@"alu_seq"@"0:rst#1:alu_seq#2:D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v#"@"1"@""
+9bad6386_1@0@uninspected@Clock@Implementation@Info@0@"alu_seq"@"0:rst#1:alu_seq#2:D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v#"@"-1"@""
+28590b63@1@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"alu_seq"@"0:alu_seq#1:D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v#"@"1"@""
+28590b63_1@1@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"alu_seq"@"0:alu_seq#1:D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v#"@"-1"@""
+
