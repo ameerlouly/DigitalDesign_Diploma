@@ -1,0 +1,4 @@
+multi_ports_in_single_line:off
+re_entrant_output:on
+clk_port_conn_complex:off
+

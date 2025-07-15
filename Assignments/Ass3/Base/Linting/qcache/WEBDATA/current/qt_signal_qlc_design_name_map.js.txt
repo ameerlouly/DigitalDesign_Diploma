@@ -1,0 +1,6 @@
+0@#@genblk1[0].d_q_bar
+1@#@genblk1[1].d_q_bar
+2@#@genblk1[2].d_q_bar
+3@#@genblk1[3].d_q_bar
+4@#@clk
+

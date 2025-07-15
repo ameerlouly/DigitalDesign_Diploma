@@ -1,1 +1,38 @@
+D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dff_en_pre
 
+Top level modules:
+	dff_en_pre
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v {0 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ripple_counter
+** Error (suppressible): D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v(10): (vlog-2401) Extra semicolon found. This is permitted in SystemVerilog, but not permitted in Verilog.
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tff
+-- Compiling module dff
+-- Compiling module ff
+
+Top level modules:
+	ff
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dff_en_pre_tb
+
+Top level modules:
+	dff_en_pre_tb
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dff_tb
+-- Compiling module tff_tb
+
+Top level modules:
+	dff_tb
+	tff_tb
+
+} {} {}}

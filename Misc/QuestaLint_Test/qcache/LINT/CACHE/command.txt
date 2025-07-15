@@ -20,7 +20,7 @@ F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek
 
 Command: qlc_status_update
 Command Arguments:
-    -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_6
+    -zdb D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/qcache/DB/zdb_9
     -db D:/Github/DigitalDesign_Diploma/Misc/QuestaLint_Test/lint.db
 
 Questa Debug flags:

@@ -1,0 +1,9 @@
+1#@#module
+2#@#file
+3#@#line
+4#@#instance
+5#@#signal1
+6#@#signal2
+7#@#expression
+8#@#clock
+

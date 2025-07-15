@@ -1,0 +1,13 @@
+>8
+v366
+t7
+c8
+#0 p0 @zi_dff_o1_10*i1
+#1 p253 @zi_oper_24_o1_i1
+#2 p384 @dff_2078556637
+#3 p1105 @zi_oper_32_o4_4*i1
+#4 p1287 @zi_oper_32_o4_i3_i1
+#5 p1454 @zi_oper_38_o3_i4
+#6 p1597 @zi_oper_38_o1_i4
+#7 p1737 @ripple_counter
+<8

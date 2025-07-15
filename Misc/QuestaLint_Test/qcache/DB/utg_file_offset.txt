@@ -1,2 +1,2 @@
-alu_seq_365783704.utg.db:0
-alu_seq.utg.db:3175
+alu_seq_365783704.utg.db:6350
+alu_seq.utg.db:9525

@@ -1,0 +1,154 @@
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Tue Jul 15 14:15:59 2025 by test on AmeerLouly
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Tue Jul 15 14:15:30 2025 by test on AmeerLouly
+
+
+Command: netlist elaborate
+Command arguments:
+    -zdb
+      D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/qcache/DB/zdb_16
+    -tool lint
+    -d ripple_counter
+    -L work
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Elaborating Design...
+Reading MTI mapping for library mapping
+Writing all MTI mappings to vmap output ...
+
+Top level modules:
+	ripple_counter
+
+Analyzing design...
+-- Loading module z0in_work.ripple_counter
+
+Performing 103 Lint Checks
+=============================
+
+Lint Stage 1 of 5 - Pre Design Elaboration (4 checks)
+------------------------------------------------------
+-- Loading module z0in_work.dff
+Optimizing 2 design-units (inlining 0/5 module instances):
+-- Optimizing module z0in_work.dff(fast)
+Lint Stage-1 100% complete [Total Progress -   7%]
+
+Lint Stage 2 of 5 - Design Elaboration (66 checks)
+---------------------------------------------------
+-- Optimizing module z0in_work.ripple_counter(fast)
+Lint Stage-2  50% complete (1 out of 2 modules checked) [Total Progress -  14%]
+Optimized design name is zi_opt_def_603573782_1
+Lint Stage-2 100% complete (2 out of 2 modules checked) [Total Progress -  23%]
+End of log Tue Jul 15 14:15:39 2025
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Tue Jul 15 14:15:41 2025 by test on AmeerLouly
+
+
+Command: netlist create
+Command arguments:
+    -zdb
+      D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/qcache/DB/zdb_16
+    -tool lint
+    -d ripple_counter
+    -L work
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Synthesizing netlist...
+
+Lint Stage 3 of 5 - Post Design Elaboration (17 checks)
+--------------------------------------------------------
+Lint Stage-3  24% complete [Total Progress -  27%]
+Lint Stage-3  47% complete [Total Progress -  29%]
+Lint Stage-3  71% complete [Total Progress -  32%]
+Lint Stage-3  94% complete [Total Progress -  34%]
+Lint Stage-3 100% complete [Total Progress -  35%]
+Analyzing designs.
+Elaborating module 'dff'.
+Elaborating module 'ripple_counter'.
+
+Lint Stage 4 of 5 - Design Synthesis (1 checks)
+------------------------------------------------
+Lint Stage-4 100% complete [Total Progress -  75%]
+
+Lint Stage 5 of 5 - Post Design Synthesis (15 checks)
+------------------------------------------------------
+Lint Stage-5  20% complete [Total Progress -  88%]
+Lint Stage-5  40% complete [Total Progress -  91%]
+Lint Stage-5  60% complete [Total Progress -  94%]
+Lint Stage-5  80% complete [Total Progress -  97%]
+Lint Stage-5 100% complete [Total Progress - 100%]
+
+Lint Checking Completed
+##Time Taken (Synthesis) = 2218.000000 ticks = 2.218000 secs
+
+End of log Tue Jul 15 14:15:49 2025
+
+
+# Reading design database from D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/qcache/LINT/CACHE...completed (0.001 (s)).
+End of log Tue Jul 15 14:15:51 2025
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Tue Jul 15 14:15:52 2025 by test on AmeerLouly
+
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Applying Lint Waivers...
+Final Process Statistics: Max memory 275MB, CPU time 21s, Total time 22s
+End of log Tue Jul 15 14:15:57 2025
+
+
+Result Summary
+-----------------------------------------------------------
+Error (0)
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+Warning (4)
+-----------------------------------------------------------
+  clk_port_conn_complex                   :4
+
+-----------------------------------------------------------
+Info (6)
+-----------------------------------------------------------
+  re_entrant_output                       :4
+  multi_ports_in_single_line              :2
+
+-----------------------------------------------------------
+Resolved (0)
+-----------------------------------------------------------
+
+# Generating Debug Information...
+
+=================================================================
+To view results in batch
+  D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/lint.rpt
+
+To view results in GUI (Beta Version) 
+  qverify D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/lint.db
+=================================================================

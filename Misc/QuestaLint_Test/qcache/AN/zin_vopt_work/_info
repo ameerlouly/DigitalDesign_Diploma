@@ -1,7 +1,8 @@
 m255
 K4
 z2
-!s99 nomlopt
+Z0 !s99 nomlopt
+R0
 13
 !s112 1.1
 !i10d 8192
@@ -10,8 +11,8 @@ z2
 cModel Technology
 dF:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin
 Tzi_opt_def_828199804_1
-!s110 1752417314
-V;FV0b[IHLHc7[4jA<mSCh3
+!s110 1752497701
+V_Bkn4=?^eBhX]E<SM;BYX1
 09 7 4 z0in_work alu_seq fast 0
 !s96 mlvalmap
 !s102 +cover=f

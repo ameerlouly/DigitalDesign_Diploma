@@ -1,0 +1,1 @@
+TraceHierPath;ripple_counter;genblk1[0].u_dff.qbar,genblk1[0].u_dff.d,

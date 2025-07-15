@@ -1,0 +1,160 @@
+<!-- Creater                 : nlviewTK -->
+<!-- DocumentNeededResources : font  Helvetica -->
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="794.10" height="614.10" style="background:rgb(99.61%,99.61%,99.61%)">
+	<title> first </title>
+	<defs>
+		<!--Clipping simply refers to cutting off the edges of an image that doesn't fit inside a given area.-->
+		<clipPath id="clipPath1">
+			<path d="M 27.70,27.70 27.70,584.20 764.20,584.20 764.20,27.70 z"/>
+		</clipPath>
+	</defs>
+	<g  clip-path="url(#clipPath1)" style="stroke-linecap:butt;stroke-linejoin:miter">
+		<path d="M 27.70,27.70 27.70,584.20 764.20,584.20 764.20,27.70 z" fill="rgb(99.61%,99.61%,99.61%)"/>
+		<circle cx="211.20" cy="234.60" r="17.45" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="193.80" y1="225.90" x2="195.50" y2="226.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="193.80" y1="243.30" x2="195.50" y2="242.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="183.30" y1="225.90" x2="193.80" y2="225.90" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="239.10" y1="234.60" x2="228.70" y2="234.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="183.30" y1="243.30" x2="193.80" y2="243.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="211.20" y="239.83" transform="rotate(0.00,211.20,239.83)" font-family="Helvetica" font-size="10.46" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<path d="M 648.80,199.70 648.80,193.60 661.00,193.60 667.10,199.70 661.00,205.80 648.80,205.80 648.80,199.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="670.60" y="204.93" transform="rotate(0.00,670.60,204.93)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">out</text>
+		<polygon points=" 408.20,229.40 460.50,229.40 460.50,286.90 408.20,286.90 408.20,229.40" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 408.20,229.40 460.50,229.40 460.50,286.90 408.20,286.90 408.20,229.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="397.70" y1="260.80" x2="408.20" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="259.90" transform="rotate(0.00,406.50,259.90)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >d</text>
+		<line x1="397.70" y1="278.20" x2="408.20" y2="278.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="277.30" transform="rotate(0.00,406.50,277.30)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rstn</text>
+		<line x1="397.70" y1="243.30" x2="408.20" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="242.40" transform="rotate(0.00,406.50,242.40)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="471.00" y1="243.30" x2="460.50" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="242.40" transform="rotate(0.00,462.20,242.40)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >q</text>
+		<line x1="471.00" y1="260.80" x2="460.50" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="259.90" transform="rotate(0.00,462.20,259.90)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >qbar</text>
+		<line x1="418.70" y1="260.80" x2="408.20" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="278.20" x2="408.20" y2="278.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="243.30" x2="408.20" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="243.30" x2="460.50" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="260.80" x2="460.50" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="434.40" y="227.60" transform="rotate(0.00,434.40,227.60)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >genblk1[0].u_dff</text>
+		<text x="434.40" y="299.06" transform="rotate(0.00,434.40,299.06)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >dff</text>
+		<polygon points=" 408.20,98.70 460.50,98.70 460.50,156.20 408.20,156.20 408.20,98.70" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 408.20,98.70 460.50,98.70 460.50,156.20 408.20,156.20 408.20,98.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="397.70" y1="130.00" x2="408.20" y2="130.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="129.20" transform="rotate(0.00,406.50,129.20)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >d</text>
+		<line x1="397.70" y1="147.40" x2="408.20" y2="147.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="146.60" transform="rotate(0.00,406.50,146.60)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rstn</text>
+		<line x1="397.70" y1="112.60" x2="408.20" y2="112.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="111.70" transform="rotate(0.00,406.50,111.70)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="471.00" y1="112.60" x2="460.50" y2="112.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="111.70" transform="rotate(0.00,462.20,111.70)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >q</text>
+		<line x1="471.00" y1="130.00" x2="460.50" y2="130.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="129.20" transform="rotate(0.00,462.20,129.20)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >qbar</text>
+		<line x1="418.70" y1="130.00" x2="408.20" y2="130.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="147.40" x2="408.20" y2="147.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="112.60" x2="408.20" y2="112.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="112.60" x2="460.50" y2="112.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="130.00" x2="460.50" y2="130.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="434.40" y="96.90" transform="rotate(0.00,434.40,96.90)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >genblk1[1].u_dff</text>
+		<text x="434.40" y="168.36" transform="rotate(0.00,434.40,168.36)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >dff</text>
+		<polygon points=" 408.20,342.70 460.50,342.70 460.50,400.20 408.20,400.20 408.20,342.70" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 408.20,342.70 460.50,342.70 460.50,400.20 408.20,400.20 408.20,342.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="397.70" y1="374.10" x2="408.20" y2="374.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="373.20" transform="rotate(0.00,406.50,373.20)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >d</text>
+		<line x1="397.70" y1="391.50" x2="408.20" y2="391.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="390.60" transform="rotate(0.00,406.50,390.60)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rstn</text>
+		<line x1="397.70" y1="356.60" x2="408.20" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="355.70" transform="rotate(0.00,406.50,355.70)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="471.00" y1="356.60" x2="460.50" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="355.70" transform="rotate(0.00,462.20,355.70)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >q</text>
+		<line x1="471.00" y1="374.10" x2="460.50" y2="374.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="373.20" transform="rotate(0.00,462.20,373.20)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >qbar</text>
+		<line x1="418.70" y1="374.10" x2="408.20" y2="374.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="391.50" x2="408.20" y2="391.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="356.60" x2="408.20" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="356.60" x2="460.50" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="374.10" x2="460.50" y2="374.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="434.40" y="340.90" transform="rotate(0.00,434.40,340.90)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >genblk1[2].u_dff</text>
+		<text x="434.40" y="412.36" transform="rotate(0.00,434.40,412.36)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >dff</text>
+		<polygon points=" 408.20,456.00 460.50,456.00 460.50,513.50 408.20,513.50 408.20,456.00" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 408.20,456.00 460.50,456.00 460.50,513.50 408.20,513.50 408.20,456.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="397.70" y1="487.40" x2="408.20" y2="487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="486.50" transform="rotate(0.00,406.50,486.50)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >d</text>
+		<line x1="397.70" y1="504.80" x2="408.20" y2="504.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="503.90" transform="rotate(0.00,406.50,503.90)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rstn</text>
+		<line x1="397.70" y1="470.00" x2="408.20" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="406.50" y="469.00" transform="rotate(0.00,406.50,469.00)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="471.00" y1="470.00" x2="460.50" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="469.00" transform="rotate(0.00,462.20,469.00)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >q</text>
+		<line x1="471.00" y1="487.40" x2="460.50" y2="487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="462.20" y="486.50" transform="rotate(0.00,462.20,486.50)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >qbar</text>
+		<line x1="418.70" y1="487.40" x2="408.20" y2="487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="504.80" x2="408.20" y2="504.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="418.70" y1="470.00" x2="408.20" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="470.00" x2="460.50" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="450.10" y1="487.40" x2="460.50" y2="487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="434.40" y="454.20" transform="rotate(0.00,434.40,454.20)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >genblk1[3].u_dff</text>
+		<text x="434.40" y="525.66" transform="rotate(0.00,434.40,525.66)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >dff</text>
+		<path d="M 148.40,243.30 142.30,249.40 130.10,249.40 130.10,237.20 142.30,237.20 148.40,243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="126.60" y="248.53" transform="rotate(0.00,126.60,248.53)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="284.40" y1="461.20" x2="284.40" y2="478.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="470.00" x2="284.40" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="286.10" y="469.00" transform="rotate(0.00,286.10,469.00)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >[3]</text>
+		<line x1="274.00" y1="470.00" x2="284.40" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="284.40" y1="347.90" x2="284.40" y2="365.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="356.60" x2="284.40" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="286.10" y="355.70" transform="rotate(0.00,286.10,355.70)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >[2]</text>
+		<line x1="274.00" y1="356.60" x2="284.40" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="284.40" y1="217.20" x2="284.40" y2="234.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="225.90" x2="284.40" y2="225.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="286.10" y="225.00" transform="rotate(0.00,286.10,225.00)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >[1]</text>
+		<line x1="274.00" y1="225.90" x2="284.40" y2="225.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="284.40" y1="252.00" x2="284.40" y2="269.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="260.80" x2="284.40" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="286.10" y="259.80" transform="rotate(0.00,286.10,259.80)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >[0]</text>
+		<line x1="274.00" y1="260.80" x2="284.40" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="603.50" y1="217.20" x2="603.50" y2="286.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="613.90" y1="243.30" x2="603.50" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="593.00" y1="225.90" x2="603.50" y2="225.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="601.80" y="225.00" transform="rotate(0.00,601.80,225.00)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >[3]</text>
+		<line x1="593.00" y1="243.30" x2="603.50" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="601.80" y="242.50" transform="rotate(0.00,601.80,242.50)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >[2]</text>
+		<line x1="593.00" y1="260.80" x2="603.50" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="601.80" y="259.90" transform="rotate(0.00,601.80,259.90)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >[1]</text>
+		<line x1="593.00" y1="278.20" x2="603.50" y2="278.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="601.80" y="277.30" transform="rotate(0.00,601.80,277.30)" font-family="Helvetica" font-size="8.72" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >[0]</text>
+		<path d="M 148.40,487.40 142.30,493.50 130.10,493.50 130.10,481.30 142.30,481.30 148.40,487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<text x="126.60" y="492.63" transform="rotate(0.00,126.60,492.63)" font-family="Helvetica" font-size="10.46" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rstn</text>
+		<path d="M 294.90,260.80 351.50,260.80 351.50,243.30 397.70,243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 471.00,243.30 518.90,243.30 518.90,278.20 593.00,278.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 294.90,225.90 316.70,225.90 316.70,112.60 397.70,112.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 471.00,112.60 571.20,112.60 571.20,260.80 593.00,260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="356.60" x2="397.70" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 471.00,356.60 553.80,356.60 553.80,243.30 593.00,243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="294.90" y1="470.00" x2="397.70" y2="470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 471.00,470.00 536.30,470.00 536.30,225.90 593.00,225.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="148.40" y1="243.30" x2="183.30" y2="243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 274.00,225.90 256.50,225.90 256.50,470.00 274.00,470.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="239.10" y1="234.60" x2="256.50" y2="234.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="256.50" y1="260.80" x2="274.00" y2="260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="256.50" y1="356.60" x2="274.00" y2="356.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="255.30" y="233.40" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="255.30" y="259.60" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="255.30" y="355.40" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 397.70,260.80 369.00,260.80 369.00,313.10 501.50,313.10 501.50,260.80 471.00,260.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 397.70,130.00 369.00,130.00 369.00,182.30 501.50,182.30 501.50,130.00 471.00,130.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 397.70,374.10 369.00,374.10 369.00,426.40 501.50,426.40 501.50,374.10 471.00,374.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 397.70,487.40 369.00,487.40 369.00,539.70 536.30,539.70 536.30,487.40 471.00,487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 183.30,225.90 165.90,225.90 165.90,199.70 631.40,199.70 631.40,243.30 613.90,243.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="631.40" y1="199.70" x2="648.80" y2="199.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="630.20" y="198.50" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="148.40" y1="487.40" x2="334.10" y2="487.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="332.90" y="277.00" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="332.90" y="390.30" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<rect x="332.90" y="486.20" width="2.40" height="2.40" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<path d="M 397.70,147.40 334.10,147.40 334.10,504.80 397.70,504.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="334.10" y1="278.20" x2="397.70" y2="278.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+		<line x1="334.10" y1="391.50" x2="397.70" y2="391.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.50"/>
+	</g>
+</svg>

@@ -1,10 +1,301 @@
 m255
 K4
 z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
 !i10d 8192
 !i10e 25
 !i10f 100
 cModel Technology
-dD:/Github/DigitalDesign_Diploma/Session_Labs/Session3
+Z1 dD:/Github/DigitalDesign_Diploma/Session_Labs/Session3
+T_opt
+!s110 1752567558
+VR@KTjK>2FGR3T;VWjJbAM0
+04 14 4 work bcd_counter_tb fast 0
+=1-b42e99eb7678-68760f06-244-2660
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1752589747
+VV]_8DHJ0QiL474`S4=7J83
+04 17 4 work ripple_counter_tb fast 0
+=1-b42e99eb7678-687665b3-227-49b4
+R2
+R3
+R4
+n@_opt1
+R5
+T_opt2
+!s110 1752565269
+VnY_?Z7QU]Hoz`9OzDYEQ<3
+04 6 4 work tff_tb fast 0
+=1-b42e99eb7678-68760614-383-6668
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vbcd_counter
+Z6 !s110 1752577682
+!i10b 1
+!s100 ffADdBT7K1EFMZ3GOShoE0
+IDDOhh]>H[9D7m3_aLa3:R0
+Z7 dD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base
+w1752567545
+8bcd_counter.v
+Fbcd_counter.v
+!i122 31
+Z8 L0 1 15
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1752577682.000000
+Z12 !s107 bcd_counter.v|bcd_counter_tb.v|
+Z13 !s90 -reportprogress|300|bcd_counter_tb.v|bcd_counter.v|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vbcd_counter_tb
+R6
+!i10b 1
+!s100 hF?DA;;`<mViUG;6bKK>j1
+I@gDY;Sn?]]@:7NmEhzjdl0
+R7
+w1752567460
+8bcd_counter_tb.v
+Fbcd_counter_tb.v
+!i122 31
+L0 1 22
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R4
+vdff
+Z15 !s110 1752570833
+!i10b 1
+!s100 W_]SJc;:OnKS7oLlge<213
+I7M>XTFgB5nB5:cdR<fjBT0
+R7
+Z16 w1752570609
+Z17 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
+Z18 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
+!i122 26
+L0 17 15
+R9
+R10
+r1
+!s85 0
+31
+Z19 !s108 1752570833.000000
+Z20 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v|
+!i113 0
+Z22 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vdff_en_pre
+R15
+!i10b 1
+!s100 iCRz4SE9LzDePJRgYeegl0
+I33<HdDAK<fXLOjI93SokS0
+R7
+w1752154855
+8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
+FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
+!i122 24
+L0 1 18
+R9
+R10
+r1
+!s85 0
+31
+R19
+!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v|
+!i113 0
+R22
+R4
+vdff_en_pre_tb
+R15
+!i10b 1
+!s100 UL[ha6;BdT?QM9Te=o4;I1
+IOB7jhYeg>>^:LQ^KIQ7Kz2
+R7
+w1752507432
+8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
+FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
+!i122 25
+L0 1 63
+R9
+R10
+r1
+!s85 0
+31
+R19
+!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v|
+!i113 0
+R22
+R4
+vdff_tb
+R15
+!i10b 1
+!s100 N0W60iV[Z]>2ia7hNldLn2
+If9ozAfeZeFS6C[0`:A0So2
+R7
+Z23 w1752564721
+Z24 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
+Z25 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
+!i122 27
+L0 1 35
+R9
+R10
+r1
+!s85 0
+31
+R19
+Z26 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
+Z27 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
+!i113 0
+R22
+R4
+vff
+R15
+!i10b 1
+!s100 GeK>8gi7mfE2hW_9k3MgL2
+Id^zjd[LGQKhn^nPLW10dC0
+R7
+R16
+R17
+R18
+!i122 26
+L0 33 12
+R9
+R10
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R22
+R4
+vripple_counter
+Z28 !s110 1752589745
+!i10b 1
+!s100 Ql4TSP]b7fkS7o3oML]5F2
+IV9i0L=n0:CNR@DH]oIf8T3
+R7
+w1752589739
+8ripple.v
+Fripple.v
+!i122 40
+L0 1 21
+R9
+R10
+r1
+!s85 0
+31
+Z29 !s108 1752589745.000000
+Z30 !s107 ripple_tb.v|ripple.v|
+Z31 !s90 -reportprogress|300|ripple.v|ripple_tb.v|
+!i113 0
+R14
+R4
+vripple_counter_tb
+R28
+!i10b 1
+!s100 JkJU_]?X;KVZM[gfaO=U=0
+I4b?n@7STYB7AE95LB[>F42
+R7
+w1752570890
+8ripple_tb.v
+Fripple_tb.v
+!i122 40
+L0 1 23
+R9
+R10
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 0
+R14
+R4
+vtff
+R15
+!i10b 1
+!s100 Ame5EXYP6eaBAa?_ANL`S3
+I8_C8do;7oAoB18MH<laU[3
+R7
+R16
+R17
+R18
+!i122 26
+R8
+R9
+R10
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R22
+R4
+vtff_tb
+R15
+!i10b 1
+!s100 GL@OQnajH3X^@S`X7WXI23
+IJ?IHT3CHAcK]RK_gn:Ia30
+R7
+R23
+R24
+R25
+!i122 27
+L0 37 35
+R9
+R10
+r1
+!s85 0
+31
+R19
+R26
+R27
+!i113 0
+R22
+R4

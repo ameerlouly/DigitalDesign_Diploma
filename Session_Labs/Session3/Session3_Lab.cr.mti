@@ -1,16 +1,16 @@
-D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/shift_reg.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/shift_reg.v
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module shift_reg
-
-Top level modules:
-	shift_reg
-
-} {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/alu_seq_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/alu_seq_tb.v
+D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/alu_seq_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/alu_seq_tb.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module alu_seq_tb
 
 Top level modules:
 	alu_seq_tb
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/shift_reg.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/shift_reg.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/counter.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/counter.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -19,13 +19,6 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	counter
 
-} {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/counter_tb.v {1 {vlog -work work -vopt -stats=none {D:\Github\DigitalDesign_Diploma\Session_Labs\Session3\counter_tb.v}
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module counter_tb
-
-Top level modules:
-	counter_tb
-
 } {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/4BitALU.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module alu_seq
@@ -33,5 +26,12 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 
 Top level modules:
 	alu_seq
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Session_Labs/Session3/counter_tb.v {1 {vlog -work work -vopt -stats=none {D:\Github\DigitalDesign_Diploma\Session_Labs\Session3\counter_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
 
 } {} {}}

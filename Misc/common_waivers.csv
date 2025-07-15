@@ -1,0 +1,2 @@
+Severity,Status,Check,Alias,Message,Module,Category,State,Owner,Comment,Reviewer,Design Category,STARC Reference,More Occurrences
+Info,waived,multi_ports_in_single_line,,"Multiple ports are declared in one line. Module dff_en_pre, File D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v, Line 3.",dff_en_pre,Rtl Design Style,resolved,Ameer Louly,Not needed,Ameer Louly,Rtl Design Style,3.5.6.3,0
