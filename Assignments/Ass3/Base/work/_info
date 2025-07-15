@@ -46,6 +46,7 @@ R3
 R4
 n@_opt1
 R5
+R1
 T_opt2
 !s110 1752565269
 VnY_?Z7QU]Hoz`9OzDYEQ<3
@@ -102,7 +103,7 @@ R13
 R14
 R4
 vdff
-Z15 !s110 1752570833
+Z15 !s110 1752611126
 !i10b 1
 !s100 W_]SJc;:OnKS7oLlge<213
 I7M>XTFgB5nB5:cdR<fjBT0
@@ -110,14 +111,14 @@ R7
 Z16 w1752570609
 Z17 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
 Z18 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
-!i122 26
+!i122 49
 L0 17 15
 R9
 R10
 r1
 !s85 0
 31
-Z19 !s108 1752570833.000000
+Z19 !s108 1752611126.000000
 Z20 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v|
 Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v|
 !i113 0
@@ -132,7 +133,7 @@ R7
 w1752154855
 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
-!i122 24
+!i122 47
 L0 1 18
 R9
 R10
@@ -154,7 +155,7 @@ R7
 w1752507432
 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
-!i122 25
+!i122 48
 L0 1 63
 R9
 R10
@@ -176,7 +177,7 @@ R7
 Z23 w1752564721
 Z24 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
 Z25 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
-!i122 27
+!i122 50
 L0 1 35
 R9
 R10
@@ -198,7 +199,7 @@ R7
 R16
 R17
 R18
-!i122 26
+!i122 49
 L0 33 12
 R9
 R10
@@ -212,48 +213,70 @@ R21
 R22
 R4
 vripple_counter
-Z28 !s110 1752589745
+R15
 !i10b 1
 !s100 Ql4TSP]b7fkS7o3oML]5F2
-IV9i0L=n0:CNR@DH]oIf8T3
+Ija;^jReXBM8cP_=b9MG1l1
 R7
 w1752589739
-8ripple.v
-Fripple.v
-!i122 40
+8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
+FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
+!i122 51
 L0 1 21
 R9
 R10
 r1
 !s85 0
 31
-Z29 !s108 1752589745.000000
-Z30 !s107 ripple_tb.v|ripple.v|
-Z31 !s90 -reportprogress|300|ripple.v|ripple_tb.v|
+R19
+!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v|
 !i113 0
-R14
+R22
 R4
 vripple_counter_tb
-R28
+R15
 !i10b 1
 !s100 JkJU_]?X;KVZM[gfaO=U=0
-I4b?n@7STYB7AE95LB[>F42
+ICbWok==T?SI_;L3^^lfn?2
 R7
 w1752570890
-8ripple_tb.v
-Fripple_tb.v
-!i122 40
+8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v
+FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v
+!i122 52
 L0 1 23
 R9
 R10
 r1
 !s85 0
 31
-R29
-R30
-R31
+R19
+!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v|
 !i113 0
-R14
+R22
+R4
+vshift_reg
+!s110 1752611182
+!i10b 1
+!s100 oUB[<WF2`^a]3BQcKUe8^1
+I4daeW04_BH0LIeAghi5EH0
+R7
+w1752611176
+8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
+FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
+!i122 53
+L0 1 30
+R9
+R10
+r1
+!s85 0
+31
+!s108 1752611182.000000
+!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v|
+!i113 0
+R22
 R4
 vtff
 R15
@@ -264,7 +287,7 @@ R7
 R16
 R17
 R18
-!i122 26
+!i122 49
 R8
 R9
 R10
@@ -286,7 +309,7 @@ R7
 R23
 R24
 R25
-!i122 27
+!i122 50
 L0 37 35
 R9
 R10
