@@ -17,6 +17,12 @@ R0
 R0
 R0
 R0
+R0
+R0
+R0
+R0
+R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -48,16 +54,15 @@ n@_opt1
 R5
 R1
 T_opt2
-!s110 1752565269
-VnY_?Z7QU]Hoz`9OzDYEQ<3
-04 6 4 work tff_tb fast 0
-=1-b42e99eb7678-68760614-383-6668
+!s110 1752613103
+VIA;H34ENPI1Wdd^GULM6C3
+04 12 4 work shift_reg_tb fast 0
+=1-b42e99eb7678-6876c0ef-301-807c
 R2
 R3
 R4
 n@_opt2
 R5
-R1
 vbcd_counter
 Z6 !s110 1752577682
 !i10b 1
@@ -257,26 +262,48 @@ R19
 R22
 R4
 vshift_reg
-!s110 1752611182
+Z28 !s110 1752613102
 !i10b 1
 !s100 oUB[<WF2`^a]3BQcKUe8^1
-I4daeW04_BH0LIeAghi5EH0
+IGldnfl5IF<OQLWURkgNkR1
 R7
 w1752611176
-8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
-FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
-!i122 53
+8shift_reg.v
+Fshift_reg.v
+!i122 61
 L0 1 30
 R9
 R10
 r1
 !s85 0
 31
-!s108 1752611182.000000
-!s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v|
-!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v|
+Z29 !s108 1752613102.000000
+Z30 !s107 shift_reg_tb.v|shift_reg.v|
+Z31 !s90 -reportprogress|300|shift_reg.v|shift_reg_tb.v|
 !i113 0
-R22
+R14
+R4
+vshift_reg_tb
+R28
+!i10b 1
+!s100 C3P:e_ek9SB4`_:Nio1^H1
+Iha3GH=C9g`EH2ET7jSYel1
+R7
+w1752613095
+8shift_reg_tb.v
+Fshift_reg_tb.v
+!i122 61
+L0 1 147
+R9
+R10
+r1
+!s85 0
+31
+R29
+R30
+R31
+!i113 0
+R14
 R4
 vtff
 R15

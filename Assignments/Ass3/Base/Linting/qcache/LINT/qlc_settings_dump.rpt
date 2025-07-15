@@ -130,16 +130,16 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><assign_chain|Unflagged
   <PassedCheck><assign_width_overflow|Unflagged
   <PassedCheck><assign_with_multi_arith_operations|Unflagged
-  <PassedCheck><assigns_mixed_in_always_block|Unflagged
-  <PassedCheck><assigns_mixed|Unflagged
-  <PassedCheck><async_reset_active_high|Unflagged
+  <PassedCheck><assigns_mixed_in_always_block|Flagged
+  <PassedCheck><assigns_mixed|Flagged
+  <PassedCheck><async_reset_active_high|Flagged
   <PassedCheck><blackbox_input_conn_inconsistent|Unflagged
   <PassedCheck><blackbox_output_control_signal|Unflagged
   <PassedCheck><bus_bit_as_clk|Unflagged
   <PassedCheck><bus_bits_in_multi_seq_blocks|Unflagged
   <PassedCheck><case_with_memory_output|Unflagged
   <PassedCheck><casez_has_x|Unflagged
-  <PassedCheck><clk_port_conn_complex|Flagged
+  <PassedCheck><clk_port_conn_complex|Unflagged
   <PassedCheck><clock_in_wait_stmt|Unflagged
   <PassedCheck><clock_signal_as_non_clock|Unflagged
   <PassedCheck><combo_loop_with_latch|Unflagged
@@ -198,7 +198,7 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><process_exceeds_line_limit|Unflagged
   <PassedCheck><process_signal_assign_large|Unflagged
   <PassedCheck><process_var_assign_disorder|Unflagged
-  <PassedCheck><re_entrant_output|Flagged
+  <PassedCheck><re_entrant_output|Unflagged
   <PassedCheck><reference_event_without_edge|Unflagged
   <PassedCheck><reset_port_connection_static|Unflagged
   <PassedCheck><reset_set_non_const_assign|Unflagged

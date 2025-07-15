@@ -8,3 +8,5 @@ bcd_counter_1514728055.utg.db:17480
 bcd_counter.utg.db:19868
 ripple_counter_1730966871.utg.db:24435
 ripple_counter.utg.db:28235
+shift_reg_2104903448.utg.db:32035
+shift_reg.utg.db:35727

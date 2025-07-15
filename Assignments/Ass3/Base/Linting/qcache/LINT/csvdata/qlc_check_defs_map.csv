@@ -1,4 +1,5 @@
 CheckId@CheckName
-0@multi_ports_in_single_line
-1@re_entrant_output
-2@clk_port_conn_complex
+0@assigns_mixed_in_always_block
+1@assigns_mixed
+2@async_reset_active_high
+3@multi_ports_in_single_line

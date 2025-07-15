@@ -1,13 +1,17 @@
 >8
 v366
-t7
-c8
-#0 p0 @zi_dff_o1_10*i1
-#1 p253 @zi_oper_24_o1_i1
-#2 p384 @dff_2078556637
-#3 p1105 @zi_oper_32_o4_4*i1
-#4 p1287 @zi_oper_32_o4_i3_i1
-#5 p1454 @zi_oper_38_o3_i4
-#6 p1597 @zi_oper_38_o1_i4
-#7 p1737 @ripple_counter
+t11
+c12
+#8 p1382 @zi_oper_25_o1_2*i1
+#0 p0 @zi_dff_o8_i8_5*i1_i8_3*i1
+#1 p273 @zi_dff_o1_10*i1
+#2 p528 @zi_mux_o8_i1_2*i8
+#3 p690 @zi_const_8'b0_o8
+#4 p814 @zi_const_8'b1_o8
+#5 p938 @zi_oper_32_o8_i7_i1
+#6 p1105 @zi_oper_29_o1_2*i1
+#7 p1251 @zi_oper_24_o1_i1
+#9 p1528 @zi_oper_38_o7_i8
+#10 p1671 @zi_oper_38_o1_i8
+#11 p1812 @shift_reg
 <8

@@ -2,11 +2,11 @@
 Lint Check Report
 Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
 
-Timestamp            : Tue Jul 15 14:15:49 2025
+Timestamp            : Wed Jul 16 00:04:33 2025
 Description          : Report for referring checks count, check violations details, and  design information
-Design               : ripple_counter
+Design               : shift_reg
 Database             : D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/lint.db
-Design Quality Score : 99.1%
+Design Quality Score : 100%
 
 Sections:
    Section 1 : Check Summary
@@ -23,15 +23,16 @@ Section 1 : Check Summary
 -------------
 
 ---------------
-| Warning (4) |
+| Warning (0) |
 ---------------
-  clk_port_conn_complex                   : 4
 
 ------------
-| Info (6) |
+| Info (5) |
 ------------
-  re_entrant_output                       : 4
-  multi_ports_in_single_line              : 2
+  assigns_mixed                           : 1
+  assigns_mixed_in_always_block           : 1
+  async_reset_active_high                 : 2
+  multi_ports_in_single_line              : 1
 
 ----------------
 | Resolved (0) |
@@ -47,45 +48,38 @@ Section 2 : Check Details
 
 
 ---------------
-| Warning (4) |
+| Warning (0) |
 ---------------
 
-Check: clk_port_conn_complex [Category: Clock] (4)
-       [Message: Clock port is connected to a complex expression. Instance '<instance>', Expression '<expression>', Clock '<clock>', Module '<module>', File '<file>', Line '<line>'.]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-clk_port_conn_complex: [uninspected] Clock port is connected to a complex expression. Instance 'u_dff', Expression 'clk_chain[0]', Clock 'clk', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-clk_port_conn_complex: [uninspected] Clock port is connected to a complex expression. Instance 'u_dff', Expression 'clk_chain[1]', Clock 'clk', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-clk_port_conn_complex: [uninspected] Clock port is connected to a complex expression. Instance 'u_dff', Expression 'clk_chain[2]', Clock 'clk', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-clk_port_conn_complex: [uninspected] Clock port is connected to a complex expression. Instance 'u_dff', Expression 'clk_chain[3]', Clock 'clk', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-
 
 ------------
-| Info (6) |
+| Info (5) |
 ------------
 
-Check: re_entrant_output [Category: Connectivity] (4)
-       [Message: Instance has a path connecting an output port to an input port. Instance '<instance>', Output signal '<signal1>', Input Signal '<signal2>', Module '<module>', File '<file>', Line '<line>'.]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-re_entrant_output: [uninspected] Instance has a path connecting an output port to an input port. Instance 'genblk1[0].u_dff', Output signal 'genblk1[0].d_q_bar', Input Signal 'genblk1[0].d_q_bar', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-re_entrant_output: [uninspected] Instance has a path connecting an output port to an input port. Instance 'genblk1[1].u_dff', Output signal 'genblk1[1].d_q_bar', Input Signal 'genblk1[1].d_q_bar', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-re_entrant_output: [uninspected] Instance has a path connecting an output port to an input port. Instance 'genblk1[2].u_dff', Output signal 'genblk1[2].d_q_bar', Input Signal 'genblk1[2].d_q_bar', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
-
-re_entrant_output: [uninspected] Instance has a path connecting an output port to an input port. Instance 'genblk1[3].u_dff', Output signal 'genblk1[3].d_q_bar', Input Signal 'genblk1[3].d_q_bar', Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '18'.
+Check: assigns_mixed [Category: Simulation] (1)
+       [Message: Signal is assigned with blocking and non-blocking assignments. Signal '<signal>', Module '<module>', File '<file1>', Line '<line1>' and File '<file2>', Line '<line2>'.]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+assigns_mixed: [uninspected] Signal is assigned with blocking and non-blocking assignments. Signal 'q', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '14' and File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '25'.
 
 
-Check: multi_ports_in_single_line [Category: Rtl Design Style] (2)
+Check: assigns_mixed_in_always_block [Category: Simulation] (1)
+       [Message: Always block has blocking and non-blocking assignments. Module '<module>', File '<file>', Line '<line1>', Line '<line2>'.]
+--------------------------------------------------------------------------------------------------------------------------------------------
+assigns_mixed_in_always_block: [uninspected] Always block has blocking and non-blocking assignments. Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '23', Line '25'. [RTL ID:23825dde_00200]
+
+
+Check: async_reset_active_high [Category: Clock] (2)
+       [Message: Asynchronous reset is active high. Reset '<reset>', Module '<module>', File '<file>', Line '<line>'.]
+-----------------------------------------------------------------------------------------------------------------------
+async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'aclr', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '13'.
+
+async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'aset', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '15'.
+
+
+Check: multi_ports_in_single_line [Category: Rtl Design Style] (1)
        [Message: Multiple ports are declared in one line. Module '<module>', File '<file>', Line '<line>'.]
 ------------------------------------------------------------------------------------------------------------
-multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'dff', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v', Line '18'.
-    1 more occurrence at: line 19.
-
-multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'ripple_counter', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v', Line '6'.
+multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '7'.
 
 
 
@@ -101,7 +95,7 @@ Section 3 : Design Information
 -----------
 | Summary |
 -----------
-  Register Bits                           : 8
+  Register Bits                           : 9
   Latch Bits                              : 0
   User-specified Blackboxes               : 0
   Inferred Blackboxes                     : 0

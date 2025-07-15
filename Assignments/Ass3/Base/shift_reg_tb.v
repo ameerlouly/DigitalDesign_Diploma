@@ -1,9 +1,147 @@
 module shift_reg_tb();
+    parameter LOAD_AVALUE = 2;
+    parameter SHIFT_DIRECTION = "LEFT";
+    parameter LOAD_SVALUE = 4;
+    parameter SHIFT_WIDTH = 8;
+
     reg sclr, sset, shiftin, load, clk, enable, aclr, aset;
-    reg [SHIFT_WIDTH - 1 : 0] data;
+    reg [SHIFT_WIDTH - 1 : 0] data, q_expected;
     wire shiftout;
     wire [SHIFT_WIDTH - 1 : 0] q;
 
-    shift_reg #(.LOAD_AVALUE(2),
-                .LOAD_SVALUE)
+    shift_reg #(.LOAD_AVALUE(LOAD_AVALUE),
+                .LOAD_SVALUE(LOAD_SVALUE),
+                .SHIFT_DIRECTION(SHIFT_DIRECTION),
+                .SHIFT_WIDTH(SHIFT_WIDTH))
+                DUT (
+                    .sclr(sclr),
+                    .sset(sset),
+                    .shiftin(shiftin),
+                    .load(load),
+                    .clk(clk),
+                    .enable(enable),
+                    .aclr(aclr),
+                    .aset(aset),
+                    .shiftout(shiftout),
+                    .q(q)
+                );
+    
+    initial begin
+        clk = 0;
+        forever begin
+            #1 clk = ~clk;
+        end
+    end
+
+    initial begin
+        // Check for aclr
+        aset = 1;
+        aclr = 1;
+        repeat(50) begin
+            sclr = $random;
+            sset = $random;
+            shiftin = $random;
+            load = $random;
+            enable = $random;
+            data = $random;
+            @(negedge clk);
+            if(q != 0) begin
+                $display("Error - aclr");
+                $exit;
+            end
+        end
+
+        // check for aset
+        aclr = 0;
+        aset = 1;
+        repeat(50) begin
+            sclr = $random;
+            sset = $random;
+            shiftin = $random;
+            load = $random;
+            enable = $random;
+            data = $random;
+            @(negedge clk);
+            if(q != LOAD_AVALUE) begin
+                $display("Error - aset");
+                $exit;
+            end
+        end
+
+        // Test for sclr
+        aclr = 0;
+        aset = 0;
+        sclr = 1;
+        sset = 1;
+        repeat(50) begin
+            shiftin = $random;
+            load = $random;
+            enable = $random;
+            data = $random;
+            @(negedge clk);
+            if(q != 0) begin
+                $display("Error - sclr");
+                $exit;
+            end
+        end
+
+        // Test for sset
+        aclr = 0;
+        aset = 0;
+        sclr = 0;
+        sset = 1;
+        enable = 1;
+        repeat(50) begin
+            shiftin = $random;
+            load = $random;
+            data = $random;
+            @(negedge clk);
+            if(q != LOAD_SVALUE) begin
+                $display("Error - sset");
+                $exit;
+            end
+        end
+
+        // Test for load
+        aclr = 0;
+        aset = 0;
+        sclr = 0;
+        sset = 0;
+        load = 1;
+        enable = 1;
+        repeat(50) begin
+            shiftin = $random;
+            data = $random;
+            q_expected = data;
+            @(negedge clk);
+            if(q != q_expected) begin
+                $display("Error - load");
+                $exit;
+            end
+        end
+
+        // test for shifting
+        // Clearing Input for signifcant amount of time
+        aclr = 1;
+        repeat(50) @(negedge clk);
+        aclr = 0;
+
+        // Setting value
+        aset = 1;
+        @(negedge clk);
+        aset = 0;
+
+        // Deactivating Control Signals
+        aclr = 0;
+        aset = 0;
+        sclr = 0;
+        sset = 0;
+        load = 0;
+        shiftin = 0;
+        enable = 1;
+        $display("Starting Shift Test");
+        repeat(10) @(negedge clk);
+        $exit;
+    end
+
 endmodule

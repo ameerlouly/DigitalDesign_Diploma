@@ -1,13 +1,7 @@
 Index@CheckId@Status@Category@DesignCategory@Severity@FileId@Module@ArgList@ClusterInfo@OldRtlId
-c5da1151@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"dff"@"0:dff#1:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v#"@"1"@""
-c5da1151_1@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"dff"@"0:dff#1:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v#"@"-1"@""
-f5066f2f@0@uninspected@Rtl Design Style@Rtl Design Style@Info@1@"ripple_counter"@"0:ripple_counter#1:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@"0"@""
-1e6a6f3c@1@uninspected@Connectivity@Implementation@Info@1@"ripple_counter"@"0:genblk1[0].u_dff#1:genblk1[0].d_q_bar#2:genblk1[0].d_q_bar#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@""@""
-37a37020@1@uninspected@Connectivity@Implementation@Info@1@"ripple_counter"@"0:genblk1[1].u_dff#1:genblk1[1].d_q_bar#2:genblk1[1].d_q_bar#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@""@""
-4df85104@1@uninspected@Connectivity@Implementation@Info@1@"ripple_counter"@"0:genblk1[2].u_dff#1:genblk1[2].d_q_bar#2:genblk1[2].d_q_bar#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@""@""
-64314e18@1@uninspected@Connectivity@Implementation@Info@1@"ripple_counter"@"0:genblk1[3].u_dff#1:genblk1[3].d_q_bar#2:genblk1[3].d_q_bar#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@""@""
-890e7f15@2@uninspected@Clock@Implementation@Warning@1@"ripple_counter"@"0:u_dff#1:clk_chain[0]#2:clk#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@"0"@""
-87e997c4@2@uninspected@Clock@Implementation@Warning@1@"ripple_counter"@"0:u_dff#1:clk_chain[1]#2:clk#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@"0"@""
-94c1aeb7@2@uninspected@Clock@Implementation@Warning@1@"ripple_counter"@"0:u_dff#1:clk_chain[2]#2:clk#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@"0"@""
-9a264666@2@uninspected@Clock@Implementation@Warning@1@"ripple_counter"@"0:u_dff#1:clk_chain[3]#2:clk#3:ripple_counter#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#"@"0"@""
+c20debc8@0@uninspected@Simulation@Simulation@Info@0@"shift_reg"@"0:shift_reg#1:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#rtl_id:23825dde_00200"@"0"@"23825dde_00100:"
+1cd53370@1@uninspected@Simulation@Simulation@Info@0,0@"shift_reg"@"0:q#1:shift_reg#2:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#4:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#"@"0"@""
+c9de50b@2@uninspected@Clock@Implementation@Info@0@"shift_reg"@"0:aclr#1:shift_reg#2:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#"@"0"@""
+47a6a67e@2@uninspected@Clock@Implementation@Info@0@"shift_reg"@"0:aset#1:shift_reg#2:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#"@"0"@""
+94d091d6@3@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"shift_reg"@"0:shift_reg#1:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#"@"0"@""
 

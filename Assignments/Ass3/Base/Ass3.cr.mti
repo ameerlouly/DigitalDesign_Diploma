@@ -1,14 +1,23 @@
-D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
+D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module dff_en_pre
 
 Top level modules:
 	dff_en_pre
 
-} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v {0 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module ripple_counter
-** Error (suppressible): D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v(10): (vlog-2401) Extra semicolon found. This is permitted in SystemVerilog, but not permitted in Verilog.
+
+Top level modules:
+	ripple_counter
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -25,6 +34,13 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 
 Top level modules:
 	dff_en_pre_tb
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ripple_counter_tb
+
+Top level modules:
+	ripple_counter_tb
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021

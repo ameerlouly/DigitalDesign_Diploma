@@ -1,4 +1,5 @@
+assigns_mixed_in_always_block:off
+assigns_mixed:off
+async_reset_active_high:off
 multi_ports_in_single_line:off
-re_entrant_output:on
-clk_port_conn_complex:off
 

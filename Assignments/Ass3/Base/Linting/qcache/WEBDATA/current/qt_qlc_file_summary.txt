@@ -1,2 +1,1 @@
-D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v#@#2
-D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v#@#9
+D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#@#5

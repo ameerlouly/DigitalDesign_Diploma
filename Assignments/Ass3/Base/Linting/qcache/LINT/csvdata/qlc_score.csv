@@ -449,7 +449,7 @@ unresolved_module@0@2@Rtl Design Style@1
 user_blackbox@0@0@Rtl Design Style@1
 inferred_blackbox@0@2@Rtl Design Style@1
 reset_set_non_const_assign@0@2@Implementation@1
-clk_port_conn_complex@1@2@Implementation@1
+clk_port_conn_complex@0@2@Implementation@1
 flop_redundant@0@0@Implementation@1
 line_char_large@0@0@Rtl Design Style@1
 process_without_async_reset@0@0@Implementation@0
