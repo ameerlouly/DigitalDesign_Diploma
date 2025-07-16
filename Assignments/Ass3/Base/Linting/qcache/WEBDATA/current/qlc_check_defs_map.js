@@ -22,29 +22,18 @@ var statusObj = { "status" : [
 { "statusId" : "4" , "statusName":"fixed" },
 { "statusId" : "5" , "statusName":"verified" }]} ;
 var checks = { "checks":[
-{ "checksId":"0", "checksName":"assigns_mixed_in_always_block","severityId":"2","categoryId":"1"},
-{ "checksId":"1", "checksName":"assigns_mixed","severityId":"2","categoryId":"1"},
-{ "checksId":"2", "checksName":"async_reset_active_high","severityId":"2","categoryId":"5"},
-{ "checksId":"3", "checksName":"multi_ports_in_single_line","severityId":"2","categoryId":"0"},
-{ "checksId":"4", "checksName":" ","severityId":"3","categoryId":"9"}]};
+{ "checksId":"0", "checksName":"multi_ports_in_single_line","severityId":"2","categoryId":"0"},
+{ "checksId":"1", "checksName":"reset_set_non_const_assign","severityId":"1","categoryId":"4"},
+{ "checksId":"2", "checksName":" ","severityId":"3","categoryId":"9"}]};
 var schematicStatus = {  
-"assigns_mixed_in_always_block" : "off",
-"assigns_mixed" : "off",
-"async_reset_active_high" : "off",
-"multi_ports_in_single_line" : "off"};
+"multi_ports_in_single_line" : "off",
+"reset_set_non_const_assign" : "off"};
 var adaptiveModeStatus = {  
-"assigns_mixed_in_always_block" : "off",
-"assigns_mixed" : "off",
-"async_reset_active_high" : "off",
-"multi_ports_in_single_line" : "off"};
+"multi_ports_in_single_line" : "off",
+"reset_set_non_const_assign" : "off"};
 var checkAliasMap = { };
 var argMap = {  
 "1":"module",
 "2":"file",
-"3":"line1",
-"4":"line2",
-"5":"signal",
-"6":"file1",
-"7":"file2",
-"8":"reset",
-"9":"line"};
+"3":"line",
+"4":"signal"};

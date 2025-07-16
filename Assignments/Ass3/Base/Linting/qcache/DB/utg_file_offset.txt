@@ -10,3 +10,6 @@ ripple_counter_1730966871.utg.db:24435
 ripple_counter.utg.db:28235
 shift_reg_2104903448.utg.db:32035
 shift_reg.utg.db:35727
+sle_2004448603.utg.db:53789
+sle.utg.db:61116
+sle_927588924.utg.db:58579

@@ -1,4 +1,4 @@
-m_allSignalsCdcSignals : 1 , m_preferCdcSignalReporting : 0, m_topModule : shift_reg
+m_allSignalsCdcSignals : 1 , m_preferCdcSignalReporting : 0, m_topModule : sle
 
-Module : shift_reg
+Module : sle
 

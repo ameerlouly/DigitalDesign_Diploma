@@ -23,6 +23,8 @@ R0
 R0
 R0
 R0
+R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -32,16 +34,15 @@ R0
 cModel Technology
 Z1 dD:/Github/DigitalDesign_Diploma/Session_Labs/Session3
 T_opt
-!s110 1752567558
-VR@KTjK>2FGR3T;VWjJbAM0
-04 14 4 work bcd_counter_tb fast 0
-=1-b42e99eb7678-68760f06-244-2660
+!s110 1752706275
+Vj2e;m1HI0>6=6QGk`T26<1
+04 6 4 work sle_tb fast 0
+=1-0023cdb817c1-68782ce3-62-c70
 Z2 !s124 OEM100
 Z3 o-quiet -auto_acc_if_foreign -work work +acc
 Z4 tCvgOpt 0
 n@_opt
 Z5 OL;O;2021.1;73
-R1
 T_opt1
 !s110 1752589747
 VV]_8DHJ0QiL474`S4=7J83
@@ -63,6 +64,7 @@ R3
 R4
 n@_opt2
 R5
+R1
 vbcd_counter
 Z6 !s110 1752577682
 !i10b 1
@@ -183,15 +185,15 @@ Z23 w1752564721
 Z24 8D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
 Z25 FD:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
 !i122 50
-L0 1 35
+Z26 L0 1 35
 R9
 R10
 r1
 !s85 0
 31
 R19
-Z26 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
-Z27 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
+Z27 !s107 D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
+Z28 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v|
 !i113 0
 R22
 R4
@@ -262,7 +264,7 @@ R19
 R22
 R4
 vshift_reg
-Z28 !s110 1752613102
+Z29 !s110 1752613102
 !i10b 1
 !s100 oUB[<WF2`^a]3BQcKUe8^1
 IGldnfl5IF<OQLWURkgNkR1
@@ -277,14 +279,14 @@ R10
 r1
 !s85 0
 31
-Z29 !s108 1752613102.000000
-Z30 !s107 shift_reg_tb.v|shift_reg.v|
-Z31 !s90 -reportprogress|300|shift_reg.v|shift_reg_tb.v|
+Z30 !s108 1752613102.000000
+Z31 !s107 shift_reg_tb.v|shift_reg.v|
+Z32 !s90 -reportprogress|300|shift_reg.v|shift_reg_tb.v|
 !i113 0
 R14
 R4
 vshift_reg_tb
-R28
+R29
 !i10b 1
 !s100 C3P:e_ek9SB4`_:Nio1^H1
 Iha3GH=C9g`EH2ET7jSYel1
@@ -299,9 +301,53 @@ R10
 r1
 !s85 0
 31
-R29
 R30
 R31
+R32
+!i113 0
+R14
+R4
+vsle
+Z33 !s110 1752706273
+!i10b 1
+!s100 4S<zfMA4Fm9mjFQ;EX0dS2
+ID18Q:OW:1ekDndFVT7`=X2
+R7
+w1752703583
+8SLE.v
+FSLE.v
+!i122 73
+R26
+R9
+R10
+r1
+!s85 0
+31
+Z34 !s108 1752706273.000000
+Z35 !s107 SLE_tb.v|SLE.v|
+Z36 !s90 -reportprogress|300|SLE.v|SLE_tb.v|
+!i113 0
+R14
+R4
+vsle_tb
+R33
+!i10b 1
+!s100 NKZaP_Y8?Hb1h_Le3z;6m0
+ICQN8:SXH2^zUg598OEMdE3
+R7
+w1752706237
+8SLE_tb.v
+FSLE_tb.v
+!i122 73
+L0 1 75
+R9
+R10
+r1
+!s85 0
+31
+R34
+R35
+R36
 !i113 0
 R14
 R4
@@ -344,8 +390,8 @@ r1
 !s85 0
 31
 R19
-R26
 R27
+R28
 !i113 0
 R22
 R4

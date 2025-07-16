@@ -1,24 +1,17 @@
 >1
 >2
-13
-0:25:zi_dff_o8_i8_5*i1_i8_3*i1
-1:6:zi_dff
+7
+0:16:zi_latch_o1_4*i1
+1:8:zi_latch
 2:1:Q
 3:1:D
-4:3:CLK
-5:2:EN
-6:3:SET
-7:3:RST
-8:2:AL
-9:2:AD
-10:3:AOE
-11:2:OE
-12:4:SRST
+4:2:EN
+5:2:OE
+6:4:SRST
 <2
 >3
-2
-0:5:1 7 0
-1:2:0 
+1
+0:2:0 
 <3
 >4
 e1;
@@ -26,17 +19,11 @@ e1;
 >5
 b0<5
 >6
-b11@2d1t0;
+b5@2d1t0;
 @3t0;
-@4t1;
-@5t1;
-@6t1;
-@7t1;
-@8t1;
-@9t0;
-@10t1;
-@11t1;
-@12t1;
+@4t0;
+@5t0;
+@6t0;
 <6
 >7
 c0
@@ -87,18 +74,18 @@ c0
 <1
 >1
 >2
-6
-0:17:zi_mux_o8_i1_2*i8
-1:6:zi_mux
+7
+0:17:zi_select_o1_4*i1
+1:9:zi_select
 2:1:O
-3:1:S
+3:2:C1
 4:2:D1
-5:2:D0
+5:2:C2
+6:2:D2
 <2
 >3
-2
-0:5:1 7 0
-1:2:0 
+1
+0:2:0 
 <3
 >4
 #2e1;
@@ -106,112 +93,11 @@ c0
 >5
 b0<5
 >6
-b4@2d1t0;
-@3t1;
-@4t0;
-@5t0;
-<6
->7
-c0
-<7
-<1
->1
->2
-3
-0:16:zi_const_8'b0_o8
-1:13:zi_const_8'b0
-2:1:O
-<2
->3
-1
-0:5:1 7 0
-<3
->4
-#3e1;
-<4
->5
-b0<5
->6
-b1@2d1t0;
-<6
->7
-c0
-<7
-<1
->1
->2
-3
-0:16:zi_const_8'b1_o8
-1:13:zi_const_8'b1
-2:1:O
-<2
->3
-1
-0:5:1 7 0
-<3
->4
-#4e1;
-<4
->5
-b0<5
->6
-b1@2d1t0;
-<6
->7
-c0
-<7
-<1
->1
->2
-5
-0:19:zi_oper_32_o8_i7_i1
-1:10:zi_oper_32
-2:1:O
-3:2:I1
-4:2:I2
-<2
->3
-3
-0:5:1 7 0
-1:5:1 6 0
-2:2:0 
-<3
->4
-#5e1;
-<4
->5
-b0<5
->6
-b3@2d1t0;
-@3t1;
-@4t2;
-<6
->7
-c0
-<7
-<1
->1
->2
-5
-0:18:zi_oper_29_o1_2*i1
-1:10:zi_oper_29
-2:1:O
-3:2:I1
-4:2:I2
-<2
->3
-1
-0:2:0 
-<3
->4
-#6e1;
-<4
->5
-b0<5
->6
-b3@2d1t0;
+b5@2d1t0;
 @3t0;
 @4t0;
+@5t0;
+@6t0;
 <6
 >7
 c0
@@ -230,7 +116,7 @@ c0
 0:2:0 
 <3
 >4
-#7e1;
+#3e1;
 <4
 >5
 b0<5
@@ -256,7 +142,7 @@ c0
 0:2:0 
 <3
 >4
-#8e1;
+#4e1;
 <4
 >5
 b0<5
@@ -271,51 +157,28 @@ c0
 <1
 >1
 >2
-4
-0:16:zi_oper_38_o7_i8
-1:10:zi_oper_38
+6
+0:14:zi_mux_o1_3*i1
+1:6:zi_mux
 2:1:O
-3:1:I
+3:1:S
+4:2:D1
+5:2:D0
 <2
 >3
-2
-0:5:1 6 0
-1:5:1 7 0
-<3
->4
-#9e1;
-<4
->5
-b0<5
->6
-b2@2d1t0;
-@3t1;
-<6
->7
-c0
-<7
-<1
->1
->2
-4
-0:16:zi_oper_38_o1_i8
-1:10:zi_oper_38
-2:1:O
-3:1:I
-<2
->3
-2
+1
 0:2:0 
-1:5:1 7 0
 <3
 >4
-#10e1;
+#5e1;
 <4
 >5
 b0<5
 >6
-b2@2d1t0;
-@3t1;
+b4@2d1t0;
+@3t0;
+@4t0;
+@5t0;
 <6
 >7
 c0
@@ -323,166 +186,131 @@ c0
 <1
 >1
 >2
-70
-0:9:shift_reg
-1:4:work
-2:65:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
-3:5:32'b1
-4:11:LOAD_AVALUE
-5:11:LOAD_SVALUE
-6:12:32'h4c454654
-7:15:SHIFT_DIRECTION
-8:5:32'h8
-9:11:SHIFT_WIDTH
-10:14:<zin_internal>
-11:15:\$global_clock 
-12:4:aclr
-13:4:aset
-14:3:clk
-15:4:data
-16:6:enable
-17:4:load
-18:1:q
-19:4:sclr
-20:7:shiftin
-21:8:shiftout
-22:4:sset
-23:9:zi_rtld_7
-24:10:zi_rtld_27
-25:10:zi_rtld_28
-26:10:zi_rtld_29
-27:10:zi_rtld_30
-28:10:zi_rtld_31
-29:10:zi_rtld_32
-30:10:zi_rtld_33
-31:10:zi_rtld_34
-32:10:zi_rtld_35
-33:11:zi_rtld_n11
-34:11:zi_rtld_n12
-35:11:zi_rtld_n13
-36:11:zi_rtld_n14
-37:11:zi_rtld_n15
-38:11:zi_rtld_n16
-39:11:zi_rtld_n17
-40:11:zi_rtld_n18
-41:11:zi_rtld_n19
-42:11:zi_rtld_n20
-43:11:zi_rtld_n21
-44:11:zi_rtld_n22
-45:11:zi_rtld_n23
-46:13:zi_rip_0_s6_0
-47:13:zi_rip_1_s7_7
-48:11:zi_rtld_i11
-49:11:zi_rtld_i12
-50:13:zi_rtld_i13_3
-51:11:zi_rtld_i14
-52:13:zi_rtld_i15_4
-53:11:zi_rtld_i16
-54:14:zi_rtld_i17_28
-55:11:zi_rtld_i18
-56:13:zi_rtld_i19_3
-57:13:zi_rtld_i20_4
-58:14:zi_rtld_i21_20
-59:11:zi_rtld_i23
-60:14:zi_rtld_i25_15
-61:14:zi_rtld_i25_16
-62:14:zi_rtld_i25_17
-63:14:zi_rtld_i25_18
-64:14:zi_rtld_i25_19
-65:14:zi_rtld_i25_21
-66:14:zi_rtld_i25_22
-67:14:zi_rtld_i25_23
-68:14:zi_rtld_i25_24
-69:14:zi_rtld_i25_25
+4
+0:15:zi_assign_o1_i1
+1:9:zi_assign
+2:1:O
+3:1:I
 <2
 >3
-7
-0:140:10 "scalar signed[31:0]" "<zin_internal>" 0 6 1 7 "integer[31:0]" "<zin_internal>" 0 10 32 31 0 7 "scalar signed" "<zin_internal>" 0 2 1 0 0
-1:127:10 "scalar[31:0]" "<zin_internal>" 0 36 1 7 "integer[31:0]" "<zin_internal>" 0 10 32 31 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
-2:37:7 "scalar" "<zin_internal>" 0 0 1 0 0
-3:123:10 "scalar[7:0]" "<zin_internal>" 0 4 1 7 "integer[7:0]" "<zin_internal>" 0 10 32 7 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
-4:5:1 6 0
-5:2:0 
-6:5:1 7 0
+1
+0:2:0 
 <3
 >4
-#11b1f2l1.30t0c4p4v3F0L2T0U0p5v3F0L4T0U0p7v6F0L3T1U0p9v8F0L5T0U0;
+#6e1;
 <4
 >5
-b35@11f10t2;
-@12l7knmir2X12X1T2s@sit2;
-@13l7knmir2X12X3T2s@sit2;
-@14l7knmir1X12T1s@t2;
-@15l8knmir1X23T1sNt3;
-@16l7knmir1X17T1sit2;
-@17l7knmir1X22T1sit2;
-@18l10krmod7X14X2X3X2X2X2X2S7sNsNsNsNsNsasar2X25X2T2sasat3;
-@19l7knmir1X18T1sit2;
-@20l7knmir2X25X2T2sasat2;
-@21l9krmod2X25X2S2sasat2;
-@22l7knmir1X20T1sit2;
-@23t4;
-@24t5;
-@25t5;
-@26t5;
-@27t5;
-@28t5;
-@29t5;
-@30t5;
-@31t5;
-@32t5;
-@33t6;
-@34t6;
-@35t6;
-@36t6;
-@37t6;
-@38t6;
-@39t6;
-@40t6;
-@41t6;
-@42t5;
-@43t5;
-@44t5;
-@45t5;
+b0<5
+>6
+b2@2d1t0;
+@3t0;
+<6
+>7
+c0
+<7
+<1
+>1
+>2
+40
+0:3:sle
+1:4:work
+2:59:D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v
+3:14:<zin_internal>
+4:15:\$global_clock 
+5:3:ADn
+6:3:ALn
+7:3:clk
+8:1:D
+9:2:en
+10:3:LAT
+11:1:Q
+12:3:Qff
+13:4:QLat
+14:2:SD
+15:3:SLn
+16:9:zi_rtld_7
+17:10:zi_rtld_13
+18:10:zi_rtld_14
+19:11:zi_rtld_n10
+20:11:zi_rtld_n11
+21:11:zi_rtld_n12
+22:11:zi_rtld_n13
+23:11:zi_rtld_n15
+24:11:zi_rtld_n16
+25:11:zi_rtld_n17
+26:11:zi_rtld_n18
+27:10:zi_rtld_i9
+28:11:zi_rtld_i10
+29:13:zi_rtld_i11_6
+30:13:zi_rtld_i12_8
+31:13:zi_rtld_i12_9
+32:11:zi_rtld_i14
+33:13:zi_rtld_i15_7
+34:14:zi_rtld_i15_10
+35:14:zi_rtld_i15_11
+36:13:zi_rtld_i16_6
+37:13:zi_rtld_i17_6
+38:11:zi_rtld_i18
+39:11:zi_rtld_i19
+<2
+>3
+2
+0:37:7 "scalar" "<zin_internal>" 0 0 1 0 0
+1:2:0 
+<3
+>4
+#7b1f2l1.45t0;
+<4
+>5
+b23@4f3t0;
+@5l2knmir1X25T1sNt0;
+@6l2knmir2X23X1T2s@sit0;
+@7l2knmir2X10X13T2sis@t0;
+@8l2knmir2X15X26T2sasNt0;
+@9l2knmir2X11X26T2sisit0;
+@10l2knmir4X9X12X2X3T4sisas@sit0;
+@11l3knmod1X21S1sat0;
+@12l5krd3X25X14X2S3sNsNsNr1X21T1sat0;
+@13l4kld2X13X2S2sasar1X21T1sat0;
+@14l2knmir2X13X26T2sasNt0;
+@15l2knmir2X12X26T2sisit0;
+@16t1;
+@17t1;
+@18t1;
+@19t1;
+@20t1;
+@21t1;
+@22t1;
+@23t1;
+@24t1;
+@25t1;
+@26t1;
 <5
 >6
-b11@19l7x9t2;
-@22l7x12t2;
-@20l7x10t2;
-@17l7x7t2;
-@14l7x4t2;
-@16l7x6t2;
-@12l7x2t2;
-@13l7x3t2;
-@15l8x5t3;
-@21l9d1x11t2;
-@18l10d1x8t3;
+b9@8l2x5t0;
+@7l2x4t0;
+@9l2x6t0;
+@6l2x3t0;
+@5l2x2t0;
+@15l2x12t0;
+@14l2x11t0;
+@10l2x7t0;
+@11l3d1x8t0;
 <6
 >7
-c24
-#9@46i69x3 6 13 8;
-#10@47i70x3 6 34 8;
-@48i47l10x12 24 8 28 4 6 0 0 32 31 0 0 0;
-#2@49i49x5 10 28 9 23 27;
-#3@50i50x2 4 23;
-#2@51i51x5 10 27 12 24 26;
-#4@52i52x2 4 24;
-#2@53i53x5 10 26 7 5 25;
-#5@54i54x4 8 25 13 10;
-#2@55i55x5 10 31 2 29 30;
-#3@56i56x2 4 29;
-#4@57i57x2 4 30;
-#6@58i58x4 8 32 2 3;
-#1@59i48l9x11 23 11 0 34 0 4 0 35 0 0 24;
-#7@60i59x3 6 14 2;
-#7@61i60x3 6 15 3;
-#7@62i62x3 6 17 9;
-#7@63i63x3 6 18 12;
-#7@64i64x3 6 19 7;
-#8@65i61x4 8 16 14 15;
-#8@66i65x4 8 20 18 19;
-#8@67i66x4 8 21 17 20;
-#8@68i67x4 8 22 6 21;
-#8@69i68x4 8 35 16 22;
+c13
+@27i33l4x6 12 10 17 18 0 0;
+#2@28i35x6 12 17 16 11 12 5;
+#3@29i36x3 6 16 12;
+#4@30i37x4 8 13 4 6;
+#4@31i38x4 8 18 7 13;
+#1@32i34l5x12 24 9 17 4 20 0 0 22 21 0 0 0;
+#3@33i39x3 6 14 7;
+#4@34i40x4 8 15 3 14;
+#4@35i41x4 8 20 15 6;
+#3@36i42x3 6 21 2;
+#3@37i43x3 6 22 3;
+#5@38i44h1x5 10 23 7 10 9;
+#6@39i45l21h1x3 6 8 23;
 <7
 <1

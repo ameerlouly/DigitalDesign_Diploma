@@ -1,5 +1,5 @@
-Register Bits;9
-Latch Bits;0
+Register Bits;1
+Latch Bits;1
 User-specified Blackboxes;
 Inferred Blackboxes;
 Empty Modules;

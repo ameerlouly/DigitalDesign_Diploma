@@ -1,23 +1,30 @@
-D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module shift_reg
-
-Top level modules:
-	shift_reg
-
-} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
+D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module dff_en_pre
 
 Top level modules:
 	dff_en_pre
 
-} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module ripple_counter
+-- Compiling module shift_reg
 
 Top level modules:
-	ripple_counter
+	shift_reg
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sle
+
+Top level modules:
+	sle
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dff_en_pre_tb
+
+Top level modules:
+	dff_en_pre_tb
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -28,19 +35,12 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	ff
 
-} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/q2_tb.v
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module dff_en_pre_tb
+-- Compiling module ripple_counter
 
 Top level modules:
-	dff_en_pre_tb
-
-} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module ripple_counter_tb
-
-Top level modules:
-	ripple_counter_tb
+	ripple_counter
 
 } {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ff_tb.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
@@ -50,5 +50,12 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	dff_tb
 	tff_tb
+
+} {} {}} D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/ripple_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ripple_counter_tb
+
+Top level modules:
+	ripple_counter_tb
 
 } {} {}}

@@ -1,1 +1,1 @@
-D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v#@#5
+D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v#@#2

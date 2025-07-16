@@ -1,0 +1,1 @@
+TraceHierPathPinToPin;sle;clk,,Q,RST,clk,,Q,CLK,
