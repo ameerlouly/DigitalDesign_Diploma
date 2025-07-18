@@ -130,9 +130,9 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><assign_chain|Unflagged
   <PassedCheck><assign_width_overflow|Unflagged
   <PassedCheck><assign_with_multi_arith_operations|Unflagged
-  <PassedCheck><assigns_mixed_in_always_block|Flagged
-  <PassedCheck><assigns_mixed|Flagged
-  <PassedCheck><async_reset_active_high|Flagged
+  <PassedCheck><assigns_mixed_in_always_block|Unflagged
+  <PassedCheck><assigns_mixed|Unflagged
+  <PassedCheck><async_reset_active_high|Unflagged
   <PassedCheck><blackbox_input_conn_inconsistent|Unflagged
   <PassedCheck><blackbox_output_control_signal|Unflagged
   <PassedCheck><bus_bit_as_clk|Unflagged
@@ -201,7 +201,7 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><re_entrant_output|Unflagged
   <PassedCheck><reference_event_without_edge|Unflagged
   <PassedCheck><reset_port_connection_static|Unflagged
-  <PassedCheck><reset_set_non_const_assign|Unflagged
+  <PassedCheck><reset_set_non_const_assign|Flagged
   <PassedCheck><reset_set_with_both_polarity|Unflagged
   <PassedCheck><sensitivity_list_edge_multi_bit|Unflagged
   <PassedCheck><sensitivity_list_operator_unexpected|Unflagged

@@ -5,3 +5,4 @@ bcd_counter.aedb:40221
 dff_2078556637.aedb:50691
 ripple_counter.aedb:60457
 shift_reg.aedb:75343
+sle.aedb:139719

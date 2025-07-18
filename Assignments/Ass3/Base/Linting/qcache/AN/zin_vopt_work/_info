@@ -8,6 +8,11 @@ R0
 R0
 R0
 R0
+R0
+R0
+R0
+R0
+R0
 13
 !s112 1.1
 !i10d 8192
@@ -16,9 +21,9 @@ R0
 cModel Technology
 dF:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin
 Tzi_opt_def_603573782_1
-!s110 1752613462
-Vd7^QFCK7gJ`gV:]87:aT41
-09 9 4 z0in_work shift_reg fast 0
+!s110 1752703294
+V4b45=;cWndIL@CK=lG4T91
+09 3 4 z0in_work sle fast 0
 !s96 mlvalmap
 !s102 +cover=f
 !s124 OEM100

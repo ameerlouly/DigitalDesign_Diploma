@@ -2,11 +2,11 @@
 Lint Check Report
 Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
 
-Timestamp            : Wed Jul 16 00:04:33 2025
+Timestamp            : Thu Jul 17 01:01:45 2025
 Description          : Report for referring checks count, check violations details, and  design information
-Design               : shift_reg
+Design               : sle
 Database             : D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/lint.db
-Design Quality Score : 100%
+Design Quality Score : 99.1%
 
 Sections:
    Section 1 : Check Summary
@@ -23,15 +23,13 @@ Section 1 : Check Summary
 -------------
 
 ---------------
-| Warning (0) |
+| Warning (1) |
 ---------------
+  reset_set_non_const_assign              : 1
 
 ------------
-| Info (5) |
+| Info (1) |
 ------------
-  assigns_mixed                           : 1
-  assigns_mixed_in_always_block           : 1
-  async_reset_active_high                 : 2
   multi_ports_in_single_line              : 1
 
 ----------------
@@ -48,38 +46,24 @@ Section 2 : Check Details
 
 
 ---------------
-| Warning (0) |
+| Warning (1) |
 ---------------
 
+Check: reset_set_non_const_assign [Category: Reset] (1)
+       [Message: Signal is assigned non-constant value under set/reset condition. Signal '<signal>', Module '<module>', File '<file>', Line '<line>'.]
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+reset_set_non_const_assign: [uninspected] Signal is assigned non-constant value under set/reset condition. Signal 'Qff', Module 'sle', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v', Line '25'. [RTL ID:e836b815_00200]
+
+
 
 ------------
-| Info (5) |
+| Info (1) |
 ------------
-
-Check: assigns_mixed [Category: Simulation] (1)
-       [Message: Signal is assigned with blocking and non-blocking assignments. Signal '<signal>', Module '<module>', File '<file1>', Line '<line1>' and File '<file2>', Line '<line2>'.]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-assigns_mixed: [uninspected] Signal is assigned with blocking and non-blocking assignments. Signal 'q', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '14' and File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '25'.
-
-
-Check: assigns_mixed_in_always_block [Category: Simulation] (1)
-       [Message: Always block has blocking and non-blocking assignments. Module '<module>', File '<file>', Line '<line1>', Line '<line2>'.]
---------------------------------------------------------------------------------------------------------------------------------------------
-assigns_mixed_in_always_block: [uninspected] Always block has blocking and non-blocking assignments. Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '23', Line '25'. [RTL ID:23825dde_00200]
-
-
-Check: async_reset_active_high [Category: Clock] (2)
-       [Message: Asynchronous reset is active high. Reset '<reset>', Module '<module>', File '<file>', Line '<line>'.]
------------------------------------------------------------------------------------------------------------------------
-async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'aclr', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '13'.
-
-async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'aset', Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '15'.
-
 
 Check: multi_ports_in_single_line [Category: Rtl Design Style] (1)
        [Message: Multiple ports are declared in one line. Module '<module>', File '<file>', Line '<line>'.]
 ------------------------------------------------------------------------------------------------------------
-multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'shift_reg', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/shift_reg.v', Line '7'.
+multi_ports_in_single_line: [uninspected] Multiple ports are declared in one line. Module 'sle', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/SLE.v', Line '2'.
 
 
 
@@ -95,8 +79,8 @@ Section 3 : Design Information
 -----------
 | Summary |
 -----------
-  Register Bits                           : 9
-  Latch Bits                              : 0
+  Register Bits                           : 1
+  Latch Bits                              : 1
   User-specified Blackboxes               : 0
   Inferred Blackboxes                     : 0
   Empty Modules                           : 0

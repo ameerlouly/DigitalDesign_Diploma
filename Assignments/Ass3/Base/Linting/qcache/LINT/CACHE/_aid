@@ -22,5 +22,5 @@ infact=F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../infac
 vhdlopt_lib=F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../vhdlopt_lib
 vh_ux01v_lib=F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../vh_ux01v_lib
 work=./work
-*RAW_COMMAND create_netlist -zdb D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/qcache/DB/zdb_19 -tool lint -d shift_reg -L work 
+*RAW_COMMAND create_netlist -zdb D:/Github/DigitalDesign_Diploma/Assignments/Ass3/Base/Linting/qcache/DB/zdb_35 -tool lint -d sle -L work 
 *COMMAND create_netlist 
