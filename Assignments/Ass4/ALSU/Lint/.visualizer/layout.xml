@@ -1,0 +1,11 @@
+<LayoutInfo version="1" CurrentRTLLayout="Default">
+ <Layout Name="Default" Type="IDE_pref">
+  <dockareas top="0" left="1194" right="450" bottom="236"/>
+  <taborder left="zinflownavigator+" bottom="transcript+zinmsgviewer+"/>
+  <activetab left="zinflownavigator" activewindow="zinflownavigator" bottom="zinmsgviewer"/>
+  <window type="zinflownavigator" dock_location="left" undocked="0" y="0" x="0" title="Flow Navigator" visible="1"/>
+  <window type="transcript" dock_location="bottom" undocked="0" y="0" x="0" visible="1"/>
+  <window type="zinmsgviewer" dock_location="bottom" undocked="0" y="0" x="0" title="Message Viewer" visible="1"/>
+  <window type="rtl" undocked="0" y="50" x="50" width="1200" height="800" visible="1"/>
+ </Layout>
+</LayoutInfo>

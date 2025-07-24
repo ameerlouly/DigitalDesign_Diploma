@@ -1,0 +1,30 @@
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Thu Jul 24 19:45:34 2025 by User on DESKTOP-NG8FN4D
+
+
+# 
+# Questa Static Verification System
+# Version 2021.1 4558100 win64 28-Jan-2021
+
+log created Thu Jul 24 19:45:32 2025 by User on DESKTOP-NG8FN4D
+
+
+Command: netlist elaborate
+Command arguments:
+    -zdb
+      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_1
+    -tool lint
+    -d alsu
+    -L work
+
+Questa Debug flags:
+ 4300:  lint_gui_mode        (Default False)
+
+
+## Elaborating Design...
+End of log Thu Jul 24 19:45:33 2025
+
+

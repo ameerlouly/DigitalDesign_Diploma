@@ -1,0 +1,9 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 19:45:25 on Jul 24,2025
+vlog D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v -work work 
+-- Compiling module alsu
+
+Top level modules:
+	alsu
+End time: 19:45:26 on Jul 24,2025, Elapsed time: 0:00:01
+Errors: 0, Warnings: 0
