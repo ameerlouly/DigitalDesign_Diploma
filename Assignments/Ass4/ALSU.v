@@ -6,7 +6,7 @@ module alsu(A,
             direction,
             red_op_A,
             red_op_B,
-            bypass_A,
+            bypass_A,   
             bypass_B,
             clk,
             rst, 
@@ -56,11 +56,15 @@ always @(posedge clk or posedge rst) begin
     B_reg = B;
     opcode_reg = opcode;
 
-    if(rst)
+    if(rst) begin
         out = 0;
+        leds = 0;
+    end
     else if(bypass_A || bypass_B || Invalid_Case) begin
-        if(Invalid_Case)
+        if(Invalid_Case) begin
             leds = ~leds;
+            out = 0;
+        end
         else
             leds = 0;
         
