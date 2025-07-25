@@ -2,7 +2,7 @@ set Perspective_Version   2
 #
 pref::section perspective
 set perspective_Name       {IDE_pref}
-set perspective_DateTime   {2025-07-24T19:45:25}
+set perspective_DateTime   {2025-07-25T23:35:52}
 set perspective_Directory  {D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint}
 set perspective_USER       {User}
 set perspective_VisId      {2021.1}
@@ -22,7 +22,7 @@ pref::set -type bool -category General -name ListVarDeclOrder -value true -hide 
 pref::set -type int -category General -name GutterIconSize -value 30 -description { Gutter Icon Size } -label { Gutter Icon Size }
 pref::set -type int -category General -name GutterSize -value 35 -description { Gutter Size } -label { Gutter Size }
 pref::set -type int -category General -name GutterPadding -value 7 -description { Gutter Icon Padding } -label { Gutter Icon Padding }
-pref::set -type string -category General -name IDEVisibleWindows -value {} -hide -description none -label none
+pref::set -type string -category General -name IDEVisibleWindows -value Lint###zincdcdutview,zinschematicview,zinlintDesignMetricsView,zinlintMsgDashboardView,zinlintMsgView,zinflownavigator,zinlintDesignInfoView,zinmsgviewer,zindetails,transcript,source,zinlintMsgSummaryView,zinlintMsgStatusHistoryView -hide -description none -label none
 pref::set -type bool -category General -name schSelectOnRMB -value false -hide -description none -label none
 pref::set -type category -value Startup -hide
 pref::set -type bool -category {Source Browser} -name EnableValueAnnotation -value true -hide -description {Displays signal values below their names if true} -label {Enable Value Annotation}
@@ -66,9 +66,9 @@ pref::set -type category -value {CDC.Domain Colors}
 pref::set -type category -value {CDC.Domain Colors.User Defined}
 pref::set -type category -value {CDC.Domain Colors.Predefined}
 pref::set -type category -value Lint -hide
-pref::set -type string -category Lint -name msgViewHiddenColumns -value {} -hide -description none -label none
+pref::set -type string -category Lint -name msgViewHiddenColumns -value , -hide -description none -label none
 pref::set -type string -category Lint -name msgViewDefaultGrouping -value {} -hide -description none -label none
-pref::set -type string -category Lint -name msgViewDefaultOrderWidth -value {} -hide -description none -label none
+pref::set -type string -category Lint -name msgViewDefaultOrderWidth -value Severity:177,Type:177,Phase:100,Message:300,Comment:100,Status:100,Owner:100,Reviewer:100,File:100,Line:100 -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewHiddenColumns -value {} -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewDefaultColumnGrouping -value {} -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewColumnOrderWidth -value {} -hide -description none -label none
@@ -78,13 +78,13 @@ pref::set -type string -category Lint -name paDetailviewDefaultGrouping -value {
 pref::set -type string -category Lint -name paDetailviewDefaultOrderWidth -value {} -hide -description none -label none
 pref::set -type string -category Lint -name paCellDetailHiddenColumns -value {} -hide -description none -label none
 pref::set -type string -category Lint -name paCellDetailDefaultGrouping -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesHiddenColumns -value {} -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesHiddenColumns -value {Design Category,Comment,Reviewer} -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesDefaultGrouping -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesviewDefaultOrderWidth -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesviewToolButtonFilters -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesviewToolButtonFiltersTuple -value {} -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesviewDefaultOrderWidth -value Severity:127,Status:60,Check:311,Alias:100,Message:500,Module:150,Category:150,State:100,Owner:100,STARC*Reference:100 -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesviewToolButtonFilters -value Pending,Uninspected,Bug -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesviewToolButtonFiltersTuple -value Status!-!Equals!-!pending!@!Status!-!Equals!-!uninspected!@!Status!-!Equals!-!bug -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesviewDialogFilters -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesviewPythonFilterStr -value {} -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesviewPythonFilterStr -value {lintToolButtonStatusFilter!-!((df["Status"].str.contains("^(?s:pending)$", case=True)) | (df["Status"].str.contains("^(?s:uninspected)$", case=True)) | (df["Status"].str.contains("^(?s:bug)$", case=True)))} -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesviewDialogFiltersEnabledState -value {} -hide -description none -label none
 pref::set -type string -category Lint -name lintMsgStatusHistoryviewHiddenColumns -value {} -hide -description none -label none
 pref::set -type string -category Lint -name lintMsgStatusHistoryviewDefaultGrouping -value {} -hide -description none -label none

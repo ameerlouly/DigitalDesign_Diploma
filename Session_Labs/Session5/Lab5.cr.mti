@@ -1,0 +1,15 @@
+D:/GitHub/DigitalDesign_Diploma/Session_Labs/Session5/dpr_sync.v {1 {vlog -work work -vopt -stats=none D:/GitHub/DigitalDesign_Diploma/Session_Labs/Session5/dpr_sync.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dpr_sync
+
+Top level modules:
+	dpr_sync
+
+} {} {}} D:/GitHub/DigitalDesign_Diploma/Session_Labs/Session5/dpr_sync_tb.v {1 {vlog -work work -vopt -stats=none D:/GitHub/DigitalDesign_Diploma/Session_Labs/Session5/dpr_sync_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dpr_sync_tb
+
+Top level modules:
+	dpr_sync_tb
+
+} {} {}}

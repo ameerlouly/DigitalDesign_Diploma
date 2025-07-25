@@ -8,4 +8,4 @@ add wave *
 
 run -all
 
-#quit -sim
+quit -sim

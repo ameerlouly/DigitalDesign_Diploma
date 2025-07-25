@@ -1,0 +1,53 @@
+>1
+>2
+17
+0:4:alsu
+1:4:work
+2:55:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v
+3:1:A
+4:1:B
+5:6:opcode
+6:3:cin
+7:9:serial_in
+8:9:direction
+9:8:red_op_A
+10:8:red_op_B
+11:8:bypass_A
+12:8:bypass_B
+13:3:clk
+14:3:rst
+15:3:out
+16:4:leds
+<2
+>3
+4
+0:123:10 "scalar[2:0]" "<zin_internal>" 0 4 1 7 "integer[2:0]" "<zin_internal>" 0 10 32 2 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+1:37:7 "scalar" "<zin_internal>" 0 0 1 0 0
+2:123:10 "scalar[5:0]" "<zin_internal>" 0 4 1 7 "integer[5:0]" "<zin_internal>" 0 10 32 5 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+3:126:10 "scalar[15:0]" "<zin_internal>" 0 4 1 7 "integer[15:0]" "<zin_internal>" 0 10 32 15 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+<3
+>4
+b1f2l1.147t11;
+<4
+>5
+b0<5
+>6
+b14@3l17t0;
+@4l18t0;
+@5l19t0;
+@6l20t1;
+@7l21t1;
+@8l22t1;
+@9l23t1;
+@10l24t1;
+@11l25t1;
+@12l26t1;
+@13l27t1;
+@14l28t1;
+@15l29d1t2;
+@16l30d1t3;
+<6
+>7
+c0
+<7
+<1

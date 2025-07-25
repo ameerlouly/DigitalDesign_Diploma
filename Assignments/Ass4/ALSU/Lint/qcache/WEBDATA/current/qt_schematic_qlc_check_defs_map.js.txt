@@ -1,0 +1,6 @@
+always_signal_assign_large:off
+seq_block_has_duplicate_assign:off
+async_reset_active_high:off
+var_read_before_set:off
+inferred_blackbox:off
+

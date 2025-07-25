@@ -49,14 +49,14 @@ module alsu_tb();
         bypass_A = 0;
         bypass_B = 0;
         clk = 0;
-        rst = 1
+        rst = 1;
         repeat(2) @(negedge clk)
-        if(out != 0 && leds != 0;) begin
+        if(out != 0 && leds != 0) begin
             $display("Error - Reset");
             $exit;
         end
 
-        // Opcode functionality
+        // bypass functionality
         rst = 0;
         bypass_A = 1;
         bypass_B = 1;
@@ -164,7 +164,8 @@ module alsu_tb();
                 $exit;
             end
         end
-
+        $display("Simulation Successful");
+        $exit;
     end // End of Initial Block
 
 endmodule
