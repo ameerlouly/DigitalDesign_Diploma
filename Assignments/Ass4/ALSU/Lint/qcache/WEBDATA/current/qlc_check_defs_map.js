@@ -1,5 +1,5 @@
 var setupInfo = { "setupInfo" : [
-{ "HOME_0IN" : "C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64" },{ "QHOME" : "C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64" },{ "ZSH" : "" },{ "ZI_RTLD_LIB" : "" }]};
+{ "HOME_0IN" : "F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64" },{ "QHOME" : "F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64" },{ "ZSH" : "" },{ "ZI_RTLD_LIB" : "" }]};
 var category = { "category" : [
 { "categoryId" : "0" , "categoryName":"Rtl Design Style" },
 { "categoryId" : "1" , "categoryName":"Simulation" },
@@ -25,18 +25,15 @@ var checks = { "checks":[
 { "checksId":"0", "checksName":"always_signal_assign_large","severityId":"2","categoryId":"0"},
 { "checksId":"1", "checksName":"seq_block_has_duplicate_assign","severityId":"1","categoryId":"0"},
 { "checksId":"2", "checksName":"async_reset_active_high","severityId":"2","categoryId":"5"},
-{ "checksId":"3", "checksName":"inferred_blackbox","severityId":"1","categoryId":"0"},
-{ "checksId":"4", "checksName":" ","severityId":"3","categoryId":"9"}]};
+{ "checksId":"3", "checksName":" ","severityId":"3","categoryId":"9"}]};
 var schematicStatus = {  
 "always_signal_assign_large" : "off",
 "seq_block_has_duplicate_assign" : "off",
-"async_reset_active_high" : "off",
-"inferred_blackbox" : "off"};
+"async_reset_active_high" : "off"};
 var adaptiveModeStatus = {  
 "always_signal_assign_large" : "off",
 "seq_block_has_duplicate_assign" : "off",
-"async_reset_active_high" : "off",
-"inferred_blackbox" : "on"};
+"async_reset_active_high" : "off"};
 var checkAliasMap = { };
 var argMap = {  
 "1":"count",

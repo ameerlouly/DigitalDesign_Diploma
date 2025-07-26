@@ -14,7 +14,7 @@ module alsu_tb();
     wire [5:0] out;
     wire [15:0] leds;
 
-    alsu DUT(A,
+    alsu_seq DUT(A,
              B,
              opcode,
              cin,
@@ -70,9 +70,10 @@ module alsu_tb();
                 $display("Error - Bypass");
                 $exit;
             end
-            
-
         end
+        
+        rst = 1;
+        repeat(2) @(negedge clk)
         
         // Opcode = 0 functionality
         rst = 0;
@@ -81,7 +82,7 @@ module alsu_tb();
         bypass_A = 0;
         bypass_B = 0;
         opcode = 0;
-        repeat(3) @(negedge clk)
+        repeat(2) @(negedge clk)
         repeat(50) begin
             A = $random;
             B = $random;

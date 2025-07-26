@@ -1,9 +1,10 @@
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
-Start time: 13:19:45 on Jul 26,2025
+Start time: 19:50:25 on Jul 26,2025
 vlog D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v -work work 
--- Compiling module alsu
+-- Compiling module alsu_seq
+** Warning: D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(97): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
 
 Top level modules:
-	alsu
-End time: 13:19:45 on Jul 26,2025, Elapsed time: 0:00:00
-Errors: 0, Warnings: 0
+	alsu_seq
+End time: 19:50:25 on Jul 26,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 1

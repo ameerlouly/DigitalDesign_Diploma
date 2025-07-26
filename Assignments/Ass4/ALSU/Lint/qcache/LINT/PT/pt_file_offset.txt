@@ -1,2 +1,3 @@
-alsu.dmp:203511
-$root.dmp:240516
+alsu.dmp:366727
+$root.dmp:530105
+alsu_seq.dmp:490300

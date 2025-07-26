@@ -1,8 +1,6 @@
-D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v {0 vlog\ -work\ work\ -vopt\ -stats=none\ D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v\nQuestaSim-64\ vlog\ 2021.1\ Compiler\ 2021.01\ Jan\ 19\ 2021\n--\ Compiling\ module\ alsu\n**\ Error:\ (vlog-13069)\ D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(75):\ near\ \",\":\ syntax\ error,\ unexpected\ ',',\ expecting\ '\}'.\n**\ Error:\ (vlog-13069)\ D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(77):\ near\ \",\":\ syntax\ error,\ unexpected\ ',',\ expecting\ '\}'.\n\n {4.0 6.0} {}} D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v {1 {vlog -work work -vopt -stats=none D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v
+D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v {0 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module alsu_tb
+-- Compiling module alsu_seq
+** Error: (vlog-13069) D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(92): near "generate": syntax error, unexpected generate.
 
-Top level modules:
-	alsu_tb
-
-} {} {}}
+} {4.0 5.0} {}}

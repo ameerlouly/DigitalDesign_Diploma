@@ -1,2 +1,4 @@
-alsu_330887092.utg.db:48268
-alsu.utg.db:53128
+alsu_330887092.utg.db:87148
+alsu.utg.db:92008
+alsu_seq_1395898582.utg.db:117008
+alsu_seq.utg.db:122209

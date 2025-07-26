@@ -1,21 +1,26 @@
 <LayoutInfo version="1" CurrentRTLLayout="Default">
- <Layout Name="Default" Type="IDE_pref">
-  <dockareas top="0" bottom="243" right="720" left="400"/>
-  <taborder bottom="transcript+zinmsgviewer+zinlintMsgView+zinlintDesignMetricsView+zinlintDesignInfoView+zinlintMsgStatusHistoryView+zinlintMsgDashboardView+" right="zinschematicview+zinlintMsgSummaryView+" left="zinflownavigator+zindetails+zincdcdutview+"/>
-  <activetab bottom="zinlintMsgView" right="zinlintMsgSummaryView" left="zincdcdutview" activewindow="zinlintMsgView"/>
-  <window y="0" dock_location="left" x="0" type="zinflownavigator" title="Flow Navigator" undocked="0" visible="1"/>
-  <window y="0" dock_location="left" x="0" type="zindetails" title="Details" undocked="0" visible="1"/>
-  <window y="0" dock_location="left" x="0" type="zincdcdutview" title="Design" undocked="0" visible="1"/>
-  <window y="0" dock_location="right" x="0" type="zinschematicview" title="Schematic" undocked="0" visible="1"/>
-  <window y="0" dock_location="right" x="0" type="zinlintMsgSummaryView" title="Lint Summary" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="transcript" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinmsgviewer" title="Message Viewer" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinlintMsgView" title="Lint Checks" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinlintDesignMetricsView" title="Design Metrics" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinlintDesignInfoView" title="Design Information" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinlintMsgStatusHistoryView" title="Status History" undocked="0" visible="1"/>
-  <window y="0" dock_location="bottom" x="0" type="zinlintMsgDashboardView" title="Lint Dashboard" undocked="0" visible="1"/>
-  <window y="-9" x="-1" width="1920" height="991" type="rtl" undocked="0" visible="1"/>
-  <window y="0" dock_location="center" x="0" type="source" undocked="0" visible="1"/>
+ <Layout Type="IDE_pref" Name="Default">
+  <dockareas bottom="395" right="643" left="643" top="0"/>
+  <taborder bottom="transcript+zinmsgviewer+zinlintMsgView+zinlintDesignMetricsView+zinlintDesignInfoView+zinlintMsgStatusHistoryView+zinlintMsgDashboardView+" right="zinschematicview+zinlintMsgSummaryView+" left="zinflownavigator+zindetails+zincdcdutview+zinmodulewindowview+"/>
+  <activetab bottom="zinlintMsgView" right="zinschematicview" activewindow="zinschematicview" left="zindetails"/>
+  <window dock_location="left" visible="1" title="Flow Navigator" y="0" x="0" type="zinflownavigator" undocked="0"/>
+  <window dock_location="left" visible="1" title="Details" y="0" x="0" type="zindetails" undocked="0"/>
+  <window dock_location="left" visible="1" title="Design" y="0" x="0" type="zincdcdutview" undocked="0"/>
+  <window dock_location="left" visible="1" title="Modules" y="0" x="0" type="zinmodulewindowview" undocked="0"/>
+  <window dock_location="right" visible="1" title="Schematic 1" y="0" x="0" type="zinschematicview" undocked="0"/>
+  <window dock_location="right" visible="1" title="Lint Summary" y="0" x="0" type="zinlintMsgSummaryView" undocked="0"/>
+  <window dock_location="bottom" visible="1" y="0" x="0" type="transcript" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Message Viewer" y="0" x="0" type="zinmsgviewer" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Lint Checks" y="0" x="0" type="zinlintMsgView" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Design Metrics" y="0" x="0" type="zinlintDesignMetricsView" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Design Information" y="0" x="0" type="zinlintDesignInfoView" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Status History" y="0" x="0" type="zinlintMsgStatusHistoryView" undocked="0"/>
+  <window dock_location="bottom" visible="1" title="Lint Dashboard" y="0" x="0" type="zinlintMsgDashboardView" undocked="0"/>
+  <window height="1009" visible="1" width="1920" y="-8" x="-1" type="rtl" undocked="0"/>
+  <window dock_location="center" visible="1" y="0" x="0" type="source" undocked="0"/>
+  <window id="1" dock_location="center" visible="1" y="0" x="0" type="source" undocked="0"/>
+  <window id="2" dock_location="center" visible="0" y="0" x="0" type="source" undocked="0"/>
+  <window id="3" dock_location="center" visible="0" y="0" x="0" type="source" undocked="0"/>
+  <window id="4" dock_location="center" visible="1" y="0" x="0" type="source" undocked="0"/>
  </Layout>
 </LayoutInfo>

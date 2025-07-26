@@ -16,12 +16,12 @@
 # 552.  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE
 # UNDER THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
 # 
-C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek
 
 Command: qlc_status_update
 Command Arguments:
     -zdb
-      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_21
+      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_43
     -db D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/lint.db
 
 Questa Debug flags:

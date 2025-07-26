@@ -1,33 +1,33 @@
-var qlcDesignQuality = "98.3";
+var qlcDesignQuality = "99.1";
 var overallQualityImpacted = "0";
 var moduleQuality = {
-  "alsu": {
+  "alsu_seq": {
     "Nomenclature Style": 100,
-    "Rtl Design Style": 97.7,
+    "Rtl Design Style": 98.9,
     "Simulation": 100,
     "Implementation": 100.0,
-    "Score": 98.3,
+    "Score": 99.1,
     "Error Count": 0,
-    "Warning Count": 3,
-    "Info Count": 2,
+    "Warning Count": 1,
+    "Info Count": 4,
     "QualityImpacted": 0
   }
 };
 var fileQuality = {
   "0": {
     "Nomenclature Style": 100,
-    "Rtl Design Style": 97.7,
+    "Rtl Design Style": 98.9,
     "Simulation": 100,
     "Implementation": 100.0,
-    "Score": 98.3,
+    "Score": 99.1,
     "Error Count": 0,
-    "Warning Count": 3,
-    "Info Count": 2,
+    "Warning Count": 1,
+    "Info Count": 4,
     "QualityImpacted": 0
   }
 };
 var categoryQuality = {
-    "Rtl Design Style": 97.7,
+    "Rtl Design Style": 98.9,
     "Implementation": 100.0,
     "Nomenclature Style": 100.0,
     "Simulation": 100.0

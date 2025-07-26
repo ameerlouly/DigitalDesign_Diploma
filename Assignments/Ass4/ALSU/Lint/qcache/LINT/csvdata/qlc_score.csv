@@ -447,7 +447,7 @@ task_has_event_and_output@0@0@Simulation@1
 empty_module@0@2@Rtl Design Style@1
 unresolved_module@0@2@Rtl Design Style@1
 user_blackbox@0@0@Rtl Design Style@1
-inferred_blackbox@1@2@Rtl Design Style@1
+inferred_blackbox@0@2@Rtl Design Style@1
 reset_set_non_const_assign@0@2@Implementation@1
 clk_port_conn_complex@0@2@Implementation@1
 flop_redundant@0@0@Implementation@1

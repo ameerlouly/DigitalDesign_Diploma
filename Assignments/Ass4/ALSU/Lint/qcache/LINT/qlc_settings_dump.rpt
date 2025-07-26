@@ -166,7 +166,7 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><if_stmt_shares_arithmetic_operator|Unflagged
   <PassedCheck><if_with_memory_output|Unflagged
   <PassedCheck><index_x_z|Unflagged
-  <PassedCheck><inferred_blackbox|Flagged
+  <PassedCheck><inferred_blackbox|Unflagged
   <PassedCheck><inout_port_exists|Unflagged
   <PassedCheck><input_port_set|Unflagged
   <PassedCheck><inst_param_width_overflow|Unflagged

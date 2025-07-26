@@ -7,6 +7,13 @@ R0
 R0
 R0
 R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
 13
 !s112 1.1
 !i10d 8192
@@ -15,9 +22,9 @@ R0
 cModel Technology
 dD:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint
 Tzi_opt_def_1185527746_1
-!s110 1753525239
-VDSRG4HEkejBi2BaFWiH_Z1
-09 4 4 z0in_work alsu fast 0
+!s110 1753548640
+VKR?A[SdK7H0;i:?3OC^6>1
+09 8 4 z0in_work alsu_seq fast 0
 !s96 mlvalmap
 !s102 +cover=f
 !s124 OEM100

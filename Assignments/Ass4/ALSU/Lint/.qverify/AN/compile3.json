@@ -1,0 +1,4 @@
+[
+{"recid":1, "Severity":"Warning", "Message":"(vlog-2275) Existing module 'alsu_seq' at D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(1) will be overwritten.", "Backref":"D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v,1"},
+{"recid":2, "Severity":"Warning", "Message":"(vlog-2600) [RDGN] - Redundant digits in numeric literal.", "Backref":"D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v,97"}
+]

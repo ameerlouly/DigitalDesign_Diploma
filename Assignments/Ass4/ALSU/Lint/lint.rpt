@@ -2,11 +2,11 @@
 Lint Check Report
 Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
 
-Timestamp            : Sat Jul 26 13:21:32 2025
+Timestamp            : Sat Jul 26 19:50:50 2025
 Description          : Report for referring checks count, check violations details, and  design information
-Design               : alsu
+Design               : alsu_seq
 Database             : D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/lint.db
-Design Quality Score : 98.3%
+Design Quality Score : 99.1%
 
 Sections:
    Section 1 : Check Summary
@@ -23,10 +23,9 @@ Section 1 : Check Summary
 -------------
 
 ---------------
-| Warning (3) |
+| Warning (1) |
 ---------------
-  inferred_blackbox                       : 1
-  seq_block_has_duplicate_assign          : 2
+  seq_block_has_duplicate_assign          : 1
 
 ------------
 | Info (2) |
@@ -48,21 +47,13 @@ Section 2 : Check Details
 
 
 ---------------
-| Warning (3) |
+| Warning (1) |
 ---------------
 
-Check: inferred_blackbox [Category: Rtl Design Style] (1)
-       [Message: Module is inferred as blackbox. Module '<module>', File '<file>', Line '<line>'.]
----------------------------------------------------------------------------------------------------
-inferred_blackbox: [uninspected] Module is inferred as blackbox. Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line '1'.
-
-
-Check: seq_block_has_duplicate_assign [Category: Rtl Design Style] (2)
+Check: seq_block_has_duplicate_assign [Category: Rtl Design Style] (1)
        [Message: Signal is assigned more than once in a sequential block. Signal '<signal>', Module '<module>', File '<file>', Total Assigns Count '<count>', First Assign at Line '<line1>', Second Assign at Line '<line2>'.]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-seq_block_has_duplicate_assign: [uninspected] Signal is assigned more than once in a sequential block. Signal 'leds', Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Total Assigns Count '3', First Assign at Line '49', Second Assign at Line '156'.
-
-seq_block_has_duplicate_assign: [uninspected] Signal is assigned more than once in a sequential block. Signal 'out', Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Total Assigns Count '2', First Assign at Line '61', Second Assign at Line '63'.
+seq_block_has_duplicate_assign: [uninspected] Signal is assigned more than once in a sequential block. Signal 'out', Module 'alsu_seq', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Total Assigns Count '2', First Assign at Line '79', Second Assign at Line '81'.
 
 
 
@@ -73,13 +64,14 @@ seq_block_has_duplicate_assign: [uninspected] Signal is assigned more than once 
 Check: async_reset_active_high [Category: Clock] (1)
        [Message: Asynchronous reset is active high. Reset '<reset>', Module '<module>', File '<file>', Line '<line>'.]
 -----------------------------------------------------------------------------------------------------------------------
-async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'rst', Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line '47'.
+async_reset_active_high: [uninspected] Asynchronous reset is active high. Reset 'rst', Module 'alsu_seq', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line '36'.
+    2 more occurrences at: line 64 and line 73.
 
 
 Check: always_signal_assign_large [Category: Rtl Design Style] (1)
        [Message: Always block has more signal assignments than the specified limit. Total count '<count>', Specified limit '<limit>', Module '<module>', File '<file>', Line '<line>'.]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-always_signal_assign_large: [uninspected] Always block has more signal assignments than the specified limit. Total count '13', Specified limit '5', Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line '34'.
+always_signal_assign_large: [uninspected] Always block has more signal assignments than the specified limit. Total count '10', Specified limit '5', Module 'alsu_seq', File 'D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line '35'.
 
 
 
@@ -95,22 +87,11 @@ Section 3 : Design Information
 -----------
 | Summary |
 -----------
-  Register Bits                           : 0
+  Register Bits                           : 39
   Latch Bits                              : 0
   User-specified Blackboxes               : 0
-  Inferred Blackboxes                     : 1
+  Inferred Blackboxes                     : 0
   Empty Modules                           : 0
   Unresolved Modules                      : 0
   Hierarchical IPs                        : 0
-
------------
-| Details |
------------
-
-Inferred Blackboxes
---------------------
-  alsu
-
-
-
 
