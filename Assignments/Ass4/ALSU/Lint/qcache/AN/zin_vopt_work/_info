@@ -1,7 +1,12 @@
 m255
 K4
 z2
-!s99 nomlopt
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
 13
 !s112 1.1
 !i10d 8192
@@ -10,8 +15,8 @@ z2
 cModel Technology
 dD:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint
 Tzi_opt_def_1185527746_1
-!s110 1753451969
-VeU4?97KG=?5`3Q<CLTz562
+!s110 1753525239
+VDSRG4HEkejBi2BaFWiH_Z1
 09 4 4 z0in_work alsu fast 0
 !s96 mlvalmap
 !s102 +cover=f

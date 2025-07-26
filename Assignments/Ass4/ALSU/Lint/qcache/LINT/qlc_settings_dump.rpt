@@ -223,7 +223,7 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><unresolved_module|Unflagged
   <PassedCheck><unsynth_dc_shell_script|Unflagged
   <PassedCheck><user_blackbox|Unflagged
-  <PassedCheck><var_read_before_set|Flagged
+  <PassedCheck><var_read_before_set|Unflagged
   <PassedCheck><var_read_not_set|Unflagged
   <PassedCheck><violations_suppressed|Unflagged
   <PassedCheck><while_loop_iteration_limit|Unflagged

@@ -15,10 +15,10 @@ var lintMessages = {
                             "children": [
                                 {
                                     "recid": "111",
-                                    "information": "Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge\/negedge in sensitivity list, Module 'alsu', File 'D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v', Line 46. Will treat module as a black box.",
+                                    "information": "Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge\/negedge in sensitivity list, Module 'alsu', File 'D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v', Line 34. Will treat module as a black box.",
                                     "severity": "Error",
-                                    "message": "Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge\/negedge in sensitivity list, Module 'alsu', File 'D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v', Line 46. Will treat module as a black box.",
-                                    "backref": "D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v,46"
+                                    "message": "Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge\/negedge in sensitivity list, Module 'alsu', File 'D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v', Line 34. Will treat module as a black box.",
+                                    "backref": "D:\/GitHub\/DigitalDesign_Diploma\/Assignments\/Ass4\/ALSU.v,34"
                                 }
                             ]
                         }

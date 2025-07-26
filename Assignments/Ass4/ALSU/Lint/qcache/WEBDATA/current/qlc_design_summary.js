@@ -9,4 +9,4 @@ var designData = { "DesignInfo" : [
 
 var qlcDesignName ="alsu";
 var qlcVersion ="Version 2021.1 4558100 win64 28-Jan-2021";
-var qlcDesignQuality ="97.391304";
+var qlcDesignQuality ="98.260872";

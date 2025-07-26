@@ -1,8 +1,7 @@
 Index@CheckId@Status@Category@DesignCategory@Severity@FileId@Module@ArgList@ClusterInfo@OldRtlId
 86f8f598@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"alsu"@"0:13#1:5#2:alsu#3:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#"@"0"@""
-d5e5ad17@1@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:leds#1:alsu#2:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#3:2#"@"0"@""
+5515ba08@1@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:leds#1:alsu#2:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#3:3#"@"0"@""
 25de7a81@1@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:out#1:alsu#2:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#3:2#"@"0"@""
 808eb32b@2@uninspected@Clock@Implementation@Info@0@"alsu"@"0:rst#1:alsu#2:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#"@"0"@""
-f6fc719e@3@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:Invalid_Case#1:alsu#2:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#"@"0"@""
-74589857@4@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:alsu#1:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#"@""@""
+74589857@3@uninspected@Rtl Design Style@Rtl Design Style@Warning@0@"alsu"@"0:alsu#1:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v#"@""@""
 

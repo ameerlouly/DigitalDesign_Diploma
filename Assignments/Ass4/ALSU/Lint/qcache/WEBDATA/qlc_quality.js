@@ -1,14 +1,14 @@
-var qlcDesignQuality = "97.4";
+var qlcDesignQuality = "98.3";
 var overallQualityImpacted = "0";
 var moduleQuality = {
   "alsu": {
     "Nomenclature Style": 100,
-    "Rtl Design Style": 96.6,
+    "Rtl Design Style": 97.7,
     "Simulation": 100,
     "Implementation": 100.0,
-    "Score": 97.4,
+    "Score": 98.3,
     "Error Count": 0,
-    "Warning Count": 4,
+    "Warning Count": 3,
     "Info Count": 2,
     "QualityImpacted": 0
   }
@@ -16,18 +16,18 @@ var moduleQuality = {
 var fileQuality = {
   "0": {
     "Nomenclature Style": 100,
-    "Rtl Design Style": 96.6,
+    "Rtl Design Style": 97.7,
     "Simulation": 100,
     "Implementation": 100.0,
-    "Score": 97.4,
+    "Score": 98.3,
     "Error Count": 0,
-    "Warning Count": 4,
+    "Warning Count": 3,
     "Info Count": 2,
     "QualityImpacted": 0
   }
 };
 var categoryQuality = {
-    "Rtl Design Style": 96.6,
+    "Rtl Design Style": 97.7,
     "Implementation": 100.0,
     "Nomenclature Style": 100.0,
     "Simulation": 100.0

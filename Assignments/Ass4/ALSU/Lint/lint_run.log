@@ -2,20 +2,20 @@
 # Questa Static Verification System
 # Version 2021.1 4558100 win64 28-Jan-2021
 
-log created Fri Jul 25 17:00:36 2025 by User on DESKTOP-NG8FN4D
+log created Sat Jul 26 13:22:34 2025 by User on DESKTOP-NG8FN4D
 
 
 # 
 # Questa Static Verification System
 # Version 2021.1 4558100 win64 28-Jan-2021
 
-log created Fri Jul 25 16:59:16 2025 by User on DESKTOP-NG8FN4D
+log created Sat Jul 26 13:19:54 2025 by User on DESKTOP-NG8FN4D
 
 
 Command: netlist elaborate
 Command arguments:
     -zdb
-      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_2
+      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_20
     -tool lint
     -d alsu
     -L work
@@ -47,20 +47,20 @@ Lint Stage 2 of 5 - Design Elaboration (66 checks)
 ---------------------------------------------------
 Optimized design name is zi_opt_def_1185527746_1
 Lint Stage-2 100% complete (1 out of 1 modules checked) [Total Progress -  23%]
-End of log Fri Jul 25 16:59:31 2025
+End of log Sat Jul 26 13:20:41 2025
 
 
 # 
 # Questa Static Verification System
 # Version 2021.1 4558100 win64 28-Jan-2021
 
-log created Fri Jul 25 16:59:34 2025 by User on DESKTOP-NG8FN4D
+log created Sat Jul 26 13:20:55 2025 by User on DESKTOP-NG8FN4D
 
 
 Command: netlist create
 Command arguments:
     -zdb
-      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_2
+      D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_20
     -tool lint
     -d alsu
     -L work
@@ -80,7 +80,7 @@ Lint Stage-3  94% complete [Total Progress -  34%]
 Lint Stage-3 100% complete [Total Progress -  35%]
 Analyzing designs.
 Elaborating module 'alsu'.
-Error   : Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge/negedge in sensitivity list, Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line 46.  [elaboration-502]
+Error   : Incorrect coding style for asynchronous reset inference.  'If' condition does not check for a posedge/negedge in sensitivity list, Module 'alsu', File 'D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v', Line 34.  [elaboration-502]
         : Will treat module as a black box.
 Info    : Considering module as a black box.  Module 'alsu'.  [elaboration-4]
 
@@ -97,21 +97,21 @@ Lint Stage-5  80% complete [Total Progress -  97%]
 Lint Stage-5 100% complete [Total Progress - 100%]
 
 Lint Checking Completed
-##Time Taken (Synthesis) = 3002.000000 ticks = 3.002000 secs
+##Time Taken (Synthesis) = 10179.000000 ticks = 10.179000 secs
 
 Summary: 1 Errors, 0 Warnings in processing "netlist create"
-End of log Fri Jul 25 16:59:47 2025
+End of log Sat Jul 26 13:21:33 2025
 
 
-# Reading design database from D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/LINT/CACHE...completed (0.006 (s)).
-End of log Fri Jul 25 16:59:53 2025
+# Reading design database from D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/LINT/CACHE...completed (0.002 (s)).
+End of log Sat Jul 26 13:21:54 2025
 
 
 # 
 # Questa Static Verification System
 # Version 2021.1 4558100 win64 28-Jan-2021
 
-log created Fri Jul 25 16:59:54 2025 by User on DESKTOP-NG8FN4D
+log created Sat Jul 26 13:21:55 2025 by User on DESKTOP-NG8FN4D
 
 
 Questa Debug flags:
@@ -127,8 +127,8 @@ Count  Type     Message ID         Summary
     1  Error    elaboration-502    Incorrect coding style for asynchronous reset inference.
     1  Info     elaboration-4      Considering module as a black box.
 
-Final Process Statistics: Max memory 275MB, CPU time 45s, Total time 52s
-End of log Fri Jul 25 17:00:18 2025
+Final Process Statistics: Max memory 276MB, CPU time 99s, Total time 109s
+End of log Sat Jul 26 13:22:19 2025
 
 
 Result Summary
@@ -137,11 +137,10 @@ Error (0)
 -----------------------------------------------------------
 
 -----------------------------------------------------------
-Warning (4)
+Warning (3)
 -----------------------------------------------------------
   inferred_blackbox                       :1
   seq_block_has_duplicate_assign          :2
-  var_read_before_set                     :1
 
 -----------------------------------------------------------
 Info (2)

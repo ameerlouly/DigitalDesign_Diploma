@@ -9,8 +9,8 @@ module alsu_tb();
         bypass_A,
         bypass_B,
         clk,
-        rst,
-        out_expected;
+        rst;
+    reg [5:0] out_expected;
     wire [5:0] out;
     wire [15:0] leds;
 
@@ -32,7 +32,7 @@ module alsu_tb();
     initial begin
         clk = 0;
         forever begin
-            clk = ~clk;
+            #1 clk = ~clk;
         end
     end
 
@@ -78,8 +78,10 @@ module alsu_tb();
         rst = 0;
         A = 0;
         B = 0;
+        bypass_A = 0;
+        bypass_B = 0;
         opcode = 0;
-        repeat(2) @(negedge clk)
+        repeat(3) @(negedge clk)
         repeat(50) begin
             A = $random;
             B = $random;
@@ -165,6 +167,16 @@ module alsu_tb();
             end
         end
         $display("Simulation Successful");
+        $display("Testing Invalid Case");
+
+        rst = 0;
+        A = 0;
+        B = 0;
+        opcode = 3;
+        red_op_A = 1;
+        red_op_B = 0;
+        repeat(100) @(negedge clk);
+
         $exit;
     end // End of Initial Block
 

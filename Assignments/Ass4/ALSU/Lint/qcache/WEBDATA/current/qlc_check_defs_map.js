@@ -25,20 +25,17 @@ var checks = { "checks":[
 { "checksId":"0", "checksName":"always_signal_assign_large","severityId":"2","categoryId":"0"},
 { "checksId":"1", "checksName":"seq_block_has_duplicate_assign","severityId":"1","categoryId":"0"},
 { "checksId":"2", "checksName":"async_reset_active_high","severityId":"2","categoryId":"5"},
-{ "checksId":"3", "checksName":"var_read_before_set","severityId":"1","categoryId":"0"},
-{ "checksId":"4", "checksName":"inferred_blackbox","severityId":"1","categoryId":"0"},
-{ "checksId":"5", "checksName":" ","severityId":"3","categoryId":"9"}]};
+{ "checksId":"3", "checksName":"inferred_blackbox","severityId":"1","categoryId":"0"},
+{ "checksId":"4", "checksName":" ","severityId":"3","categoryId":"9"}]};
 var schematicStatus = {  
 "always_signal_assign_large" : "off",
 "seq_block_has_duplicate_assign" : "off",
 "async_reset_active_high" : "off",
-"var_read_before_set" : "off",
 "inferred_blackbox" : "off"};
 var adaptiveModeStatus = {  
 "always_signal_assign_large" : "off",
 "seq_block_has_duplicate_assign" : "off",
 "async_reset_active_high" : "off",
-"var_read_before_set" : "off",
 "inferred_blackbox" : "on"};
 var checkAliasMap = { };
 var argMap = {  

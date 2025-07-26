@@ -5,8 +5,7 @@ var signal = {"signal" : [
 { "signalId":"0","signalName":"leds"},
 { "signalId":"1","signalName":"out"},
 { "signalId":"2","signalName":"rst"},
-{ "signalId":"3","signalName":"Invalid_Case"},
-{ "signalId":"4","signalName":" "}]};
+{ "signalId":"3","signalName":" "}]};
 
 var file = {"file" : [
 { "fileId":"0","fileName":"D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v"},

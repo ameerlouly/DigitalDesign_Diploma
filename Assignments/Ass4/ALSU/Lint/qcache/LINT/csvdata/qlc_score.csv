@@ -411,7 +411,7 @@ bus_bit_as_clk@0@2@Implementation@1
 clock_signal_as_non_clock@0@2@Implementation@1
 flop_output_in_initial@0@2@Rtl Design Style@1
 parameter_not_specified@0@0@Rtl Design Style@0
-var_read_before_set@1@2@Rtl Design Style@1
+var_read_before_set@0@2@Rtl Design Style@1
 enable_signal_name_not_standard@0@0@Rtl Design Style@0
 concurrent_block_with_duplicate_assign@0@2@Rtl Design Style@1
 process_var_assign_disorder@0@2@Rtl Design Style@1
