@@ -48,7 +48,6 @@ module alsu_tb();
         red_op_B = 0;
         bypass_A = 0;
         bypass_B = 0;
-        clk = 0;
         rst = 1;
         repeat(2) @(negedge clk)
         if(out != 0 && leds != 0) begin
@@ -96,7 +95,7 @@ module alsu_tb();
                 out_expected = &B;
             else
                 out_expected = A & B;
-            repeat(2) @(negedge clk)
+            repeat(2) @(negedge clk);
             if(out != out_expected) begin
                 $display("Error - Opcode 0 AND");
                 $exit;
@@ -108,7 +107,7 @@ module alsu_tb();
         A = 0;
         B = 0;
         opcode = 1;
-        repeat(2) @(negedge clk)
+        repeat(2) @(negedge clk);
         repeat(50) begin
             A = $random;
             B = $random;
@@ -122,7 +121,7 @@ module alsu_tb();
                 out_expected = ^B;
             else
                 out_expected = A ^ B;
-            repeat(2) @(negedge clk)
+            repeat(2) @(negedge clk);
             if(out != out_expected) begin
                 $display("Error - Opcode 1 XOR");
                 $exit;
@@ -142,7 +141,7 @@ module alsu_tb();
             B = $random;
             cin = $random;
             out_expected = A + B + cin;
-            repeat(2) @(negedge clk)
+            repeat(2) @(negedge clk);
             if(out != out_expected) begin
                 $display("Error - Opcode 2 ADD");
                 $exit;
@@ -161,7 +160,7 @@ module alsu_tb();
             A = $random;
             B = $random;
             out_expected = A * B;
-            repeat(2) @(negedge clk)
+            repeat(2) @(negedge clk);
             if(out != out_expected) begin
                 $display("Error - Opcode 3 Multiply");
                 $exit;

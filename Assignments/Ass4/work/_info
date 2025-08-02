@@ -35,6 +35,15 @@ R0
 R0
 R0
 R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -44,16 +53,15 @@ R0
 cModel Technology
 Z1 dC:/questasim64_2021.1/examples
 T_opt
-!s110 1753530883
-VSeFZ4[^Oa7CK90SX`@UbZ3
+!s110 1754163875
+V7CiI=nCVQV:h;6HI<IZBc1
 Z2 04 7 4 work alsu_tb fast 0
-=1-c8f7504ee12a-6884c202-28d-da4
+=1-c8f7504ee12a-688e6aa2-37e-4e38
 Z3 !s124 OEM100
 Z4 o-quiet -auto_acc_if_foreign -work work +acc
 Z5 tCvgOpt 0
 n@_opt
 Z6 OL;O;2021.1;73
-R1
 T_opt1
 !s110 1753549195
 VVRBH=OXm;`hC9nIR^HWfB1
@@ -64,69 +72,70 @@ R4
 R5
 n@_opt1
 R6
+R1
 valsu
 !s110 1753542117
 !i10b 1
 !s100 mKV:4e6=AA6e;bS6SGX4f2
 Ig?9dG1Gb9kdF@`dEX5N4n0
-Z7 dD:/Github/DigitalDesign_Diploma/Assignments/Ass4
+dD:/Github/DigitalDesign_Diploma/Assignments/Ass4
 w1753541954
-Z8 8ALSU.v
-Z9 FALSU.v
+Z7 8ALSU.v
+Z8 FALSU.v
 !i122 46
 L0 1 155
-Z10 VDg1SIo80bB@j0V0VzS_@n1
-Z11 OL;L;2021.1;73
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
 r1
 !s85 0
 31
 !s108 1753542117.000000
-Z12 !s107 ALSU_tb.v|ALSU.v|
-Z13 !s90 -reportprogress|300|ALSU.v|ALSU_tb.v|
+Z11 !s107 ALSU_tb.v|ALSU.v|
+Z12 !s90 -reportprogress|300|ALSU.v|ALSU_tb.v|
 !i113 0
-Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R5
 valsu_seq
-Z15 !s110 1753549193
+Z14 !s110 1754163869
 !i10b 1
 !s100 Phe^>TE5CBWWQ[L:93Q@Y1
 I3]FcG24C0^lOj8Lg7HhRT1
+Z15 dD:/GitHub/DigitalDesign_Diploma/Assignments/Ass4
+w1754161778
 R7
-w1753549107
 R8
-R9
-!i122 56
+!i122 65
 L0 1 173
+R9
 R10
-R11
 r1
 !s85 0
 31
-Z16 !s108 1753549193.000000
+Z16 !s108 1754163869.000000
+R11
 R12
-R13
 !i113 0
-R14
+R13
 R5
 valsu_tb
-R15
+R14
 !i10b 1
-!s100 cn0^JXQ>CBIcIKcnNM>M?0
-IJ`eiLK8aU4WnYkJQ;zPKZ0
-R7
-w1753549184
+!s100 gEKUA0971>ZegGe3SDWmJ2
+IcgmUCZiaU977<P[X9aJi43
+R15
+w1754163868
 8ALSU_tb.v
 FALSU_tb.v
-!i122 56
-L0 1 184
+!i122 65
+L0 1 183
+R9
 R10
-R11
 r1
 !s85 0
 31
 R16
+R11
 R12
-R13
 !i113 0
-R14
+R13
 R5
