@@ -1,0 +1,21 @@
+<LayoutInfo CurrentRTLLayout="Default" version="1">
+ <Layout Name="Default" Type="IDE_pref">
+  <dockareas top="0" right="681" bottom="404" left="300"/>
+  <taborder right="zinschematicview+zinlintMsgSummaryView+" bottom="transcript+zinmsgviewer+zinlintMsgView+zinlintDesignMetricsView+zinlintDesignInfoView+zinlintMsgStatusHistoryView+zinlintMsgDashboardView+" left="zinflownavigator+zindetails+zincdcdutview+"/>
+  <activetab right="zinschematicview" bottom="zinlintMsgView" left="zincdcdutview"/>
+  <window x="0" undocked="0" dock_location="left" type="zinflownavigator" y="0" title="Flow Navigator" visible="1"/>
+  <window x="0" undocked="0" dock_location="left" type="zindetails" y="0" title="Details" visible="1"/>
+  <window x="0" undocked="0" dock_location="left" type="zincdcdutview" y="0" title="Design" visible="1"/>
+  <window x="0" undocked="0" dock_location="right" type="zinschematicview" y="0" title="Schematic 1" visible="1"/>
+  <window x="0" undocked="0" dock_location="right" type="zinlintMsgSummaryView" y="0" title="Lint Summary" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="transcript" y="0" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinmsgviewer" y="0" title="Message Viewer" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinlintMsgView" y="0" title="Lint Checks" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinlintDesignMetricsView" y="0" title="Design Metrics" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinlintDesignInfoView" y="0" title="Design Information" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinlintMsgStatusHistoryView" y="0" title="Status History" visible="1"/>
+  <window x="0" undocked="0" dock_location="bottom" type="zinlintMsgDashboardView" y="0" title="Lint Dashboard" visible="1"/>
+  <window x="-1" undocked="0" type="rtl" y="-9" width="1920" height="991" visible="1"/>
+  <window x="0" undocked="0" dock_location="center" type="source" y="0" visible="1"/>
+ </Layout>
+</LayoutInfo>
