@@ -189,7 +189,7 @@ Section 1.1 : Methodology and Checks
   <PassedCheck><mux_select_const|Unflagged
   <PassedCheck><package_excluded|Unflagged
   <PassedCheck><parameter_count_large|Unflagged
-  <PassedCheck><parameter_name_duplicate|Unflagged
+  <PassedCheck><parameter_name_duplicate|Flagged
   <PassedCheck><part_select_illegal|Unflagged
   <PassedCheck><port_conn_is_expression|Unflagged
   <PassedCheck><pragma_coverage_off_nested|Unflagged

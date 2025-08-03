@@ -6,6 +6,7 @@ R0
 R0
 R0
 R0
+R0
 13
 !s112 1.1
 !i10d 8192
@@ -14,9 +15,9 @@ R0
 cModel Technology
 dD:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter
 Tzi_opt_def_1618236583_1
-!s110 1754171659
-VV2K7=jazGSoY^hlg:iJ1j0
-09 7 4 z0in_work mux_reg fast 0
+!s110 1754261264
+Vie1NS?4j]><lF[7g]TbUg0
+09 7 4 z0in_work dsp48a1 fast 0
 !s96 mlvalmap
 !s102 +cover=f
 !s124 OEM100

@@ -6,7 +6,7 @@
 	<process>zsh</process>
 	<thread_name>elab</thread_name>
 	<thread_num>0</thread_num>
-	<num_nodes>26</num_nodes>
+	<num_nodes>25</num_nodes>
 	<node>
 		<id>1</id>
 		<name>&lt;zixl_543IiP35&gt;~_zixl</name>
@@ -25,272 +25,261 @@
 	</node>
 	<node>
 		<id>5</id>
-		<name>zixl_u2q-I152PI1~_zixl</name>
-	</node>
-	<node>
-		<id>6</id>
-		<name>zixl_4P43eA21-rPZ4e121-L1e2~_zixl</name>
-	</node>
-	<node>
-		<id>7</id>
 		<name>zixl_rPLt1I2-zSy-2P-qSiI~_zixl</name>
 	</node>
 	<node>
-		<id>8</id>
+		<id>6</id>
 		<name>zixl_tP42-1eAyPIA2iPL~_zixl</name>
 	</node>
 	<node>
-		<id>9</id>
+		<id>7</id>
 		<name>zixl_tP42-ZAiL~_zixl</name>
 	</node>
 	<node>
-		<id>10</id>
+		<id>8</id>
 		<name>zixl_eiL2-4I1-1eAy-rAeeyAr8~_zixl</name>
 	</node>
 	<node>
-		<id>11</id>
+		<id>9</id>
 		<name>zixl_V91rdrP41~_zixl</name>
 	</node>
 	<node>
-		<id>12</id>
+		<id>10</id>
 		<name>zixl_iSe-LAZ1-rAeeyAr8~_zixl</name>
 	</node>
 	<node>
-		<id>13</id>
+		<id>11</id>
 		<name>zixl_bgV-NIAL5eA2iPL~_zixl</name>
 	</node>
 	<node>
-		<id>14</id>
+		<id>12</id>
 		<name>zixl_iSe2-2IAL5eA21-tePq~_zixl</name>
 	</node>
 	<node>
-		<id>15</id>
+		<id>13</id>
 		<name>zixl_2IAL5eA2iLq~_zixl</name>
 	</node>
 	<node>
-		<id>16</id>
+		<id>14</id>
 		<name>zixl_iSe2-rI1A21-32q~_zixl</name>
 	</node>
 	<node>
-		<id>17</id>
+		<id>15</id>
 		<name>zixl_2IAL5eA21-tePq~_zixl</name>
 	</node>
 	<node>
-		<id>18</id>
+		<id>16</id>
 		<name>zixl_bgV-I152PI1-UPI8-ZA44iLq~_zixl</name>
 	</node>
 	<node>
-		<id>19</id>
+		<id>17</id>
+		<name>zixl_u2q-I152PI1~_zixl</name>
+	</node>
+	<node>
+		<id>18</id>
 		<name>zixl_27iL-BNxf~_zixl</name>
 	</node>
 	<node>
-		<id>20</id>
+		<id>19</id>
 		<name>zixl_5At1-rSr-4AIAZ121I-35Aq1~_zixl</name>
 	</node>
 	<node>
-		<id>21</id>
+		<id>20</id>
 		<name>zixl_5At1-tP42-SA2A~_zixl</name>
 	</node>
 	<node>
-		<id>22</id>
+		<id>21</id>
 		<name>zixl_iSe2-5At1~_zixl</name>
 	</node>
 	<node>
-		<id>23</id>
+		<id>22</id>
 		<name>zixl_42-5At1~_zixl</name>
 	</node>
 	<node>
-		<id>24</id>
+		<id>23</id>
 		<name>zixl_iSe2-32q-5At1~_zixl</name>
 	</node>
 	<node>
-		<id>25</id>
+		<id>24</id>
 		<name>zixl_4rSy-5At1-iL21IZ1SiA21~_zixl</name>
 	</node>
 	<node>
-		<id>26</id>
+		<id>25</id>
 		<name>zixl_4IP6ie1-4IiL2~_zixl</name>
 	</node>
-	<num_edges>26</num_edges>
+	<num_edges>25</num_edges>
 	<edge>
 		<from>1</from>
 		<to>2</to>
-		<time>30821941624</time>
+		<time>76246113485</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>2</from>
 		<to>3</to>
-		<time>33687</time>
+		<time>61657</time>
 		<mem>0</mem>
 		<calls>18</calls>
 	</edge>
 	<edge>
 		<from>2</from>
 		<to>4</to>
-		<time>1773197237</time>
+		<time>12824809569</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>4</from>
 		<to>5</to>
-		<time>740400</time>
+		<time>2025385</time>
 		<mem>0</mem>
-		<calls>2</calls>
+		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>5</from>
+		<from>4</from>
 		<to>6</to>
-		<time>91747</time>
+		<time>10134478628</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>4</from>
+		<from>6</from>
 		<to>7</to>
-		<time>112170</time>
+		<time>4856989699</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>4</from>
+		<from>7</from>
 		<to>8</to>
-		<time>1054053217</time>
+		<time>479927902</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>16</calls>
 	</edge>
 	<edge>
 		<from>8</from>
 		<to>9</to>
-		<time>721756735</time>
+		<time>26405859</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>11</calls>
 	</edge>
 	<edge>
-		<from>9</from>
+		<from>11</from>
+		<to>9</to>
+		<time>232916007</time>
+		<mem>0</mem>
+		<calls>123</calls>
+	</edge>
+	<edge>
+		<from>7</from>
 		<to>10</to>
-		<time>25550327</time>
+		<time>6472415</time>
 		<mem>0</mem>
-		<calls>3</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
-		<from>10</from>
+		<from>7</from>
 		<to>11</to>
-		<time>869320</time>
+		<time>2134940725</time>
 		<mem>0</mem>
-		<calls>5</calls>
+		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>13</from>
-		<to>11</to>
-		<time>7367847</time>
-		<mem>0</mem>
-		<calls>21</calls>
-	</edge>
-	<edge>
-		<from>9</from>
+		<from>11</from>
 		<to>12</to>
-		<time>451338</time>
+		<time>212811025</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
-		<from>9</from>
+		<from>12</from>
 		<to>13</to>
-		<time>206022069</time>
+		<time>209791949</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
 		<from>13</from>
 		<to>14</to>
-		<time>17694411</time>
+		<time>542370</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
-		<from>14</from>
+		<from>13</from>
 		<to>15</to>
-		<time>17597645</time>
+		<time>50094943</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
-		<from>15</from>
+		<from>4</from>
 		<to>16</to>
-		<time>9683</time>
-		<mem>0</mem>
-		<calls>1</calls>
-	</edge>
-	<edge>
-		<from>15</from>
-		<to>17</to>
-		<time>318332</time>
+		<time>462289862</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>4</from>
+		<to>17</to>
+		<time>10789650</time>
+		<mem>0</mem>
+		<calls>7</calls>
+	</edge>
+	<edge>
+		<from>4</from>
 		<to>18</to>
-		<time>200611593</time>
+		<time>103893990</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>4</from>
 		<to>19</to>
-		<time>20662222</time>
+		<time>107282443</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>4</from>
 		<to>20</to>
-		<time>5794387</time>
+		<time>487333477</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>4</from>
+		<from>20</from>
 		<to>21</to>
-		<time>93048088</time>
+		<time>487307292</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>21</from>
 		<to>22</to>
-		<time>93032642</time>
+		<time>232069325</time>
 		<mem>0</mem>
-		<calls>1</calls>
+		<calls>7</calls>
 	</edge>
 	<edge>
-		<from>22</from>
+		<from>21</from>
 		<to>23</to>
-		<time>26882399</time>
+		<time>96828601</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
-		<from>22</from>
+		<from>21</from>
 		<to>24</to>
-		<time>27726152</time>
-		<mem>0</mem>
-		<calls>1</calls>
-	</edge>
-	<edge>
-		<from>22</from>
-		<to>25</to>
-		<time>14576515</time>
+		<time>75960539</time>
 		<mem>0</mem>
 		<calls>1</calls>
 	</edge>
 	<edge>
 		<from>2</from>
-		<to>26</to>
-		<time>652956</time>
+		<to>25</to>
+		<time>2430141</time>
 		<mem>0</mem>
 		<calls>2</calls>
 	</edge>

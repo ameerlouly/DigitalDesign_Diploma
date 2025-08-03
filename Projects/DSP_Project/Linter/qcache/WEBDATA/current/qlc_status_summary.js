@@ -1,2 +1,2 @@
 var statusSummary = { "status" : [
-{ "name":"uninspected" , "count":1 } ]};
+{ "name":"uninspected" , "count":2 } ]};

@@ -1,7 +1,55 @@
 >8
 v366
-t1
-c2
+t49
+c50
+#8 p3507 @zi_mux_o8_i1_2*i8
 #0 p0 @zi_assign_o18_i18
-#1 p131 @mux_reg
+#1 p131 @mux_reg_1896737193
+#2 p1149 @zi_dff_o18_i18_5*i1_i18_3*i1
+#3 p1428 @zi_mux_o18_i1_2*i18
+#4 p1593 @zi_const_18'b0_o18
+#5 p1721 @zi_oper_29_o1_2*i1
+#6 p1867 @mux_reg_1756744529
+#7 p3232 @zi_dff_o8_i8_5*i1_i8_3*i1
+#9 p3669 @zi_const_8'b0_o8
+#10 p3793 @zi_assign_o8_i8
+#11 p3924 @mux_reg_472132756
+#12 p5287 @zi_dff_o48_i48_5*i1_i48_3*i1
+#13 p5567 @zi_mux_o48_i1_2*i48
+#14 p5733 @zi_const_0_o48
+#15 p5854 @zi_assign_o48_i48
+#16 p5988 @mux_reg_1055854352
+#17 p7360 @zi_dff_o36_i36_5*i1_i36_3*i1
+#18 p7640 @zi_mux_o36_i1_2*i36
+#19 p7806 @zi_const_0_o36
+#20 p7927 @zi_assign_o36_i36
+#21 p8061 @mux_reg_1129442441
+#22 p9433 @zi_dff_o1_10*i1
+#23 p9689 @zi_mux_o1_3*i1
+#24 p9839 @zi_const_1'b0_o1
+#25 p9961 @zi_assign_o1_i1
+#26 p10089 @mux_reg_960667340
+#27 p11433 @zi_mux_o49_i1_2*i49
+#28 p11599 @zi_oper_32_o49_i1_i48
+#29 p11771 @zi_const_48'b0_o48
+#30 p11900 @zi_oper_32_o49_i48_i1
+#31 p12072 @zi_oper_0_o49_2*i49
+#32 p12222 @zi_oper_1_o49_2*i49
+#33 p12372 @zi_oper_1_o18_2*i18
+#34 p12522 @zi_oper_0_o18_2*i18
+#35 p12672 @zi_const_2'b0_o2
+#36 p12797 @zi_oper_16_o1_2*i2
+#37 p12954 @zi_const_2'b1_o2
+#38 p13079 @zi_const_12'b0_o12
+#39 p13208 @zi_oper_32_o48_i12_i36
+#40 p13385 @zi_const_2'h2_o2
+#41 p13510 @zi_oper_32_o48_i12_2*i18
+#42 p13702 @zi_oper_32_o36_2*i18
+#43 p13866 @zi_oper_3_o36_2*i36
+#44 p14016 @zi_oper_38_o1_i8
+#45 p14157 @zi_oper_38_o1_i49
+#46 p14300 @zi_oper_38_o12_i18
+#47 p14448 @zi_oper_38_o48_i49
+#48 p14596 @zi_oper_38_o2_i8
+#49 p14740 @dsp48a1
 <8

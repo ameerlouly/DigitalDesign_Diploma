@@ -22,14 +22,25 @@ var statusObj = { "status" : [
 { "statusId" : "4" , "statusName":"fixed" },
 { "statusId" : "5" , "statusName":"verified" }]} ;
 var checks = { "checks":[
-{ "checksId":"0", "checksName":"multi_ports_in_single_line","severityId":"2","categoryId":"0"},
-{ "checksId":"1", "checksName":" ","severityId":"3","categoryId":"9"}]};
+{ "checksId":"0", "checksName":"parameter_name_duplicate","severityId":"2","categoryId":"7"},
+{ "checksId":"1", "checksName":"multi_ports_in_single_line","severityId":"2","categoryId":"0"},
+{ "checksId":"2", "checksName":" ","severityId":"3","categoryId":"9"}]};
 var schematicStatus = {  
+"parameter_name_duplicate" : "off",
 "multi_ports_in_single_line" : "off"};
 var adaptiveModeStatus = {  
+"parameter_name_duplicate" : "on",
 "multi_ports_in_single_line" : "off"};
 var checkAliasMap = { };
 var argMap = {  
-"1":"module",
-"2":"file",
-"3":"line"};
+"1":"parameter",
+"2":"count",
+"3":"module1",
+"4":"file1",
+"5":"line1",
+"6":"module2",
+"7":"file2",
+"8":"line2",
+"9":"module",
+"10":"file",
+"11":"line"};

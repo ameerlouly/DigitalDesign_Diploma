@@ -2,7 +2,7 @@ set Perspective_Version   2
 #
 pref::section perspective
 set perspective_Name       {IDE_pref}
-set perspective_DateTime   {2025-08-03T00:58:19}
+set perspective_DateTime   {2025-08-04T01:48:59}
 set perspective_Directory  {D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter}
 set perspective_USER       {User}
 set perspective_VisId      {2021.1}
@@ -22,7 +22,7 @@ pref::set -type bool -category General -name ListVarDeclOrder -value true -hide 
 pref::set -type int -category General -name GutterIconSize -value 30 -description { Gutter Icon Size } -label { Gutter Icon Size }
 pref::set -type int -category General -name GutterSize -value 35 -description { Gutter Size } -label { Gutter Size }
 pref::set -type int -category General -name GutterPadding -value 7 -description { Gutter Icon Padding } -label { Gutter Icon Padding }
-pref::set -type string -category General -name IDEVisibleWindows -value Lint###zinmsgviewer,zinlintMsgSummaryView,zinschematicview,zinlintDesignMetricsView,zinlintMsgStatusHistoryView,zincdcdutview,zinlintDesignInfoView,source,zinlintMsgDashboardView,transcript,zinflownavigator,zindetails,zinlintMsgView -hide -description none -label none
+pref::set -type string -category General -name IDEVisibleWindows -value {} -hide -description none -label none
 pref::set -type bool -category General -name schSelectOnRMB -value false -hide -description none -label none
 pref::set -type category -value Startup -hide
 pref::set -type bool -category {Source Browser} -name EnableValueAnnotation -value true -hide -description {Displays signal values below their names if true} -label {Enable Value Annotation}
@@ -66,9 +66,9 @@ pref::set -type category -value {CDC.Domain Colors}
 pref::set -type category -value {CDC.Domain Colors.User Defined}
 pref::set -type category -value {CDC.Domain Colors.Predefined}
 pref::set -type category -value Lint -hide
-pref::set -type string -category Lint -name msgViewHiddenColumns -value , -hide -description none -label none
+pref::set -type string -category Lint -name msgViewHiddenColumns -value {} -hide -description none -label none
 pref::set -type string -category Lint -name msgViewDefaultGrouping -value {} -hide -description none -label none
-pref::set -type string -category Lint -name msgViewDefaultOrderWidth -value Severity:177,Type:177,Phase:100,Message:476,Comment:100,Status:100,Owner:100,Reviewer:100,File:100,Line:100 -hide -description none -label none
+pref::set -type string -category Lint -name msgViewDefaultOrderWidth -value {} -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewHiddenColumns -value {} -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewDefaultColumnGrouping -value {} -hide -description none -label none
 pref::set -type string -category Lint -name compileMsgViewColumnOrderWidth -value {} -hide -description none -label none

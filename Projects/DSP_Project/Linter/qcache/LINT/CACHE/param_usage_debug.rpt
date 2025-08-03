@@ -1,4 +1,4 @@
-m_allSignalsCdcSignals : 1 , m_preferCdcSignalReporting : 0, m_topModule : mux_reg
+m_allSignalsCdcSignals : 1 , m_preferCdcSignalReporting : 0, m_topModule : dsp48a1
 
-Module : mux_reg
+Module : dsp48a1
 

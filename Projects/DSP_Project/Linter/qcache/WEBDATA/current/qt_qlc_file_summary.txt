@@ -1,1 +1,2 @@
-D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v#@#1
+D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v#@#1
+D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v#@#2

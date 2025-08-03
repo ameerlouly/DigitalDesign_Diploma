@@ -22,5 +22,5 @@ ieee_env=C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../iee
 infact=C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../infact
 vhdlopt_lib=C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../vhdlopt_lib
 vh_ux01v_lib=C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/../vh_ux01v_lib
-*RAW_COMMAND create_netlist -zdb D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter/qcache/DB/zdb_16 -tool lint -d mux_reg -L work 
+*RAW_COMMAND create_netlist -zdb D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter/qcache/DB/zdb_20 -tool lint -d dsp48a1 -L work 
 *COMMAND create_netlist 

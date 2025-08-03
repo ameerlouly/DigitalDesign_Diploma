@@ -3,7 +3,9 @@ module mux_reg(in, out, clk, ce, rst);
     parameter RSTTYPE = "SYNC";
     parameter REG = 0;
     input [WIDTH - 1 : 0] in;
-    input clk, ce, rst;
+    input   clk,
+            ce,
+            rst;
     output [WIDTH - 1 : 0] out;
 
     reg [WIDTH - 1 : 0] in_reg;

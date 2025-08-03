@@ -1,3 +1,4 @@
 Index@CheckId@Status@Category@DesignCategory@Severity@FileId@Module@ArgList@ClusterInfo@OldRtlId
-bec92ec2@0@uninspected@Rtl Design Style@Rtl Design Style@Info@0@"mux_reg"@"0:mux_reg#1:D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v#"@"0"@""
+2119aa62@0@uninspected@Nomenclature Style@Nomenclature Style@Info@0,1@"dsp48a1"@"0:RSTTYPE#1:2#2:dsp48a1#3:D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v#5:mux_reg#6:D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v#"@""@""
+bec92ec2@1@uninspected@Rtl Design Style@Rtl Design Style@Info@1@"mux_reg"@"0:mux_reg#1:D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v#"@"0"@""
 

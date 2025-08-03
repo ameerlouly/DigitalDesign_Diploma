@@ -2,9 +2,9 @@
 Lint Check Report
 Questa Lint  Version 2021.1 4558100 win64 28-Jan-2021
 
-Timestamp            : Sun Aug  3 00:54:36 2025
+Timestamp            : Mon Aug  4 01:48:27 2025
 Description          : Report for referring checks count, check violations details, and  design information
-Design               : mux_reg
+Design               : dsp48a1
 Database             : D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter/lint.db
 Design Quality Score : 100%
 
@@ -27,8 +27,9 @@ Section 1 : Check Summary
 ---------------
 
 ------------
-| Info (1) |
+| Info (2) |
 ------------
+  parameter_name_duplicate                : 1
   multi_ports_in_single_line              : 1
 
 ----------------
@@ -50,8 +51,14 @@ Section 2 : Check Details
 
 
 ------------
-| Info (1) |
+| Info (2) |
 ------------
+
+Check: parameter_name_duplicate [Category: Nomenclature Style] (1)
+       [Message: Same parameter name is used in more than one module. Parameter '<parameter>', Total count '<count>', First module: Module '<module1>', File '<file1>', Line '<line1>', Second module: Module '<module2>', File '<file2>', Line '<line2>']
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+parameter_name_duplicate: [uninspected] Same parameter name is used in more than one module. Parameter 'RSTTYPE', Total count '2', First module: Module 'dsp48a1', File 'D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v', Line '15', Second module: Module 'mux_reg', File 'D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v', Line '3'
+
 
 Check: multi_ports_in_single_line [Category: Rtl Design Style] (1)
        [Message: Multiple ports are declared in one line. Module '<module>', File '<file>', Line '<line>'.]
@@ -72,7 +79,7 @@ Section 3 : Design Information
 -----------
 | Summary |
 -----------
-  Register Bits                           : 0
+  Register Bits                           : 196
   Latch Bits                              : 0
   User-specified Blackboxes               : 0
   Inferred Blackboxes                     : 0

@@ -9,25 +9,47 @@ z2
 !i10f 100
 cModel Technology
 Z0 dD:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter
+vdsp48a1
+!s110 1754261218
+!i10b 1
+!s100 1k1[V7z=RKLkDzkAQ=lcn0
+ID^MKGSl1QRoAjTjI7<4[f0
+R0
+w1754260778
+8D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v
+FD:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v
+!i122 7
+L0 1 244
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1754261217.000000
+!s107 D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v|
+!s90 D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v|-work|work|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
 vmux_reg
-!s110 1754171637
+!s110 1754261217
 !i10b 1
 !s100 nB1HcM<ce1V2GcgNemIzG2
 IRQ^bzOSe_eNiT02Z>g7BW3
 R0
-w1754171628
+w1754171882
 8D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v
 FD:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v
-!i122 5
+!i122 6
 L0 1 34
-VDg1SIo80bB@j0V0VzS_@n1
-OL;L;2021.1;73
+R1
+R2
 r1
 !s85 0
 31
-!s108 1754171637.000000
+!s108 1754261216.000000
 !s107 D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v|
 !s90 D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/mux_reg.v|-work|work|
 !i113 0
-o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-tCvgOpt 0
+R3
+R4
