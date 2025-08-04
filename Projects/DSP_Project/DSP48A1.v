@@ -240,5 +240,5 @@ module dsp48a1 #(
                     .rst(RSTCARRYIN)
                 );
                 
-    assign CARRYOUT = CARRYOUTF;
+    assign CARRYOUTF = CARRYOUT;
 endmodule

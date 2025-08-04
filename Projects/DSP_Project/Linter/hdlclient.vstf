@@ -1,0 +1,51 @@
+# Current time Mon Aug  4 17:21:01 2025
+# Program = hdlclient.exe
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = d08f71b03e21bd256371aa8771188eee
+# --> START OF USERCODE
+# 0    0x00000000887ce486: 'zi_::rtld::hdDbModule::loadUserInfo + 0x10f6'
+# 1    0x00000000887cf4a5: 'zi_::rtld::hdDB::loadDesign + 0x445'
+# 2    0x00000000887cec59: 'zi_::rtld::hdDB::hdDB + 0x349'
+# 3    0x00000000887ce8c5: 'zi_::rtld::hdDB::createHdDB + 0xc5'
+# 4    0x0000000088a0b7a6: 'zi_::rtld::rtldDBMgr::_mLoadRTLDInternal + 0x136'
+# 5    0x0000000088a09e45: 'zi_::rtld::rtldDBMgr::mLoadRTLD + 0x2f5'
+# 6    0x0000000086cadce9: 'boost::archive::detail::iserializer<boost::archive::binary_iarchive,std::vector<zi_::PropDataS,std::allocator<zi_::PropDataS> > >::load_object_data + 0x390519'
+# 7    0x00000000870e34a2: 'boost::archive::detail::oserializer<boost::archive::binary_oarchive,zi_::GuiSasOptionsS>::save_object_data + 0x13edd2'
+# 8    0x000000008a14eb27: 'zi_::SignalManager::broadcastSignal + 0x4e7'
+# 9    0x0000000088984715: 'zi_::broadcastSignal<26,std::tuple<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int> > + 0x2d5'
+# 10   0x000000008892db95: 'zi_rtld_open_tool_db_and_raise_signals + 0x715'
+# 11   0x00000000888ef438: 'zi_rtld_tcl_prim_restore_project_manager_in_file + 0xe28'
+# 12   0x00000000888efb76: 'zi_rtld_load_db_and_prj_manager_in_ide + 0x6a6'
+# 13   0x0000000086cb6fee: 'boost::archive::detail::iserializer<boost::archive::binary_iarchive,std::vector<zi_::PropDataS,std::allocator<zi_::PropDataS> > >::load_object_data + 0x39981e'
+# 14   0x00000000868495d5: 'boost::serialization::singleton_module::unlock + 0x6e6a5'
+# <-- END OF USERCODE
+# 15   0x00007ff81936b74a: 'QMetaObject::activate + 0x59a'
+# 16   0x00007ff81856a442: 'QAbstractButtonPrivate::emitClicked + 0x62'
+# 17   0x00007ff81856a364: 'QAbstractButtonPrivate::click + 0xf4'
+# 18   0x00007ff81856b067: 'QAbstractButton::mouseReleaseEvent + 0x87'
+# 19   0x00007ff8184bdba1: 'QWidget::event + 0x141'
+# 20   0x00007ff81849874b: 'QApplicationPrivate::notify_helper + 0x13b'
+# 21   0x00007ff818496498: 'QApplication::notify + 0x888'
+# 22   0x00007ff81934a774: 'QCoreApplication::notifyInternal2 + 0xb4'
+# 23   0x00007ff818499ee0: 'QApplicationPrivate::sendMouseEvent + 0x400'
+# 24   0x00007ff8184e790e: 'QWidgetWindow::handleMouseEvent + 0xc0e'
+# 25   0x00007ff8184e5720: 'QWidgetWindow::event + 0x3c0'
+# 26   0x00007ff81849874b: 'QApplicationPrivate::notify_helper + 0x13b'
+# 27   0x00007ff818497735: 'QApplication::notify + 0x1b25'
+# 28   0x00007ff81934a774: 'QCoreApplication::notifyInternal2 + 0xb4'
+# 29   0x00007ff818b88ade: 'QGuiApplicationPrivate::processMouseEvent + 0x9ce'
+# 30   0x00007ff818b73ee6: 'QWindowSystemInterface::sendWindowSystemEvents + 0x96'
+# 31   0x00007ff8193952a3: 'qt_internal_proc + 0x4e3'
+# 32   0x00007ff96dae81d1: 'CallWindowProcW + 0x6a1'
+# 33   0x00007ff96dae5d28: 'IsWindowUnicode + 0x3c8'
+# 34   0x00000001409b3b94: '<unknown(@0x1409b3b94)>'
+# 35   0x000000007d71a9ae: 'Tcl_DoOneEvent + 0x14e'
+# 36   0x000000014004f056: '<unknown(@0x14004f056)>'
+# 37   0x0000000140015cbc: '<unknown(@0x140015cbc)>'
+# 38   0x00000001410c41f7: '<unknown(@0x1410c41f7)>'
+# End of Stack Trace
+
+
