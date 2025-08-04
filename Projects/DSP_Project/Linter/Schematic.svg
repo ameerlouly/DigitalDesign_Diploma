@@ -1,0 +1,487 @@
+<!-- Creater                 : nlviewTK -->
+<!-- DocumentNeededResources : font  Helvetica -->
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="794.10" height="614.10" style="background:rgb(99.61%,99.61%,99.61%)">
+	<title> first </title>
+	<defs>
+		<!--Clipping simply refers to cutting off the edges of an image that doesn't fit inside a given area.-->
+		<clipPath id="clipPath1">
+			<path d="M 27.70,27.70 27.70,584.20 764.20,584.20 764.20,27.70 z"/>
+		</clipPath>
+	</defs>
+	<g  clip-path="url(#clipPath1)" style="stroke-linecap:butt;stroke-linejoin:miter">
+		<path d="M 27.70,27.70 27.70,584.20 764.20,584.20 764.20,27.70 z" fill="rgb(99.61%,99.61%,99.61%)"/>
+		<circle cx="358.70" cy="262.10" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="351.50" y1="259.10" x2="352.10" y2="259.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="351.50" y1="265.10" x2="352.10" y2="264.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="347.90" y1="259.10" x2="351.50" y2="259.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="369.60" y1="262.10" x2="366.00" y2="262.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="347.90" y1="265.10" x2="351.50" y2="265.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="358.70" y="263.91" transform="rotate(0.00,358.70,263.91)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="511.60" cy="247.10" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="238.10" x2="507.10" y2="241.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="244.10" x2="505.00" y2="244.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="250.10" x2="505.00" y2="249.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="256.10" x2="507.10" y2="252.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="238.00" x2="504.40" y2="238.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="522.50" y1="247.10" x2="518.90" y2="247.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="244.10" x2="504.40" y2="244.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="250.10" x2="504.40" y2="250.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="256.10" x2="504.40" y2="256.10" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="511.60" y="248.91" transform="rotate(0.00,511.60,248.91)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="511.60" cy="295.30" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="280.20" x2="508.60" y2="288.70" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="286.30" x2="507.10" y2="289.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="292.30" x2="505.00" y2="292.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="298.30" x2="505.00" y2="298.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="304.30" x2="507.10" y2="301.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="504.40" y1="310.40" x2="508.60" y2="301.90" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="280.20" x2="504.40" y2="280.20" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="286.20" x2="504.40" y2="286.20" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="292.20" x2="504.40" y2="292.20" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="298.30" x2="504.40" y2="298.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="522.50" y1="295.30" x2="518.90" y2="295.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="304.30" x2="504.40" y2="304.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="310.30" x2="504.40" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="511.60" y="297.11" transform="rotate(0.00,511.60,297.11)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="267.80" cy="310.30" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="260.60" y1="304.30" x2="262.40" y2="305.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="260.60" y1="316.30" x2="262.40" y2="314.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="256.90" y1="304.30" x2="260.60" y2="304.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="256.90" y1="310.30" x2="260.60" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="256.90" y1="316.30" x2="260.60" y2="316.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="278.60" y1="310.30" x2="275.10" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="267.80" y="312.11" transform="rotate(0.00,267.80,312.11)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="419.50" cy="358.50" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="408.70" y1="358.50" x2="412.30" y2="358.50" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="430.40" y1="358.50" x2="426.80" y2="358.50" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="419.50" y="360.31" transform="rotate(0.00,419.50,360.31)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="219.00" cy="310.30" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="211.80" y1="304.30" x2="213.60" y2="305.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="211.80" y1="316.30" x2="213.60" y2="314.80" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="208.20" y1="304.30" x2="211.80" y2="304.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="229.80" y1="310.30" x2="226.30" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="208.20" y1="310.30" x2="211.80" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="208.20" y1="316.30" x2="211.80" y2="316.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="219.00" y="312.11" transform="rotate(0.00,219.00,312.11)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<circle cx="576.70" cy="319.30" r="7.25" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="569.50" y1="310.30" x2="572.20" y2="313.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="584.00" y1="316.30" x2="583.40" y2="316.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="584.00" y1="322.30" x2="583.40" y2="322.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="569.50" y1="316.30" x2="570.10" y2="316.60" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="569.50" y1="322.30" x2="570.10" y2="322.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="569.50" y1="328.30" x2="572.20" y2="325.00" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="565.90" y1="310.30" x2="569.50" y2="310.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="587.60" y1="316.30" x2="584.00" y2="316.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="587.60" y1="322.40" x2="584.00" y2="322.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="565.90" y1="316.30" x2="569.50" y2="316.30" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="565.90" y1="322.40" x2="569.50" y2="322.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="565.90" y1="328.40" x2="569.50" y2="328.40" style="fill:none;stroke:rgb(49.61%,49.61%,49.61%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="576.70" y="321.11" transform="rotate(0.00,576.70,321.11)" font-family="Helvetica" font-size="3.61" fill="rgb(49.61%,49.61%,49.61%)" text-anchor="middle" >Expr</text>
+		<path d="M 76.60,214.00 74.50,216.10 70.30,216.10 70.30,211.90 74.50,211.90 76.60,214.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="215.81" transform="rotate(0.00,69.10,215.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEC</text>
+		<path d="M 76.60,358.50 74.50,360.60 70.30,360.60 70.30,356.40 74.50,356.40 76.60,358.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="360.31" transform="rotate(0.00,69.10,360.31)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CED</text>
+		<path d="M 76.60,337.40 74.50,339.50 70.30,339.50 70.30,335.30 74.50,335.30 76.60,337.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="339.21" transform="rotate(0.00,69.10,339.21)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CECARRYIN</text>
+		<path d="M 76.60,418.70 74.50,420.80 70.30,420.80 70.30,416.60 74.50,416.60 76.60,418.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="420.51" transform="rotate(0.00,69.10,420.51)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEOPMODE</text>
+		<path d="M 717.60,286.20 717.60,284.10 721.80,284.10 723.90,286.20 721.80,288.30 717.60,288.30 717.60,286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="288.01" transform="rotate(0.00,725.10,288.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">BCOUT</text>
+		<path d="M 717.60,295.30 717.60,293.20 721.80,293.20 723.90,295.30 721.80,297.40 717.60,297.40 717.60,295.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="297.11" transform="rotate(0.00,725.10,297.11)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">PCOUT</text>
+		<path d="M 717.60,268.20 717.60,266.10 721.80,266.10 723.90,268.20 721.80,270.30 717.60,270.30 717.60,268.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="270.01" transform="rotate(0.00,725.10,270.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">P</text>
+		<path d="M 717.60,304.30 717.60,302.20 721.80,302.20 723.90,304.30 721.80,306.40 717.60,306.40 717.60,304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="306.11" transform="rotate(0.00,725.10,306.11)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">M</text>
+		<path d="M 717.60,313.30 717.60,311.20 721.80,311.20 723.90,313.30 721.80,315.40 717.60,315.40 717.60,313.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="315.11" transform="rotate(0.00,725.10,315.11)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">CARRYOUT</text>
+		<path d="M 717.60,322.40 717.60,320.30 721.80,320.30 723.90,322.40 721.80,324.50 717.60,324.50 717.60,322.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="725.10" y="324.21" transform="rotate(0.00,725.10,324.21)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start">CARRYOUTF</text>
+		<polygon points=" 260.60,386.80 278.70,386.80 278.70,412.70 260.60,412.70 260.60,386.80" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 260.60,386.80 278.70,386.80 278.70,412.70 260.60,412.70 260.60,386.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="256.90" y1="403.70" x2="260.60" y2="403.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="260.00" y="403.40" transform="rotate(0.00,260.00,403.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="282.20" y1="397.60" x2="278.70" y2="397.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="279.30" y="397.30" transform="rotate(0.00,279.30,397.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="256.90" y1="397.60" x2="260.60" y2="397.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="260.00" y="397.30" transform="rotate(0.00,260.00,397.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="256.90" y1="391.60" x2="260.60" y2="391.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="260.00" y="391.30" transform="rotate(0.00,260.00,391.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="256.90" y1="409.70" x2="260.60" y2="409.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="260.00" y="409.40" transform="rotate(0.00,260.00,409.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="264.20" y1="403.70" x2="260.60" y2="403.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="275.00" y1="397.60" x2="278.70" y2="397.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="264.20" y1="397.60" x2="260.60" y2="397.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="264.20" y1="391.60" x2="260.60" y2="391.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="264.20" y1="409.70" x2="260.60" y2="409.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="269.60" y="386.20" transform="rotate(0.00,269.60,386.20)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >A0_REG</text>
+		<text x="269.60" y="416.91" transform="rotate(0.00,269.60,416.91)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 310.50,359.70 328.60,359.70 328.60,385.60 310.50,385.60 310.50,359.70" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 310.50,359.70 328.60,359.70 328.60,385.60 310.50,385.60 310.50,359.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="306.90" y1="376.60" x2="310.50" y2="376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="376.30" transform="rotate(0.00,309.90,376.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="332.20" y1="370.50" x2="328.60" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="329.20" y="370.20" transform="rotate(0.00,329.20,370.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="306.90" y1="370.50" x2="310.50" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="370.20" transform="rotate(0.00,309.90,370.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="306.90" y1="364.50" x2="310.50" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="364.20" transform="rotate(0.00,309.90,364.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="306.90" y1="382.60" x2="310.50" y2="382.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="382.30" transform="rotate(0.00,309.90,382.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="314.10" y1="376.60" x2="310.50" y2="376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="325.00" y1="370.50" x2="328.60" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="370.50" x2="310.50" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="364.50" x2="310.50" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="382.60" x2="310.50" y2="382.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="319.50" y="359.10" transform="rotate(0.00,319.50,359.10)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >A1_REG</text>
+		<text x="319.50" y="389.81" transform="rotate(0.00,319.50,389.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 153.40,179.00 171.50,179.00 171.50,204.90 153.40,204.90 153.40,179.00" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 153.40,179.00 171.50,179.00 171.50,204.90 153.40,204.90 153.40,179.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="149.70" y1="195.90" x2="153.40" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="195.60" transform="rotate(0.00,152.80,195.60)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="175.00" y1="189.90" x2="171.50" y2="189.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="172.10" y="189.50" transform="rotate(0.00,172.10,189.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="149.70" y1="189.90" x2="153.40" y2="189.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="189.50" transform="rotate(0.00,152.80,189.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="149.70" y1="183.80" x2="153.40" y2="183.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="183.50" transform="rotate(0.00,152.80,183.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="149.70" y1="201.90" x2="153.40" y2="201.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="201.60" transform="rotate(0.00,152.80,201.60)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="157.00" y1="195.90" x2="153.40" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="167.80" y1="189.90" x2="171.50" y2="189.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="189.90" x2="153.40" y2="189.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="183.80" x2="153.40" y2="183.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="201.90" x2="153.40" y2="201.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="162.40" y="178.40" transform="rotate(0.00,162.40,178.40)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >B0_REG</text>
+		<text x="162.40" y="209.11" transform="rotate(0.00,162.40,209.11)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 310.50,245.30 328.60,245.30 328.60,271.20 310.50,271.20 310.50,245.30" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 310.50,245.30 328.60,245.30 328.60,271.20 310.50,271.20 310.50,245.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="306.90" y1="262.10" x2="310.50" y2="262.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="261.90" transform="rotate(0.00,309.90,261.90)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="332.20" y1="256.10" x2="328.60" y2="256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="329.20" y="255.80" transform="rotate(0.00,329.20,255.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="306.90" y1="256.10" x2="310.50" y2="256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="255.80" transform="rotate(0.00,309.90,255.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="306.90" y1="250.10" x2="310.50" y2="250.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="249.80" transform="rotate(0.00,309.90,249.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="306.90" y1="268.20" x2="310.50" y2="268.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="309.90" y="267.90" transform="rotate(0.00,309.90,267.90)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="314.10" y1="262.10" x2="310.50" y2="262.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="325.00" y1="256.10" x2="328.60" y2="256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="256.10" x2="310.50" y2="256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="250.10" x2="310.50" y2="250.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="314.10" y1="268.20" x2="310.50" y2="268.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="319.50" y="244.70" transform="rotate(0.00,319.50,244.70)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >B1_REG</text>
+		<text x="319.50" y="275.41" transform="rotate(0.00,319.50,275.41)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 412.30,206.10 430.40,206.10 430.40,232.00 412.30,232.00 412.30,206.10" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 412.30,206.10 430.40,206.10 430.40,232.00 412.30,232.00 412.30,206.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="408.70" y1="223.00" x2="412.30" y2="223.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="222.70" transform="rotate(0.00,411.70,222.70)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="434.00" y1="217.00" x2="430.40" y2="217.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="431.00" y="216.60" transform="rotate(0.00,431.00,216.60)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="408.70" y1="217.00" x2="412.30" y2="217.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="216.60" transform="rotate(0.00,411.70,216.60)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="408.70" y1="210.90" x2="412.30" y2="210.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="210.60" transform="rotate(0.00,411.70,210.60)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="408.70" y1="229.00" x2="412.30" y2="229.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="228.70" transform="rotate(0.00,411.70,228.70)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="415.90" y1="223.00" x2="412.30" y2="223.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="426.80" y1="217.00" x2="430.40" y2="217.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="217.00" x2="412.30" y2="217.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="210.90" x2="412.30" y2="210.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="229.00" x2="412.30" y2="229.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="421.30" y="205.50" transform="rotate(0.00,421.30,205.50)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >C_REG</text>
+		<text x="421.30" y="236.21" transform="rotate(0.00,421.30,236.21)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 504.40,350.70 522.50,350.70 522.50,376.60 504.40,376.60 504.40,350.70" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 504.40,350.70 522.50,350.70 522.50,376.60 504.40,376.60 504.40,350.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="500.80" y1="367.50" x2="504.40" y2="367.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="503.80" y="367.30" transform="rotate(0.00,503.80,367.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="526.10" y1="361.50" x2="522.50" y2="361.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="523.10" y="361.20" transform="rotate(0.00,523.10,361.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="500.80" y1="361.50" x2="504.40" y2="361.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="503.80" y="361.20" transform="rotate(0.00,503.80,361.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="500.80" y1="355.50" x2="504.40" y2="355.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="503.80" y="355.20" transform="rotate(0.00,503.80,355.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="500.80" y1="373.50" x2="504.40" y2="373.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="503.80" y="373.30" transform="rotate(0.00,503.80,373.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="508.10" y1="367.50" x2="504.40" y2="367.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="518.90" y1="361.50" x2="522.50" y2="361.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="508.10" y1="361.50" x2="504.40" y2="361.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="508.10" y1="355.50" x2="504.40" y2="355.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="508.10" y1="373.50" x2="504.40" y2="373.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="513.40" y="350.10" transform="rotate(0.00,513.40,350.10)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >CYI_REG</text>
+		<text x="513.40" y="380.81" transform="rotate(0.00,513.40,380.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 680.30,332.60 698.40,332.60 698.40,358.50 680.30,358.50 680.30,332.60" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 680.30,332.60 698.40,332.60 698.40,358.50 680.30,358.50 680.30,332.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="676.70" y1="349.50" x2="680.30" y2="349.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="679.70" y="349.20" transform="rotate(0.00,679.70,349.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="702.00" y1="343.40" x2="698.40" y2="343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="699.00" y="343.10" transform="rotate(0.00,699.00,343.10)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="676.70" y1="343.40" x2="680.30" y2="343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="679.70" y="343.10" transform="rotate(0.00,679.70,343.10)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="676.70" y1="337.40" x2="680.30" y2="337.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="679.70" y="337.10" transform="rotate(0.00,679.70,337.10)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="676.70" y1="355.50" x2="680.30" y2="355.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="679.70" y="355.20" transform="rotate(0.00,679.70,355.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="683.90" y1="349.50" x2="680.30" y2="349.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="694.70" y1="343.40" x2="698.40" y2="343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="683.90" y1="343.40" x2="680.30" y2="343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="683.90" y1="337.40" x2="680.30" y2="337.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="683.90" y1="355.50" x2="680.30" y2="355.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="689.30" y="332.00" transform="rotate(0.00,689.30,332.00)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >CYO_REG</text>
+		<text x="689.30" y="362.71" transform="rotate(0.00,689.30,362.71)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 153.40,353.70 171.50,353.70 171.50,379.60 153.40,379.60 153.40,353.70" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 153.40,353.70 171.50,353.70 171.50,379.60 153.40,379.60 153.40,353.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="149.70" y1="370.50" x2="153.40" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="370.30" transform="rotate(0.00,152.80,370.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="175.00" y1="364.50" x2="171.50" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="172.10" y="364.20" transform="rotate(0.00,172.10,364.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="149.70" y1="364.50" x2="153.40" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="364.20" transform="rotate(0.00,152.80,364.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="149.70" y1="358.50" x2="153.40" y2="358.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="358.20" transform="rotate(0.00,152.80,358.20)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="149.70" y1="376.60" x2="153.40" y2="376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="376.30" transform="rotate(0.00,152.80,376.30)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="157.00" y1="370.50" x2="153.40" y2="370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="167.80" y1="364.50" x2="171.50" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="364.50" x2="153.40" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="358.50" x2="153.40" y2="358.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="376.60" x2="153.40" y2="376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="162.40" y="353.10" transform="rotate(0.00,162.40,353.10)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >D_REG</text>
+		<text x="162.40" y="383.81" transform="rotate(0.00,162.40,383.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 412.30,154.90 430.40,154.90 430.40,180.80 412.30,180.80 412.30,154.90" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 412.30,154.90 430.40,154.90 430.40,180.80 412.30,180.80 412.30,154.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="408.70" y1="171.80" x2="412.30" y2="171.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="171.50" transform="rotate(0.00,411.70,171.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="434.00" y1="165.80" x2="430.40" y2="165.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="431.00" y="165.40" transform="rotate(0.00,431.00,165.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="408.70" y1="165.80" x2="412.30" y2="165.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="165.40" transform="rotate(0.00,411.70,165.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="408.70" y1="159.80" x2="412.30" y2="159.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="159.40" transform="rotate(0.00,411.70,159.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="408.70" y1="177.80" x2="412.30" y2="177.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="411.70" y="177.50" transform="rotate(0.00,411.70,177.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="415.90" y1="171.80" x2="412.30" y2="171.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="426.80" y1="165.80" x2="430.40" y2="165.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="165.80" x2="412.30" y2="165.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="159.80" x2="412.30" y2="159.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="415.90" y1="177.80" x2="412.30" y2="177.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="421.30" y="154.30" transform="rotate(0.00,421.30,154.30)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >M_REG</text>
+		<text x="421.30" y="185.01" transform="rotate(0.00,421.30,185.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 153.40,419.90 171.50,419.90 171.50,445.80 153.40,445.80 153.40,419.90" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 153.40,419.90 171.50,419.90 171.50,445.80 153.40,445.80 153.40,419.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="149.70" y1="436.80" x2="153.40" y2="436.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="436.50" transform="rotate(0.00,152.80,436.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="175.00" y1="430.80" x2="171.50" y2="430.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="172.10" y="430.40" transform="rotate(0.00,172.10,430.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="149.70" y1="430.80" x2="153.40" y2="430.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="430.40" transform="rotate(0.00,152.80,430.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="149.70" y1="424.70" x2="153.40" y2="424.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="424.40" transform="rotate(0.00,152.80,424.40)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="149.70" y1="442.80" x2="153.40" y2="442.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="152.80" y="442.50" transform="rotate(0.00,152.80,442.50)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="157.00" y1="436.80" x2="153.40" y2="436.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="167.80" y1="430.80" x2="171.50" y2="430.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="430.80" x2="153.40" y2="430.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="424.70" x2="153.40" y2="424.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="157.00" y1="442.80" x2="153.40" y2="442.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="162.40" y="419.30" transform="rotate(0.00,162.40,419.30)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >OPMODE_REG</text>
+		<text x="162.40" y="450.01" transform="rotate(0.00,162.40,450.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<polygon points=" 624.30,248.30 642.40,248.30 642.40,274.20 624.30,274.20 624.30,248.30" style="fill:rgb(89.45%,89.45%,89.45%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 624.30,248.30 642.40,248.30 642.40,274.20 624.30,274.20 624.30,248.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="620.70" y1="265.10" x2="624.30" y2="265.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="623.70" y="264.90" transform="rotate(0.00,623.70,264.90)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >in</text>
+		<line x1="646.00" y1="259.10" x2="642.40" y2="259.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="643.00" y="258.80" transform="rotate(0.00,643.00,258.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="start" >out</text>
+		<line x1="620.70" y1="259.10" x2="624.30" y2="259.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="623.70" y="258.80" transform="rotate(0.00,623.70,258.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >clk</text>
+		<line x1="620.70" y1="253.10" x2="624.30" y2="253.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="623.70" y="252.80" transform="rotate(0.00,623.70,252.80)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >ce</text>
+		<line x1="620.70" y1="271.20" x2="624.30" y2="271.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="623.70" y="270.90" transform="rotate(0.00,623.70,270.90)" font-family="Helvetica" font-size="3.01" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >rst</text>
+		<line x1="627.90" y1="265.10" x2="624.30" y2="265.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="638.70" y1="259.10" x2="642.40" y2="259.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="627.90" y1="259.10" x2="624.30" y2="259.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="627.90" y1="253.10" x2="624.30" y2="253.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="627.90" y1="271.20" x2="624.30" y2="271.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="633.30" y="247.70" transform="rotate(0.00,633.30,247.70)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >P_REG</text>
+		<text x="633.30" y="278.41" transform="rotate(0.00,633.30,278.41)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="middle" >mux_reg</text>
+		<path d="M 76.60,400.60 74.50,402.70 70.30,402.70 70.30,398.50 74.50,398.50 76.60,400.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="402.41" transform="rotate(0.00,69.10,402.41)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >A</text>
+		<path d="M 76.60,195.90 74.50,198.00 70.30,198.00 70.30,193.80 74.50,193.80 76.60,195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="197.71" transform="rotate(0.00,69.10,197.71)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >B</text>
+		<path d="M 76.60,367.50 74.50,369.60 70.30,369.60 70.30,365.40 74.50,365.40 76.60,367.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="369.31" transform="rotate(0.00,69.10,369.31)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >D</text>
+		<path d="M 76.60,463.90 74.50,466.00 70.30,466.00 70.30,461.80 74.50,461.80 76.60,463.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="465.71" transform="rotate(0.00,69.10,465.71)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >BCIN</text>
+		<path d="M 76.60,436.80 74.50,438.90 70.30,438.90 70.30,434.70 74.50,434.70 76.60,436.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="438.61" transform="rotate(0.00,69.10,438.61)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >OPMODE</text>
+		<path d="M 76.60,223.00 74.50,225.10 70.30,225.10 70.30,220.90 74.50,220.90 76.60,223.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="224.81" transform="rotate(0.00,69.10,224.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >C</text>
+		<path d="M 76.60,241.10 74.50,243.20 70.30,243.20 70.30,239.00 74.50,239.00 76.60,241.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="242.91" transform="rotate(0.00,69.10,242.91)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >PCIN</text>
+		<path d="M 76.60,427.70 74.50,429.80 70.30,429.80 70.30,425.60 74.50,425.60 76.60,427.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="429.51" transform="rotate(0.00,69.10,429.51)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CLK</text>
+		<path d="M 76.60,454.80 74.50,456.90 70.30,456.90 70.30,452.70 74.50,452.70 76.60,454.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="456.61" transform="rotate(0.00,69.10,456.61)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CARRYIN</text>
+		<path d="M 76.60,409.70 74.50,411.80 70.30,411.80 70.30,407.60 74.50,407.60 76.60,409.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="411.51" transform="rotate(0.00,69.10,411.51)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTA</text>
+		<path d="M 76.60,204.90 74.50,207.00 70.30,207.00 70.30,202.80 74.50,202.80 76.60,204.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="206.71" transform="rotate(0.00,69.10,206.71)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTB</text>
+		<path d="M 76.60,168.80 74.50,170.90 70.30,170.90 70.30,166.70 74.50,166.70 76.60,168.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="170.61" transform="rotate(0.00,69.10,170.61)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTM</text>
+		<path d="M 76.60,289.20 74.50,291.30 70.30,291.30 70.30,287.10 74.50,287.10 76.60,289.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="291.01" transform="rotate(0.00,69.10,291.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTP</text>
+		<path d="M 76.60,232.00 74.50,234.10 70.30,234.10 70.30,229.90 74.50,229.90 76.60,232.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="233.81" transform="rotate(0.00,69.10,233.81)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTC</text>
+		<polygon points=" 92.20,195.90 92.20,192.30 101.20,195.90 92.20,199.50 92.20,195.90" style="fill:rgb(79.69%,79.69%,79.69%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 92.20,195.90 92.20,192.30 101.20,195.90 92.20,199.50 92.20,195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="104.90" y1="195.90" x2="101.20" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="88.60" y1="195.90" x2="92.20" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,376.60 74.50,378.70 70.30,378.70 70.30,374.50 74.50,374.50 76.60,376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="378.41" transform="rotate(0.00,69.10,378.41)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTD</text>
+		<path d="M 76.60,346.40 74.50,348.50 70.30,348.50 70.30,344.30 74.50,344.30 76.60,346.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="348.21" transform="rotate(0.00,69.10,348.21)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTCARRYIN</text>
+		<polygon points=" 680.30,286.20 680.30,282.60 689.30,286.20 680.30,289.80 680.30,286.20" style="fill:rgb(79.69%,79.69%,79.69%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 680.30,286.20 680.30,282.60 689.30,286.20 680.30,289.80 680.30,286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="286.20" x2="689.30" y2="286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="676.70" y1="286.20" x2="680.30" y2="286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,445.80 74.50,447.90 70.30,447.90 70.30,443.70 74.50,443.70 76.60,445.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="447.61" transform="rotate(0.00,69.10,447.61)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >RSTOPMODE</text>
+		<path d="M 76.60,391.60 74.50,393.70 70.30,393.70 70.30,389.50 74.50,389.50 76.60,391.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="393.41" transform="rotate(0.00,69.10,393.41)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEA</text>
+		<path d="M 76.60,186.90 74.50,189.00 70.30,189.00 70.30,184.80 74.50,184.80 76.60,186.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="188.71" transform="rotate(0.00,69.10,188.71)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEB</text>
+		<path d="M 76.60,159.80 74.50,161.90 70.30,161.90 70.30,157.70 74.50,157.70 76.60,159.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="161.61" transform="rotate(0.00,69.10,161.61)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEM</text>
+		<path d="M 76.60,280.20 74.50,282.30 70.30,282.30 70.30,278.10 74.50,278.10 76.60,280.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<text x="69.10" y="282.01" transform="rotate(0.00,69.10,282.01)" font-family="Helvetica" font-size="3.61" fill="rgb(0.00%,0.00%,0.00%)" text-anchor="end" >CEP</text>
+		<polygon points=" 680.30,304.30 680.30,300.70 689.30,304.30 680.30,307.90 680.30,304.30" style="fill:rgb(79.69%,79.69%,79.69%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 680.30,304.30 680.30,300.70 689.30,304.30 680.30,307.90 680.30,304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="304.30" x2="689.30" y2="304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="676.70" y1="304.30" x2="680.30" y2="304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<polygon points=" 680.30,277.20 680.30,273.60 689.30,277.20 680.30,280.80 680.30,277.20" style="fill:rgb(79.69%,79.69%,79.69%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 680.30,277.20 680.30,273.60 689.30,277.20 680.30,280.80 680.30,277.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="277.20" x2="689.30" y2="277.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="676.70" y1="277.20" x2="680.30" y2="277.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<polygon points=" 680.30,313.30 680.30,309.70 689.30,313.30 680.30,316.90 680.30,313.30" style="fill:rgb(79.69%,79.69%,79.69%);stroke:none;stroke-dasharray:none;stroke-width:none"/>
+		<path d="M 680.30,313.30 680.30,309.70 689.30,313.30 680.30,316.90 680.30,313.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="313.30" x2="689.30" y2="313.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="676.70" y1="313.30" x2="680.30" y2="313.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="463.90" x2="79.60" y2="463.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="286.20" x2="717.60" y2="286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="223.00" x2="408.70" y2="223.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 434.00,217.00 479.80,217.00 479.80,256.10 500.80,256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="454.80" x2="79.60" y2="454.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 692.90,313.30 711.60,313.30 711.60,343.40 702.00,343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="711.60" y1="313.30" x2="717.60" y2="313.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="710.92" y="312.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 676.70,313.30 667.60,313.30 667.60,322.40 717.60,322.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="391.60" x2="235.90" y2="391.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="235.22" y="390.93" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 256.90,391.60 235.90,391.60 235.90,364.50 306.90,364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="186.90" x2="110.90" y2="186.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="110.23" y="186.22" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 149.70,183.80 110.90,183.80 110.90,250.10 306.90,250.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,214.00 82.60,214.00 82.60,217.00 375.60,217.00 375.60,210.90 408.70,210.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,400.60 110.90,400.60 110.90,403.70 256.90,403.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="337.40" x2="467.70" y2="337.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="467.03" y="336.72" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 500.80,355.50 467.70,355.50 467.70,334.40 593.60,334.40 593.60,337.40 676.70,337.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="358.50" x2="149.70" y2="358.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="159.80" x2="408.70" y2="159.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,418.70 135.00,418.70 135.00,424.70 149.70,424.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,280.20 82.60,280.20 82.60,283.20 96.70,283.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 96.70,283.20 443.60,283.20 443.60,262.10 593.60,262.10 593.60,253.10 620.70,253.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="427.70" x2="122.90" y2="427.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="122.23" y="363.82" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="122.23" y="396.93" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="122.23" y="427.03" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 149.70,189.90 122.90,189.90 122.90,430.80 149.70,430.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="122.90" y1="364.50" x2="149.70" y2="364.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="122.90" y1="397.60" x2="241.90" y2="397.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="241.22" y="396.93" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 306.90,256.10 297.90,256.10 297.90,370.50 306.90,370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 297.90,349.50 387.60,349.50 387.60,165.80 408.70,165.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="387.60" y1="343.40" x2="485.80" y2="343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="485.12" y="342.72" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 256.90,397.60 241.90,397.60 241.90,370.50 297.90,370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="297.22" y="348.82" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="297.22" y="369.82" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="387.60" y1="217.00" x2="408.70" y2="217.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="386.93" y="342.72" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="386.93" y="216.32" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 500.80,361.50 485.80,361.50 485.80,340.40 582.70,340.40 582.70,346.40 599.60,346.40 599.60,259.10 620.70,259.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 599.60,331.40 655.60,331.40 655.60,343.40 676.70,343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="598.92" y="330.72" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 430.40,358.50 449.60,358.50 449.60,367.50 500.80,367.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 526.10,361.50 559.90,361.50 559.90,328.40 565.90,328.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 587.60,316.30 661.60,316.30 661.60,349.50 676.70,349.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,367.50 116.90,367.50 116.90,370.50 149.70,370.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 282.20,397.60 297.90,397.60 297.90,376.60 306.90,376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 175.00,364.50 202.10,364.50 202.10,310.30 208.20,310.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 202.10,325.40 467.70,325.40 467.70,280.20 500.80,280.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="201.43" y="324.72" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="692.90" y1="304.30" x2="717.60" y2="304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 434.00,165.80 473.70,165.80 473.70,328.40 553.80,328.40 553.80,304.30 676.70,304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="473.70" y1="310.30" x2="500.80" y2="310.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="473.03" y="309.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 369.60,262.10 393.60,262.10 393.60,171.80 408.70,171.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="436.80" x2="149.70" y2="436.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 175.00,430.80 196.10,430.80 196.10,295.30 235.90,295.30 235.90,304.30 256.90,304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 235.90,295.30 381.60,295.30 381.60,358.50 408.70,358.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="381.60" y1="319.30" x2="485.80" y2="319.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="485.12" y="303.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="485.12" y="318.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="196.10" y1="304.30" x2="208.20" y2="304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="195.43" y="303.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="235.22" y="294.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="380.93" y="318.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 500.80,238.00 485.80,238.00 485.80,322.40 535.80,322.40 535.80,310.30 565.90,310.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="485.80" y1="304.30" x2="500.80" y2="304.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 646.00,259.10 667.60,259.10 667.60,277.20 676.70,277.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="667.60" y1="268.20" x2="717.60" y2="268.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="666.92" y="267.53" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 587.60,322.40 611.60,322.40 611.60,265.10 620.70,265.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,241.10 82.60,241.10 82.60,238.00 129.00,238.00 129.00,235.00 399.70,235.00 399.70,244.10 500.80,244.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 500.80,250.10 491.80,250.10 491.80,316.30 547.80,316.30 547.80,295.30 711.60,295.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="710.92" y="294.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="491.80" y1="298.30" x2="500.80" y2="298.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="491.12" y="297.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 692.90,277.20 711.60,277.20 711.60,295.30 717.60,295.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 332.20,370.50 341.90,370.50 341.90,265.10 347.90,265.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 341.90,277.20 455.70,277.20 455.70,286.20 500.80,286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="341.22" y="276.53" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="229.80" y1="310.30" x2="256.90" y2="310.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="409.70" x2="247.90" y2="409.70" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="247.22" y="409.03" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 256.90,409.70 247.90,409.70 247.90,376.60 291.90,376.60 291.90,382.60 306.90,382.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="204.90" x2="135.00" y2="204.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="134.32" y="204.22" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 149.70,201.90 135.00,201.90 135.00,268.20 306.90,268.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,232.00 116.90,232.00 116.90,229.00 408.70,229.00" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,346.40 135.00,346.40 135.00,343.40 219.00,343.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 219.00,343.40 375.60,343.40 375.60,373.50 473.70,373.50 473.70,388.60 661.60,388.60 661.60,355.50 676.70,355.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="473.70" y1="373.50" x2="500.80" y2="373.50" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="473.03" y="372.82" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="376.60" x2="149.70" y2="376.60" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,168.80 375.60,168.80 375.60,177.80 408.70,177.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 76.60,445.80 82.60,445.80 82.60,442.80 149.70,442.80" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="289.20" x2="96.70" y2="289.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 96.70,289.20 449.60,289.20 449.60,268.20 605.60,268.20 605.60,271.20 620.70,271.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="76.60" y1="195.90" x2="88.60" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 522.50,295.30 541.80,295.30 541.80,322.40 565.90,322.40" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 522.50,247.10 559.90,247.10 559.90,316.30 565.90,316.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="104.90" y1="195.90" x2="149.70" y2="195.90" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 175.00,189.90 190.10,189.90 190.10,331.40 235.90,331.40 235.90,316.30 256.90,316.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="190.10" y1="316.30" x2="208.20" y2="316.30" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="189.43" y="315.62" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 278.60,310.30 291.90,310.30 291.90,262.10 306.90,262.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 347.90,259.10 341.90,259.10 341.90,247.10 375.60,247.10 375.60,250.10 461.70,250.10 461.70,292.20 500.80,292.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<path d="M 461.70,274.20 593.60,274.20 593.60,286.20 676.70,286.20" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<line x1="332.20" y1="256.10" x2="341.90" y2="256.10" style="fill:none;stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="341.22" y="255.43" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+		<rect x="461.03" y="273.53" width="1.35" height="1.35" style="fill:rgb(0.00%,0.00%,0.00%);stroke:rgb(0.00%,0.00%,0.00%);stroke-dasharray:none;stroke-width:0.20"/>
+	</g>
+</svg>

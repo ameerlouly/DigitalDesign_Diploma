@@ -1,9 +1,2 @@
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
-Start time: 01:46:57 on Aug 04,2025
-vlog D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/DSP48A1.v -work work 
--- Compiling module dsp48a1
-
-Top level modules:
-	dsp48a1
-End time: 01:46:58 on Aug 04,2025, Elapsed time: 0:00:01
-Errors: 0, Warnings: 0
+** Warning: (vlib-34) Library already exists at "work".
+Errors: 0, Warnings: 1

@@ -250,3 +250,6 @@ Questa Debug flags:
 
 # C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 626
 C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter -l .qlcstatus.log  -cli -internal -cmd qlc_status_update -zdb D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter/qcache/DB/zdb_21 -db D:/GitHub/DigitalDesign_Diploma/Projects/DSP_Project/Linter/lint.db
+
+# C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 207
+C:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work
