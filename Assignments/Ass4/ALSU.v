@@ -94,7 +94,7 @@ module alsu_seq(A, B, opcode, cin, serial_in, direction, red_op_A, red_op_B, byp
                         else if(INPUT_PRIORITY == "B")
                             out <= &B_reg;
                     end else if (red_op_A_reg == 1)
-                        out <= {5'b000000, &A_reg};
+                        out <= &A_reg;
                     else if(red_op_B_reg == 1)
                         out <= &B_reg;
                     else begin

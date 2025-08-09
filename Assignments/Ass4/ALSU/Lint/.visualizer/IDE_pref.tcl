@@ -2,7 +2,7 @@ set Perspective_Version   2
 #
 pref::section perspective
 set perspective_Name       {IDE_pref}
-set perspective_DateTime   {2025-07-26T20:24:04}
+set perspective_DateTime   {2025-08-09T17:46:41}
 set perspective_Directory  {D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint}
 set perspective_USER       {test}
 set perspective_VisId      {2021.1}
@@ -22,7 +22,7 @@ pref::set -type bool -category General -name ListVarDeclOrder -value true -hide 
 pref::set -type int -category General -name GutterIconSize -value 30 -description { Gutter Icon Size } -label { Gutter Icon Size }
 pref::set -type int -category General -name GutterSize -value 35 -description { Gutter Size } -label { Gutter Size }
 pref::set -type int -category General -name GutterPadding -value 7 -description { Gutter Icon Padding } -label { Gutter Icon Padding }
-pref::set -type string -category General -name IDEVisibleWindows -value Lint###zinmodulewindowview,zinmsgviewer,source,transcript,zinlintMsgView,zinlintMsgSummaryView,zinlintDesignMetricsView,zinflownavigator,zinschematicview,zinlintMsgStatusHistoryView,zinlintDesignInfoView,zincdcdutview,zinlintMsgDashboardView,zindetails -hide -description none -label none
+pref::set -type string -category General -name IDEVisibleWindows -value Lint###zinschematicview,zinlintMsgStatusHistoryView,zinlintMsgDashboardView,source,zinlintDesignInfoView,transcript,zinmodulewindowview,zinlintDesignMetricsView,zinflownavigator,zincdcdutview,source,zindetails,zinlintMsgSummaryView,zinmsgviewer,zinlintMsgView -hide -description none -label none
 pref::set -type bool -category General -name schSelectOnRMB -value false -hide -description none -label none
 pref::set -type category -value Startup -hide
 pref::set -type bool -category {Source Browser} -name EnableValueAnnotation -value true -hide -description {Displays signal values below their names if true} -label {Enable Value Annotation}
@@ -80,7 +80,7 @@ pref::set -type string -category Lint -name paCellDetailHiddenColumns -value {} 
 pref::set -type string -category Lint -name paCellDetailDefaultGrouping -value {} -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesHiddenColumns -value {Design Category,Comment,Reviewer} -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesDefaultGrouping -value {} -hide -description none -label none
-pref::set -type string -category Lint -name lintMessagesviewDefaultOrderWidth -value Severity:127,Status:60,Check:250,Alias:180,Message:791,Module:150,Category:150,State:100,Owner:100,STARC*Reference:100 -hide -description none -label none
+pref::set -type string -category Lint -name lintMessagesviewDefaultOrderWidth -value Severity:127,Status:60,Check:250,Alias:100,Message:791,Module:150,Category:150,State:100,Owner:100,STARC*Reference:100 -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesviewToolButtonFilters -value Pending,Uninspected,Bug -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesviewToolButtonFiltersTuple -value State!-!Equals!-!open!@!Status!-!Equals!-!pending!@!Status!-!Equals!-!uninspected!@!Status!-!Equals!-!bug -hide -description none -label none
 pref::set -type string -category Lint -name lintMessagesviewDialogFilters -value {} -hide -description none -label none

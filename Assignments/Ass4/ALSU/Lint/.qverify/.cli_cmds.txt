@@ -655,3 +655,6 @@ Questa Debug flags:
 
 # F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 3150
 F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverifyek  -od D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint -l .qlcstatus.log  -cli -internal -cmd qlc_status_update -zdb D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/qcache/DB/zdb_43 -db D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU/Lint/lint.db
+
+# F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/bin/qverify_ui_cmds.tcl : 207
+F:/QFT_2021.1/QFT_2021.1/QFT/V2021.1/win64/share/modeltech/win64/vlib work

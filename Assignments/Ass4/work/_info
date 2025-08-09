@@ -44,6 +44,7 @@ R0
 R0
 R0
 R0
+R0
 !s11f vlog 2021.1 2021.01, Jan 19 2021
 13
 !s112 1.1
@@ -62,11 +63,12 @@ Z4 o-quiet -auto_acc_if_foreign -work work +acc
 Z5 tCvgOpt 0
 n@_opt
 Z6 OL;O;2021.1;73
+R1
 T_opt1
-!s110 1753549195
-VVRBH=OXm;`hC9nIR^HWfB1
+!s110 1754750355
+VD:=6WV<>8_2:n<JGgf4ob0
 R2
-=1-0023cdb817c1-6885098b-96-83a8
+=1-0023cdb817c1-68975d92-1f5-5898
 R3
 R4
 R5
@@ -78,41 +80,41 @@ valsu
 !i10b 1
 !s100 mKV:4e6=AA6e;bS6SGX4f2
 Ig?9dG1Gb9kdF@`dEX5N4n0
-dD:/Github/DigitalDesign_Diploma/Assignments/Ass4
+Z7 dD:/Github/DigitalDesign_Diploma/Assignments/Ass4
 w1753541954
-Z7 8ALSU.v
-Z8 FALSU.v
+Z8 8ALSU.v
+Z9 FALSU.v
 !i122 46
 L0 1 155
-Z9 VDg1SIo80bB@j0V0VzS_@n1
-Z10 OL;L;2021.1;73
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2021.1;73
 r1
 !s85 0
 31
 !s108 1753542117.000000
-Z11 !s107 ALSU_tb.v|ALSU.v|
+!s107 ALSU_tb.v|ALSU.v|
 Z12 !s90 -reportprogress|300|ALSU.v|ALSU_tb.v|
 !i113 0
 Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
 R5
 valsu_seq
-Z14 !s110 1754163869
+Z14 !s110 1754750895
 !i10b 1
-!s100 Phe^>TE5CBWWQ[L:93Q@Y1
-I3]FcG24C0^lOj8Lg7HhRT1
-Z15 dD:/GitHub/DigitalDesign_Diploma/Assignments/Ass4
-w1754161778
+!s100 YP8T6l5F7hLLU9XU1Aab]3
+IBR5=XR=hX;M_Zaka4lnC>3
 R7
+w1754750891
 R8
-!i122 65
-L0 1 173
 R9
+!i122 71
+L0 1 173
 R10
+R11
 r1
 !s85 0
 31
-Z16 !s108 1754163869.000000
-R11
+Z15 !s108 1754750895.000000
+Z16 !s107 ALSU_tb.v|ALSU.v|
 R12
 !i113 0
 R13
@@ -122,19 +124,19 @@ R14
 !i10b 1
 !s100 gEKUA0971>ZegGe3SDWmJ2
 IcgmUCZiaU977<P[X9aJi43
-R15
-w1754163868
+R7
+w1754303634
 8ALSU_tb.v
 FALSU_tb.v
-!i122 65
+!i122 71
 L0 1 183
-R9
 R10
+R11
 r1
 !s85 0
 31
+R15
 R16
-R11
 R12
 !i113 0
 R13

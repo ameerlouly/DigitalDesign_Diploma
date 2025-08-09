@@ -1,6 +1,8 @@
-D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v {0 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v
+D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling module alsu_seq
-** Error: (vlog-13069) D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU.v(92): near "generate": syntax error, unexpected generate.
+-- Compiling module alsu_tb
 
-} {4.0 5.0} {}}
+Top level modules:
+	alsu_tb
+
+} {} {}}
