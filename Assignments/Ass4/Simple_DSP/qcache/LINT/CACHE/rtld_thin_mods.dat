@@ -1,0 +1,67 @@
+>1
+>2
+22
+0:10:simple_dsp
+1:4:work
+2:61:D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/simple_dsp.v
+3:7:genblk1
+4:7:genblk2
+5:10:24'h414444
+6:9:OPERATION
+7:1:A
+8:6:A1_reg
+9:5:A_reg
+10:1:B
+11:5:B_reg
+12:1:C
+13:5:C_reg
+14:3:clk
+15:1:D
+16:5:D_reg
+17:14:multiplier_out
+18:1:P
+19:5:P_reg
+20:13:pre_adder_out
+21:5:rst_n
+<2
+>3
+5
+0:127:10 "scalar[23:0]" "<zin_internal>" 0 36 1 7 "integer[23:0]" "<zin_internal>" 0 10 32 23 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+1:126:10 "scalar[17:0]" "<zin_internal>" 0 4 1 7 "integer[17:0]" "<zin_internal>" 0 10 32 17 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+2:126:10 "scalar[47:0]" "<zin_internal>" 0 4 1 7 "integer[47:0]" "<zin_internal>" 0 10 32 47 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+3:37:7 "scalar" "<zin_internal>" 0 0 1 0 0
+4:126:10 "scalar[35:0]" "<zin_internal>" 0 4 1 7 "integer[35:0]" "<zin_internal>" 0 10 32 35 0 7 "scalar" "<zin_internal>" 0 0 1 0 0
+<3
+>4
+b1f2l1.115t0C2B3P2S48E59B4P2S88E97c1p6v5F0L10T0U0;
+<4
+>5
+b15@7l12knt1;
+@8l21knt1;
+@9l20knt1;
+@10l13knt1;
+@11l22knt1;
+@12l15knt2;
+@13l26knt2;
+@14l16knt3;
+@15l14knt1;
+@16l23knt1;
+@17l25knt4;
+@18l18knt2;
+@19l27knt2;
+@20l24knt1;
+@21l17knt3;
+<5
+>6
+b7@7x1t1;
+@10x4t1;
+@12x6t2;
+@15x9t1;
+@14x8t3;
+@21x15t3;
+@18d1x12t2;
+<6
+>7
+c0
+<7
+<1

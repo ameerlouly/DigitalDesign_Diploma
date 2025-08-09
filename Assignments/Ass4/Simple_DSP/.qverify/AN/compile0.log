@@ -1,0 +1,9 @@
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+Start time: 21:19:55 on Aug 09,2025
+vlog D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/simple_dsp.v -work work 
+-- Compiling module simple_dsp
+
+Top level modules:
+	simple_dsp
+End time: 21:19:55 on Aug 09,2025, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0

@@ -11,4 +11,4 @@ add wave alsu_tb/DUT.Invalid_Case
 
 run -all
 
-# quit -sim
+quit -sim

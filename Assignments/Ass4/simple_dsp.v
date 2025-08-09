@@ -23,7 +23,7 @@ module simple_dsp(
                     D_reg,
                     pre_adder_out;
     reg [35 : 0]    multiplier_out;
-    input [47 : 0]  C_reg,
+    reg [47 : 0]    C_reg,
                     P_reg;
     
     // First Stage
@@ -43,7 +43,7 @@ module simple_dsp(
     end
 
     // Second Stage
-    generate;
+    generate
         case(OPERATION)
             "ADD": begin
                 always @(posedge clk or negedge rst_n) begin
@@ -75,7 +75,7 @@ module simple_dsp(
     // Third Stage
     always @(posedge clk or negedge rst_n) begin
         if(~rst_n) begin
-            multiplier_out <= 0
+            multiplier_out <= 0;
         end
         else begin
             multiplier_out <= A1_reg * pre_adder_out;
@@ -83,7 +83,7 @@ module simple_dsp(
     end
 
     // Last Stage
-    generate;
+    generate
         case(OPERATION)
             "ADD": begin
                 always @(posedge clk or negedge rst_n) begin
