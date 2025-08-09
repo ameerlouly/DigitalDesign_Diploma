@@ -1,4 +1,11 @@
-D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v
+D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/time_mux_tb.v {1 {vlog -work work -vopt -stats=none D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/time_mux_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module time_mux_tb
+
+Top level modules:
+	time_mux_tb
+
+} {} {}} D:/GitHub/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v {1 {vlog -work work -vopt -stats=none D:/Github/DigitalDesign_Diploma/Assignments/Ass4/ALSU_tb.v
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling module alsu_tb
 
